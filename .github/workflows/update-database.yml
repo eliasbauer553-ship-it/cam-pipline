@@ -1,0 +1,76 @@
+name: Update Camera Database
+
+# Läuft jede Nacht um 03:17 UTC (bewusst keine volle Stunde, um nicht mit
+# tausenden anderen Cron-Jobs gleichzeitig auf denselben GitHub-Actions-
+# Runner-Pool zu treffen) — plus manuell auslösbar über den "Run workflow"-
+# Button, plus automatisch bei Änderungen an der Pipeline selbst.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "pipeline/**"
+      - ".github/workflows/update-database.yml"
+
+# Der Job braucht Schreibrechte, um das aktualisierte JSON zurück ins Repo
+# zu committen.
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Pipeline ausführen (alle 8 Stages)
+        run: python -m pipeline.run_pipeline
+        # Kein "continue-on-error" — wenn die Pipeline crasht, soll der Job
+        # rot werden und eine Benachrichtigung auslösen, nicht still
+        # eine alte/kaputte cameras.json committen.
+
+      - name: Ergebnis prüfen (Sanity-Check vor dem Commit)
+        run: |
+          python - <<'PY'
+          import json, sys
+          data = json.load(open("data/canonical/cameras.json"))
+          n = data.get("camera_count", 0)
+          print(f"Kameras in kanonischer DB: {n}")
+          if n < 50:
+              print("::error::Ergebnis wirkt unplausibel klein (<50 Kameras) – Commit wird abgebrochen.")
+              sys.exit(1)
+          PY
+
+      - name: Änderungen committen, falls vorhanden
+        run: |
+          git config user.name "camera-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/canonical data/raw
+          if git diff --cached --quiet; then
+            echo "Keine inhaltlichen Änderungen — kein Commit nötig."
+          else
+            git commit -m "chore: Kamera-Datenbank automatisch aktualisiert ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - name: Quality-Report als Job-Zusammenfassung anzeigen
+        if: always()
+        run: |
+          if [ -f data/canonical/quality_report.json ]; then
+            echo "### Quality Report" >> "$GITHUB_STEP_SUMMARY"
+            echo '```json' >> "$GITHUB_STEP_SUMMARY"
+            cat data/canonical/quality_report.json >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+          fi

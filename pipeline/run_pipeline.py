@@ -64,7 +64,8 @@ def main(skip_fetch: bool = False, sources: list[str] | None = None) -> dict:
     log.info("=== STAGE 8: CANONICAL DATABASE ===")
     payload = run_canonical_db(scored, quality_report)
 
-    log.info("=== FERTIG: %s Kameras in der kanonischen Datenbank ===", payload["camera_count"])
+    log.info("=== FERTIG: %s Kameras + %s Objektive in der kanonischen Datenbank ===",
+              payload["camera_count"], payload["lens_count"])
     return payload
 
 

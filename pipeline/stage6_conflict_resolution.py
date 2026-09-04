@@ -48,6 +48,7 @@ def resolve_record(enriched: dict) -> dict:
 
     return {
         "match_group_id": enriched["match_group_id"],
+        "entity_type": enriched["entity_type"],
         "match_confidence": enriched["match_confidence"],
         "sources_present": enriched["sources_present"],
         "raw_member_count": enriched["raw_member_count"],

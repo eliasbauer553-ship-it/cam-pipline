@@ -22,7 +22,8 @@ pipeline/
   run_pipeline.py              Orchestriert alle 8 Stages
 data/
   raw/<quelle>/latest.json     Rohstand pro Quelle (Audit-Trail)
-  canonical/cameras.json       ← DAS lädt die Web-App
+  canonical/cameras.json       ← Kameras — das lädt die Web-App
+  canonical/lenses.json        ← Objektive — das lädt der Objektiv-Tab
   canonical/quality_report.json
 .github/workflows/
   update-database.yml          Nächtlicher Cron-Job (03:17 UTC) + manueller Trigger
@@ -74,6 +75,43 @@ statische Kopie einzubetten — dann wächst sie automatisch mit, sobald die
 nächtliche Pipeline neue Kameras findet, ganz ohne dass die App-Datei neu
 gebaut werden muss.
 
+## Zwei reale Bugs, die dein erster Produktionslauf aufgedeckt hat
+
+Dein `quality_report` aus einem echten Lauf (817 Records, 0× "hoch",
+avg_completeness 0.417) hat zwei Fehler sichtbar gemacht, die in der
+Sandbox mit kleineren Testläufen nicht auffielen:
+
+1. **Objektive wurden als Kameras erwartet.** Der Matcher gruppierte nur
+   nach Marke, nicht nach Entitätstyp — 454 von 596 Clustern waren in
+   Wahrheit Objektive aus `lens_db`, denen dann eine Sensorgröße "fehlte"
+   (die sie als Objektiv nie haben können). **Fix:** `entity_type`
+   ("camera"/"lens") wird jetzt in Stage 3 gesetzt, der Matcher gruppiert
+   danach, und Stage 8 schreibt zwei getrennte Dateien:
+   `data/canonical/cameras.json` und `data/canonical/lenses.json`, jede
+   mit eigenem, passendem Vollständigkeits-Maßstab (`EXPECTED_FIELDS_CAMERA`
+   vs. `EXPECTED_FIELDS_LENS` in `config.py`).
+2. **Falsche Feldnamen beim Objektiv-Enrichment.** Stage 5 griff auf
+   `fMin`/`fMax`/`aWide` zu — das sind Feldnamen aus einem anderen,
+   verwandten Projekt, nicht aus dem tatsächlichen `lens-db`-Schema
+   (`focalMin`/`focalMax`/`apertureMaxWide`). Dadurch blieben Brennweite
+   und Blende bei praktisch jedem Objektiv leer. **Fix:** korrekte
+   Feldnamen, plus `price_usd`/`product_url` neu mit aufgenommen.
+
+Effekt des Doppel-Fixes im selben Testlauf (nur `camera_sensor_db` +
+`lens_db`, ohne Wikidata):
+
+| | vorher | nachher |
+|---|---|---|
+| Objektive Tier "hoch" | 0 / 454 | **454 / 454** |
+| Objektive avg. Vollständigkeit | 0,40 | **0,999** |
+| Kameras (unverfälscht, ohne Objektiv-Beimischung) | vermischt mit 454 Objektiven | sauber 142 |
+
+Lehre daraus, falls du die Pipeline weiter erweiterst: **jede neue Quelle
+sollte in Stage 3 explizit einen `entity_type` setzen**, und Feldnamen
+in Stage 5 immer gegen einen echten Rohdatensatz verifizieren
+(`data/raw/<quelle>/latest.json` nach einem `--skip-fetch`-Lauf), nicht
+aus dem Gedächtnis übernehmen.
+
 ## Was diese Pipeline NICHT kann (bewusste Grenzen)
 
 - **Kein EAN/MPN-Abgleich gegen Händler.** B&H, Idealo & Co. haben keine
@@ -103,8 +141,9 @@ gebaut werden muss.
   ein Blick in den Job-Log.
 - **Vollständig getestet in dieser Sandbox:** Discovery + komplette
   Verarbeitungskette gegen die beiden echten, offenen GitHub-Datensätze
-  (Camera-Sensor-Database, lens-db) — End-to-End-Lauf erzeugt aktuell 596
-  kanonische Cluster aus 908 Rohsätzen, siehe `tests/`.
+  (Camera-Sensor-Database, lens-db) — End-to-End-Lauf erzeugt aktuell
+  **142 Kamera-Einträge + 454 Objektiv-Einträge** aus 908 Rohsätzen,
+  siehe `tests/`.
 
 ## Erweitern
 

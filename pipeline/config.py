@@ -66,9 +66,13 @@ DEFAULT_PRIORITY = ["wikidata", "camera_sensor_db", "lens_db"]
 # dieselbe Kamera" gelten (Stage 4 — Matcher).
 FUZZY_MATCH_THRESHOLD = 88
 
-# Felder, die für den Quality-Score (Stage 7) gezählt werden.
-EXPECTED_FIELDS = [
+EXPECTED_FIELDS_CAMERA = [
     "brand", "model", "canonical_name", "mount", "sensor_width_mm",
     "sensor_height_mm", "resolution_w", "resolution_h", "image_url",
     "release_date",
 ]
+EXPECTED_FIELDS_LENS = [
+    "brand", "model", "canonical_name", "mount", "product_url",
+    "release_date", "focal_min", "focal_max", "aperture_max", "weight_g",
+]
+EXPECTED_FIELDS = EXPECTED_FIELDS_CAMERA  # Rückwärtskompatibilität

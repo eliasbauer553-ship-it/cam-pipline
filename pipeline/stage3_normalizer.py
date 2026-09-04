@@ -82,6 +82,7 @@ def normalize_record(rec: dict) -> dict:
     """Nimmt EINEN Rohsatz (aus beliebiger Quelle) und ergänzt die
     normalisierten Felder, ohne die Rohfelder zu entfernen."""
     source = rec.get("_source")
+    entity_type = "camera"  # Default; lens_db überschreibt unten
 
     if source == "camera_sensor_db":
         raw_brand = rec.get("vendor_raw", "")
@@ -95,6 +96,7 @@ def normalize_record(rec: dict) -> dict:
     elif source == "lens_db":
         raw_brand = rec.get("brand", "")
         raw_model = rec.get("model", "")
+        entity_type = "lens"
     else:
         log.warning("Unbekannte Quelle beim Normalisieren: %s", source)
         raw_brand, raw_model = "", ""
@@ -103,6 +105,7 @@ def normalize_record(rec: dict) -> dict:
     model = normalize_model(raw_model, brand)
 
     out = dict(rec)  # Original erhalten
+    out["entity_type"] = entity_type
     out["brand_normalized"] = brand
     out["model_normalized"] = model
     out["canonical_name_candidate"] = canonical_name(brand, model)

@@ -18,13 +18,15 @@ log = logging.getLogger("quality_check")
 
 
 def score_record(rec: dict) -> dict:
-    present = sum(1 for f in config.EXPECTED_FIELDS if rec.get(f))
-    completeness = round(present / len(config.EXPECTED_FIELDS), 3)
+    is_lens = rec.get("entity_type") == "lens"
+    expected = config.EXPECTED_FIELDS_LENS if is_lens else config.EXPECTED_FIELDS_CAMERA
+    present = sum(1 for f in expected if rec.get(f))
+    completeness = round(present / len(expected), 3)
 
     flags = []
     if not rec.get("image_url"):
         flags.append("kein_bild")
-    if not rec.get("sensor_width_mm"):
+    if not is_lens and not rec.get("sensor_width_mm"):
         flags.append("keine_sensorgroesse")
     if rec.get("match_confidence", 100) < config.FUZZY_MATCH_THRESHOLD:
         flags.append("unsichere_zuordnung")
@@ -47,19 +49,37 @@ def score_record(rec: dict) -> dict:
     return out
 
 
-def run_quality_check(resolved_records: list[dict]) -> tuple[list[dict], dict]:
-    scored = [score_record(r) for r in resolved_records]
-
-    report = {
+def aggregate_report(scored: list[dict]) -> dict:
+    """Fasst eine Liste bereits gescorter Records zu einem Report zusammen.
+    Wiederverwendet in Stage 8, um pro Ausgabedatei (Kameras/Objektive)
+    einen eigenen, ehrlichen Report statt eines vermischten zu erzeugen."""
+    if not scored:
+        return {
+            "total_records": 0, "by_tier": {"hoch": 0, "mittel": 0, "niedrig": 0},
+            "avg_completeness": 0, "records_missing_image": 0,
+            "records_with_conflicts": 0, "records_single_source": 0,
+        }
+    return {
         "total_records": len(scored),
         "by_tier": {
             tier: sum(1 for r in scored if r["quality_tier"] == tier)
             for tier in ("hoch", "mittel", "niedrig")
         },
-        "avg_completeness": round(sum(r["completeness_score"] for r in scored) / len(scored), 3) if scored else 0,
+        "avg_completeness": round(sum(r["completeness_score"] for r in scored) / len(scored), 3),
         "records_missing_image": sum(1 for r in scored if "kein_bild" in r["quality_flags"]),
         "records_with_conflicts": sum(1 for r in scored if any(f.startswith("feldkonflikte") for f in r["quality_flags"])),
         "records_single_source": sum(1 for r in scored if "nur_eine_quelle" in r["quality_flags"]),
     }
-    log.info("Quality Check: %s", report)
+
+
+def run_quality_check(resolved_records: list[dict]) -> tuple[list[dict], dict]:
+    scored = [score_record(r) for r in resolved_records]
+    report = aggregate_report(scored)
+    report["by_entity_type"] = {
+        "camera": aggregate_report([r for r in scored if r.get("entity_type") == "camera"]),
+        "lens": aggregate_report([r for r in scored if r.get("entity_type") == "lens"]),
+    }
+    log.info("Quality Check (gesamt): %s", {k: v for k, v in report.items() if k != "by_entity_type"})
+    log.info("Quality Check (Kameras): %s", report["by_entity_type"]["camera"])
+    log.info("Quality Check (Objektive): %s", report["by_entity_type"]["lens"])
     return scored, report

@@ -70,13 +70,20 @@ def enrich_cluster(cluster: dict) -> dict:
             add("manufacturer", member.get("manufacturer_raw"), src)
 
         elif src == "lens_db":
-            # Objektiv-Datensatz taucht nur auf, wenn ein Kamera-Cluster
-            # zufällig denselben Marken+Modell-Namen trägt (selten, aber
-            # z.B. bei Systemkameras mit gleichnamigem Kit-Objektiv möglich)
             add("mount", ", ".join(member.get("mounts", [])), src)
+            add("focal_min", member.get("focalMin"), src)
+            add("focal_max", member.get("focalMax"), src)
+            add("aperture_max", member.get("apertureMaxWide"), src)
+            add("weight_g", member.get("weight"), src)
+            add("release_date", member.get("year"), src)
+            add("price_usd", member.get("priceUSD"), src)
+            add("product_url", member.get("productUrl"), src)
+            # lens-db führt aktuell keine Produktfotos (kein imageUrl-Feld
+            # im Quell-Schema) — bleibt ehrlich leer statt geraten/erfunden.
 
     return {
         "match_group_id": cluster["match_group_id"],
+        "entity_type": cluster["entity_type"],
         "match_confidence": cluster["match_confidence"],
         "sources_present": sorted(sources_present),
         "field_candidates": field_candidates,

@@ -32,12 +32,13 @@ def run_matcher(normalized_records: list[dict]) -> list[dict]:
     """
     by_brand: dict[str, list[dict]] = {}
     for rec in normalized_records:
-        by_brand.setdefault(rec["brand_normalized"], []).append(rec)
+        key = (rec["entity_type"], rec["brand_normalized"])
+        by_brand.setdefault(key, []).append(rec)
 
     all_clusters: list[dict] = []
     group_counter = 0
 
-    for brand, recs in by_brand.items():
+    for (entity_type, brand), recs in by_brand.items():
         clusters: list[dict] = []  # {"model_key": str, "members": [rec, ...]}
         for rec in recs:
             model_key = rec["model_normalized"] or rec["canonical_name_candidate"]
@@ -54,6 +55,7 @@ def run_matcher(normalized_records: list[dict]) -> list[dict]:
                 group_counter += 1
                 clusters.append({
                     "match_group_id": f"grp_{group_counter:05d}",
+                    "entity_type": entity_type,
                     "model_key": model_key,
                     "members": [rec],
                     "scores": [100.0],  # erstes Mitglied definiert den Cluster

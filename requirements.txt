@@ -1,7 +1,0 @@
-# Die Pipeline nutzt bewusst nur die Python-Standardbibliothek
-# (urllib, tarfile, json, difflib) — keine Abhängigkeiten nötig,
-# damit der GitHub-Actions-Job ohne Extra-Install-Risiko läuft.
-#
-# Wenn du das Fuzzy-Matching in stage4_matcher.py später gegen die
-# schnellere/robustere Bibliothek "rapidfuzz" tauschen willst:
-# rapidfuzz>=3.9

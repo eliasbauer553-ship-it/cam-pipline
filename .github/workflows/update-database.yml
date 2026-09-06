@@ -45,11 +45,15 @@ jobs:
         run: |
           python - <<'PY'
           import json, sys
-          data = json.load(open("data/canonical/cameras.json"))
-          n = data.get("camera_count", 0)
-          print(f"Kameras in kanonischer DB: {n}")
-          if n < 50:
-              print("::error::Ergebnis wirkt unplausibel klein (<50 Kameras) – Commit wird abgebrochen.")
+          cams = json.load(open("data/canonical/cameras.json"))
+          lenses = json.load(open("data/canonical/lenses.json"))
+          n_cam, n_lens = cams.get("count", 0), lenses.get("count", 0)
+          print(f"Kameras: {n_cam} | Objektive: {n_lens}")
+          if n_cam < 50:
+              print("::error::Kamera-Ergebnis wirkt unplausibel klein (<50) – Commit wird abgebrochen.")
+              sys.exit(1)
+          if n_lens < 50:
+              print("::error::Objektiv-Ergebnis wirkt unplausibel klein (<50) – Commit wird abgebrochen.")
               sys.exit(1)
           PY
 

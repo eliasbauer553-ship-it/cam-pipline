@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-06T21:45:28Z",
+  "generated_at": "2026-09-07T08:29:16Z",
   "pipeline_version": "1.1",
   "entity_type": "camera",
   "quality_report": {
     "total_records": 378,
     "by_tier": {
-      "hoch": 13,
-      "mittel": 276,
+      "hoch": 10,
+      "mittel": 279,
       "niedrig": 89
     },
-    "avg_completeness": 0.463,
-    "records_missing_image": 220,
+    "avg_completeness": 0.461,
+    "records_missing_image": 230,
     "records_with_conflicts": 22,
     "records_single_source": 355
   },
@@ -366,7 +366,7 @@
       ]
     },
     {
-      "id": "grp_01029",
+      "id": "grp_01030",
       "brand": "Bae Systems",
       "model": "AN/PAS-13",
       "canonical_name": "Bae Systems AN/PAS-13",
@@ -390,7 +390,7 @@
       ]
     },
     {
-      "id": "grp_01030",
+      "id": "grp_01031",
       "brand": "Bae Systems",
       "model": "AN/PAS-36",
       "canonical_name": "Bae Systems AN/PAS-36",
@@ -644,18 +644,17 @@
       "sensor_height_mm": 11.88,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -669,18 +668,17 @@
       "sensor_height_mm": 7.02,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -694,18 +692,17 @@
       "sensor_height_mm": 14.25,
       "resolution_w": 4608,
       "resolution_h": 2592,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.8,
-      "quality_tier": "hoch",
+      "completeness_score": 0.7,
+      "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "feldkonflikte:model,canonical_name,sensor_mode_name"
       ]
     },
@@ -719,18 +716,17 @@
       "sensor_height_mm": 11.88,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "feldkonflikte:model,canonical_name,sensor_width_mm"
       ]
     },
@@ -744,18 +740,17 @@
       "sensor_height_mm": 7.344,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -769,18 +764,17 @@
       "sensor_height_mm": 20.88,
       "resolution_w": 8160,
       "resolution_h": 7200,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.8,
-      "quality_tier": "hoch",
+      "completeness_score": 0.7,
+      "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -794,23 +788,22 @@
       "sensor_height_mm": 14.25,
       "resolution_w": 4608,
       "resolution_h": 2592,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.8,
-      "quality_tier": "hoch",
+      "completeness_score": 0.7,
+      "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_01054",
+      "id": "grp_01058",
       "brand": "Bushnell Corporation",
       "model": "BUSHNELL BS368",
       "canonical_name": "Bushnell Corporation BUSHNELL BS368",
@@ -844,18 +837,17 @@
       "sensor_height_mm": 20.25,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -869,19 +861,18 @@
       "sensor_height_mm": 15.7,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Canon_EF_70-200mm_f2.8L_IS_II_USM_%2B_EOS_1D_Mk_IV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 3.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2019-01-01",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -896,19 +887,18 @@
       "sensor_height_mm": 20.25,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Canon_EOS-1DX_Mark_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2011-10-18",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1633,7 +1623,7 @@
       ]
     },
     {
-      "id": "grp_01034",
+      "id": "grp_01037",
       "brand": "Contax",
       "model": "Ia-CnAM 43086",
       "canonical_name": "Contax Ia-CnAM 43086",
@@ -1931,7 +1921,7 @@
       ]
     },
     {
-      "id": "grp_01031",
+      "id": "grp_01032",
       "brand": "Drs Technologies",
       "model": "AN/PAS-13",
       "canonical_name": "Drs Technologies AN/PAS-13",
@@ -2780,7 +2770,7 @@
       ]
     },
     {
-      "id": "grp_01042",
+      "id": "grp_01045",
       "brand": "Jvc",
       "model": "GR-D870",
       "canonical_name": "Jvc GR-D870",
@@ -2854,7 +2844,7 @@
       ]
     },
     {
-      "id": "grp_01043",
+      "id": "grp_01046",
       "brand": "Konica Minolta",
       "model": "Q131675054",
       "canonical_name": "Konica Minolta Q131675054",
@@ -2879,7 +2869,7 @@
       ]
     },
     {
-      "id": "grp_01032",
+      "id": "grp_01033",
       "brand": "L3Harris Technologies",
       "model": "AN/PAS-13",
       "canonical_name": "L3Harris Technologies AN/PAS-13",
@@ -2903,7 +2893,7 @@
       ]
     },
     {
-      "id": "grp_01025",
+      "id": "grp_01023",
       "brand": "Leica Camera",
       "model": "Q125876801",
       "canonical_name": "Leica Camera Q125876801",
@@ -2928,7 +2918,7 @@
       ]
     },
     {
-      "id": "grp_01037",
+      "id": "grp_01040",
       "brand": "Leonardo Drs",
       "model": "AN/PAS-35",
       "canonical_name": "Leonardo Drs AN/PAS-35",
@@ -4147,7 +4137,7 @@
       ]
     },
     {
-      "id": "grp_01044",
+      "id": "grp_01027",
       "brand": "Panasonic Holdings Corporation",
       "model": "Panasonic AG-HPX371 E",
       "canonical_name": "Panasonic Holdings Corporation Panasonic AG-HPX371 E",
@@ -4171,7 +4161,7 @@
       ]
     },
     {
-      "id": "grp_01045",
+      "id": "grp_01025",
       "brand": "Panasonic Holdings Corporation",
       "model": "Panasonic Lumix DC-G100",
       "canonical_name": "Panasonic Holdings Corporation Panasonic Lumix DC-G100",
@@ -4195,7 +4185,7 @@
       ]
     },
     {
-      "id": "grp_01046",
+      "id": "grp_01026",
       "brand": "Panasonic Holdings Corporation",
       "model": "Q137713192",
       "canonical_name": "Panasonic Holdings Corporation Q137713192",
@@ -4317,7 +4307,7 @@
       ]
     },
     {
-      "id": "grp_01028",
+      "id": "grp_01029",
       "brand": "Pentacon",
       "model": "Praktica LTL2",
       "canonical_name": "Pentacon Praktica LTL2",
@@ -4341,7 +4331,7 @@
       ]
     },
     {
-      "id": "grp_01027",
+      "id": "grp_01034",
       "brand": "Polaroid Corporation",
       "model": "I-Zone",
       "canonical_name": "Polaroid Corporation I-Zone",
@@ -4365,7 +4355,7 @@
       ]
     },
     {
-      "id": "grp_01026",
+      "id": "grp_01035",
       "brand": "Polaroid Corporation",
       "model": "Polaroid 35mm AF",
       "canonical_name": "Polaroid Corporation Polaroid 35mm AF",
@@ -4389,7 +4379,7 @@
       ]
     },
     {
-      "id": "grp_01023",
+      "id": "grp_01021",
       "brand": "Praktica",
       "model": "DCZ 10.4",
       "canonical_name": "Praktica DCZ 10.4",
@@ -4413,7 +4403,7 @@
       ]
     },
     {
-      "id": "grp_01038",
+      "id": "grp_01041",
       "brand": "Pudu Robotics",
       "model": "Kerfuś",
       "canonical_name": "Pudu Robotics Kerfuś",
@@ -4437,7 +4427,7 @@
       ]
     },
     {
-      "id": "grp_01033",
+      "id": "grp_01036",
       "brand": "Q431361",
       "model": "Polaroid Palette",
       "canonical_name": "Q431361 Polaroid Palette",
@@ -4822,7 +4812,7 @@
       ]
     },
     {
-      "id": "grp_01039",
+      "id": "grp_01042",
       "brand": "Ricoh",
       "model": "PENTAX 17",
       "canonical_name": "Ricoh PENTAX 17",
@@ -4871,7 +4861,7 @@
       ]
     },
     {
-      "id": "grp_01041",
+      "id": "grp_01044",
       "brand": "Rollei",
       "model": "flex 6000 System",
       "canonical_name": "Rollei flex 6000 System",
@@ -4895,7 +4885,7 @@
       ]
     },
     {
-      "id": "grp_01040",
+      "id": "grp_01043",
       "brand": "Rollei",
       "model": "flex SLX",
       "canonical_name": "Rollei flex SLX",
@@ -5016,7 +5006,7 @@
       ]
     },
     {
-      "id": "grp_01035",
+      "id": "grp_01038",
       "brand": "Secam",
       "model": "\"Stylophot Luxe\" camera, circa 1950",
       "canonical_name": "Secam \"Stylophot Luxe\" camera, circa 1950",
@@ -5040,7 +5030,7 @@
       ]
     },
     {
-      "id": "grp_01053",
+      "id": "grp_01028",
       "brand": "Seiko Epson",
       "model": "Epson Perfection V200 Photo",
       "canonical_name": "Seiko Epson Epson Perfection V200 Photo",
@@ -5089,7 +5079,7 @@
       ]
     },
     {
-      "id": "grp_01058",
+      "id": "grp_01024",
       "brand": "Société Lumière",
       "model": "Lumière Super ELJY",
       "canonical_name": "Société Lumière Lumière Super ELJY",
@@ -6292,7 +6282,7 @@
       ]
     },
     {
-      "id": "grp_01036",
+      "id": "grp_01039",
       "brand": "Steineck Camera Werk",
       "model": "Steineck ABC",
       "canonical_name": "Steineck Camera Werk Steineck ABC",
@@ -6412,7 +6402,7 @@
       ]
     },
     {
-      "id": "grp_00941",
+      "id": "grp_00940",
       "brand": "Unbekannt",
       "model": "\"Photo-notebook\" camera by Rudolph Krügener, 1888",
       "canonical_name": "Unbekannt \"Photo-notebook\" camera by Rudolph Krügener, 1888",
@@ -6532,7 +6522,7 @@
       ]
     },
     {
-      "id": "grp_00926",
+      "id": "grp_00962",
       "brand": "Unbekannt",
       "model": "AFA 39 aerial camera (Russia)",
       "canonical_name": "Unbekannt AFA 39 aerial camera (Russia)",
@@ -6556,7 +6546,7 @@
       ]
     },
     {
-      "id": "grp_00923",
+      "id": "grp_00922",
       "brand": "Unbekannt",
       "model": "Admira 8F",
       "canonical_name": "Unbekannt Admira 8F",
@@ -6629,7 +6619,7 @@
       ]
     },
     {
-      "id": "grp_00964",
+      "id": "grp_00966",
       "brand": "Unbekannt",
       "model": "Autokon",
       "canonical_name": "Unbekannt Autokon",
@@ -6726,7 +6716,7 @@
       ]
     },
     {
-      "id": "grp_00965",
+      "id": "grp_00967",
       "brand": "Unbekannt",
       "model": "Bolyguard SG2060-K",
       "canonical_name": "Unbekannt Bolyguard SG2060-K",
@@ -6750,7 +6740,7 @@
       ]
     },
     {
-      "id": "grp_00959",
+      "id": "grp_00958",
       "brand": "Unbekannt",
       "model": "Camera of the Italian Archaeological Mission (with tripod)",
       "canonical_name": "Unbekannt Camera of the Italian Archaeological Mission (with tripod)",
@@ -6774,7 +6764,7 @@
       ]
     },
     {
-      "id": "grp_00956",
+      "id": "grp_00955",
       "brand": "Unbekannt",
       "model": "Cameras for All-Sky Surveillance",
       "canonical_name": "Unbekannt Cameras for All-Sky Surveillance",
@@ -6799,7 +6789,7 @@
       ]
     },
     {
-      "id": "grp_00927",
+      "id": "grp_00926",
       "brand": "Unbekannt",
       "model": "Canon EOS Rebel GII",
       "canonical_name": "Unbekannt Canon EOS Rebel GII",
@@ -6824,7 +6814,7 @@
       ]
     },
     {
-      "id": "grp_00928",
+      "id": "grp_00927",
       "brand": "Unbekannt",
       "model": "Chromagraph DC 300",
       "canonical_name": "Unbekannt Chromagraph DC 300",
@@ -6896,7 +6886,7 @@
       ]
     },
     {
-      "id": "grp_00944",
+      "id": "grp_00943",
       "brand": "Unbekannt",
       "model": "CodeCheck app",
       "canonical_name": "Unbekannt CodeCheck app",
@@ -6921,7 +6911,7 @@
       ]
     },
     {
-      "id": "grp_00925",
+      "id": "grp_00924",
       "brand": "Unbekannt",
       "model": "Concealed Vest Camera",
       "canonical_name": "Unbekannt Concealed Vest Camera",
@@ -6970,7 +6960,7 @@
       ]
     },
     {
-      "id": "grp_00929",
+      "id": "grp_00928",
       "brand": "Unbekannt",
       "model": "CueCat",
       "canonical_name": "Unbekannt CueCat",
@@ -7092,7 +7082,7 @@
       ]
     },
     {
-      "id": "grp_00962",
+      "id": "grp_00963",
       "brand": "Unbekannt",
       "model": "FogCam",
       "canonical_name": "Unbekannt FogCam",
@@ -7142,7 +7132,7 @@
       ]
     },
     {
-      "id": "grp_00940",
+      "id": "grp_00939",
       "brand": "Unbekannt",
       "model": "Hasselblad 500 EL, 1968 - Musée Nicéphore Niépce",
       "canonical_name": "Unbekannt Hasselblad 500 EL, 1968 - Musée Nicéphore Niépce",
@@ -7166,7 +7156,7 @@
       ]
     },
     {
-      "id": "grp_00947",
+      "id": "grp_00946",
       "brand": "Unbekannt",
       "model": "Hasselblad 500 EL/M at Cité de l'Espace",
       "canonical_name": "Unbekannt Hasselblad 500 EL/M at Cité de l'Espace",
@@ -7215,7 +7205,7 @@
       ]
     },
     {
-      "id": "grp_00967",
+      "id": "grp_00925",
       "brand": "Unbekannt",
       "model": "Hunting camera",
       "canonical_name": "Unbekannt Hunting camera",
@@ -7289,7 +7279,7 @@
       ]
     },
     {
-      "id": "grp_00954",
+      "id": "grp_00953",
       "brand": "Unbekannt",
       "model": "JVC GR-D200",
       "canonical_name": "Unbekannt JVC GR-D200",
@@ -7363,7 +7353,7 @@
       ]
     },
     {
-      "id": "grp_00932",
+      "id": "grp_00931",
       "brand": "Unbekannt",
       "model": "Kodak F3 DCS-CnAM 43706",
       "canonical_name": "Unbekannt Kodak F3 DCS-CnAM 43706",
@@ -7411,7 +7401,7 @@
       ]
     },
     {
-      "id": "grp_00949",
+      "id": "grp_00948",
       "brand": "Unbekannt",
       "model": "Kodak instant camera",
       "canonical_name": "Unbekannt Kodak instant camera",
@@ -7486,7 +7476,7 @@
       ]
     },
     {
-      "id": "grp_00943",
+      "id": "grp_00942",
       "brand": "Unbekannt",
       "model": "Le Franceville",
       "canonical_name": "Unbekannt Le Franceville",
@@ -7534,7 +7524,7 @@
       ]
     },
     {
-      "id": "grp_00930",
+      "id": "grp_00929",
       "brand": "Unbekannt",
       "model": "Logitech VideoMan-Musée Bolo",
       "canonical_name": "Unbekannt Logitech VideoMan-Musée Bolo",
@@ -7558,7 +7548,7 @@
       ]
     },
     {
-      "id": "grp_00924",
+      "id": "grp_00923",
       "brand": "Unbekannt",
       "model": "Lunar Reconnaissance Orbiter Camera",
       "canonical_name": "Unbekannt Lunar Reconnaissance Orbiter Camera",
@@ -7630,7 +7620,7 @@
       ]
     },
     {
-      "id": "grp_00922",
+      "id": "grp_00960",
       "brand": "Unbekannt",
       "model": "Minolta camera",
       "canonical_name": "Unbekannt Minolta camera",
@@ -7778,7 +7768,7 @@
       ]
     },
     {
-      "id": "grp_00951",
+      "id": "grp_00950",
       "brand": "Unbekannt",
       "model": "Panasonic SDR-S26",
       "canonical_name": "Unbekannt Panasonic SDR-S26",
@@ -7802,7 +7792,7 @@
       ]
     },
     {
-      "id": "grp_00937",
+      "id": "grp_00936",
       "brand": "Unbekannt",
       "model": "Photo album camera-CNAM 16483",
       "canonical_name": "Unbekannt Photo album camera-CNAM 16483",
@@ -7826,7 +7816,7 @@
       ]
     },
     {
-      "id": "grp_00934",
+      "id": "grp_00933",
       "brand": "Unbekannt",
       "model": "Photo-Tie",
       "canonical_name": "Unbekannt Photo-Tie",
@@ -7850,7 +7840,7 @@
       ]
     },
     {
-      "id": "grp_00931",
+      "id": "grp_00930",
       "brand": "Unbekannt",
       "model": "Photo-revolver-CNAM 16477",
       "canonical_name": "Unbekannt Photo-revolver-CNAM 16477",
@@ -7874,7 +7864,7 @@
       ]
     },
     {
-      "id": "grp_00933",
+      "id": "grp_00932",
       "brand": "Unbekannt",
       "model": "Photographic hat-CNAM 43936",
       "canonical_name": "Unbekannt Photographic hat-CNAM 43936",
@@ -7947,7 +7937,7 @@
       ]
     },
     {
-      "id": "grp_00952",
+      "id": "grp_00951",
       "brand": "Unbekannt",
       "model": "Polaroid 600 series",
       "canonical_name": "Unbekannt Polaroid 600 series",
@@ -7972,7 +7962,7 @@
       ]
     },
     {
-      "id": "grp_00946",
+      "id": "grp_00945",
       "brand": "Unbekannt",
       "model": "Pouva Start",
       "canonical_name": "Unbekannt Pouva Start",
@@ -7997,7 +7987,7 @@
       ]
     },
     {
-      "id": "grp_00953",
+      "id": "grp_00952",
       "brand": "Unbekannt",
       "model": "Praktina",
       "canonical_name": "Unbekannt Praktina",
@@ -8045,7 +8035,7 @@
       ]
     },
     {
-      "id": "grp_00957",
+      "id": "grp_00956",
       "brand": "Unbekannt",
       "model": "Q108329121",
       "canonical_name": "Unbekannt Q108329121",
@@ -8118,7 +8108,7 @@
       ]
     },
     {
-      "id": "grp_00950",
+      "id": "grp_00949",
       "brand": "Unbekannt",
       "model": "Q127445131",
       "canonical_name": "Unbekannt Q127445131",
@@ -8143,7 +8133,7 @@
       ]
     },
     {
-      "id": "grp_00966",
+      "id": "grp_00964",
       "brand": "Unbekannt",
       "model": "Q132525416",
       "canonical_name": "Unbekannt Q132525416",
@@ -8168,7 +8158,7 @@
       ]
     },
     {
-      "id": "grp_00963",
+      "id": "grp_00965",
       "brand": "Unbekannt",
       "model": "Q136826009",
       "canonical_name": "Unbekannt Q136826009",
@@ -8292,7 +8282,7 @@
       ]
     },
     {
-      "id": "grp_00935",
+      "id": "grp_00934",
       "brand": "Unbekannt",
       "model": "Secret camera",
       "canonical_name": "Unbekannt Secret camera",
@@ -8316,7 +8306,7 @@
       ]
     },
     {
-      "id": "grp_00958",
+      "id": "grp_00957",
       "brand": "Unbekannt",
       "model": "Solarcan",
       "canonical_name": "Unbekannt Solarcan",
@@ -8341,7 +8331,7 @@
       ]
     },
     {
-      "id": "grp_00936",
+      "id": "grp_00935",
       "brand": "Unbekannt",
       "model": "Sony CCD-V8AF camcorder",
       "canonical_name": "Unbekannt Sony CCD-V8AF camcorder",
@@ -8365,7 +8355,7 @@
       ]
     },
     {
-      "id": "grp_00938",
+      "id": "grp_00937",
       "brand": "Unbekannt",
       "model": "Sony DCR-PC7E camcorder",
       "canonical_name": "Unbekannt Sony DCR-PC7E camcorder",
@@ -8389,7 +8379,7 @@
       ]
     },
     {
-      "id": "grp_00945",
+      "id": "grp_00944",
       "brand": "Unbekannt",
       "model": "Steineck ABC spy camera",
       "canonical_name": "Unbekannt Steineck ABC spy camera",
@@ -8438,7 +8428,7 @@
       ]
     },
     {
-      "id": "grp_00939",
+      "id": "grp_00938",
       "brand": "Unbekannt",
       "model": "Super Eljy-CnAM 40831",
       "canonical_name": "Unbekannt Super Eljy-CnAM 40831",
@@ -8511,7 +8501,7 @@
       ]
     },
     {
-      "id": "grp_00942",
+      "id": "grp_00941",
       "brand": "Unbekannt",
       "model": "The Kombi",
       "canonical_name": "Unbekannt The Kombi",
@@ -8585,7 +8575,7 @@
       ]
     },
     {
-      "id": "grp_00948",
+      "id": "grp_00947",
       "brand": "Unbekannt",
       "model": "Waistline",
       "canonical_name": "Unbekannt Waistline",
@@ -8610,7 +8600,7 @@
       ]
     },
     {
-      "id": "grp_00960",
+      "id": "grp_00959",
       "brand": "Unbekannt",
       "model": "WebCam NX Ultra",
       "canonical_name": "Unbekannt WebCam NX Ultra",
@@ -8957,7 +8947,7 @@
       ]
     },
     {
-      "id": "grp_00955",
+      "id": "grp_00954",
       "brand": "Unbekannt",
       "model": "fish doorbell",
       "canonical_name": "Unbekannt fish doorbell",
@@ -9178,7 +9168,7 @@
       ]
     },
     {
-      "id": "grp_01022",
+      "id": "grp_01053",
       "brand": "Unistellar",
       "model": "Q121189959",
       "canonical_name": "Unistellar Q121189959",
@@ -9203,7 +9193,7 @@
       ]
     },
     {
-      "id": "grp_01021",
+      "id": "grp_01054",
       "brand": "Unistellar",
       "model": "Q121189996",
       "canonical_name": "Unistellar Q121189996",
@@ -9277,7 +9267,7 @@
       ]
     },
     {
-      "id": "grp_01024",
+      "id": "grp_01022",
       "brand": "Withings",
       "model": "Home",
       "canonical_name": "Withings Home",

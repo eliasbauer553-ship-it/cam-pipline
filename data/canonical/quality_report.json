@@ -1,24 +1,24 @@
 {
   "total_records": 1059,
   "by_tier": {
-    "hoch": 691,
-    "mittel": 279,
+    "hoch": 694,
+    "mittel": 276,
     "niedrig": 89
   },
-  "avg_completeness": 0.807,
-  "records_missing_image": 901,
+  "avg_completeness": 0.808,
+  "records_missing_image": 894,
   "records_with_conflicts": 54,
   "records_single_source": 1004,
   "by_entity_type": {
     "camera": {
       "total_records": 378,
       "by_tier": {
-        "hoch": 10,
-        "mittel": 279,
+        "hoch": 13,
+        "mittel": 276,
         "niedrig": 89
       },
-      "avg_completeness": 0.461,
-      "records_missing_image": 230,
+      "avg_completeness": 0.462,
+      "records_missing_image": 223,
       "records_with_conflicts": 22,
       "records_single_source": 355
     },

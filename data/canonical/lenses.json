@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T08:15:12Z",
+  "generated_at": "2026-09-09T08:18:46Z",
   "pipeline_version": "1.1",
   "entity_type": "lens",
   "quality_report": {
@@ -10,7 +10,7 @@
       "niedrig": 0
     },
     "avg_completeness": 0.999,
-    "records_missing_image": 671,
+    "records_missing_image": 681,
     "records_with_conflicts": 32,
     "records_single_source": 649
   },
@@ -782,18 +782,17 @@
       "weight_g": 3340,
       "price_usd": 22699.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf1200mm-f8-l-is-usm-lens",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2022,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1563,18 +1562,17 @@
       "weight_g": 930,
       "price_usd": 729.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf600mm-f11-is-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2020,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1720,18 +1718,17 @@
       "weight_g": 1260,
       "price_usd": 999.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf800mm-f11-is-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2020,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1747,18 +1744,17 @@
       "weight_g": 3140,
       "price_usd": 18799.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf800mm-f5-6-l-is-usm-lens",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2022,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -2034,18 +2030,17 @@
       "weight_g": 125,
       "price_usd": 399.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xc13-33mmf35-63-ois/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2025,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -2061,18 +2056,17 @@
       "weight_g": 135,
       "price_usd": 349.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xc15-45mmf35-56-ois-pz/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2018,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -2218,18 +2212,17 @@
       "weight_g": 410,
       "price_usd": 1199.95,
       "product_url": "https://www.fujifilm-x.com/global/products/discontinued-lenses/xf10-24mmf4-r-ois/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2014,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "feldkonflikte:model,canonical_name,weight_g,release_date,product_url"
       ]
     },
@@ -2271,18 +2264,17 @@
       "weight_g": 235,
       "price_usd": 999.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf14mmf28-r/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2012,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3026,18 +3018,17 @@
       "weight_g": 805,
       "price_usd": 1799.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf8-16mmf28-r-lm-wr/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2018,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "feldkonflikte:model,canonical_name,focal_min,weight_g,release_date,price_usd,product_url"
       ]
     },
@@ -3079,18 +3070,17 @@
       "weight_g": 215,
       "price_usd": 949.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf8mmf35-r-wr/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2023,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },

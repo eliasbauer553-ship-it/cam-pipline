@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T08:18:46Z",
+  "generated_at": "2026-09-10T08:18:07Z",
   "pipeline_version": "1.1",
   "entity_type": "lens",
   "quality_report": {
@@ -10,7 +10,7 @@
       "niedrig": 0
     },
     "avg_completeness": 0.999,
-    "records_missing_image": 681,
+    "records_missing_image": 671,
     "records_with_conflicts": 32,
     "records_single_source": 649
   },
@@ -2446,17 +2446,18 @@
       "weight_g": 460,
       "price_usd": 999.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf18-120mmf4-lm-pz-wr/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2022,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -2472,17 +2473,18 @@
       "weight_g": 490,
       "price_usd": 999.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf18-135mmf35-56-r-lm-ois-wr/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Fresnel_lens_of_Albarnaz_Lighthouse%2C_Flores%2C_Azores%2C_Portugal_%28PPL1-Corrected%29_2_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2014,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -2498,17 +2500,18 @@
       "weight_g": 310,
       "price_usd": 699.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf18-55mmf28-4-r-lm-ois/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2012,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -2550,17 +2553,18 @@
       "weight_g": 116,
       "price_usd": 699.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf18mmf2-r/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2012,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -2602,17 +2606,18 @@
       "weight_g": 300,
       "price_usd": 799.95,
       "product_url": "https://www.fujifilm-x.com/global/products/discontinued-lenses/xf23mmf14-r/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2013,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "feldkonflikte:model,canonical_name,weight_g,release_date,price_usd,product_url"
       ]
     },
@@ -2628,17 +2633,18 @@
       "weight_g": 180,
       "price_usd": 499.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf23mmf2-r-wr/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fujifilm_X-Pro3_with_Fujinon_XF_23mm_F2_R_WR_%2849919914837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY 2.0",
       "release_date": 2016,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -2654,17 +2660,18 @@
       "weight_g": 90,
       "price_usd": 499.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf23mmf28-r-wr/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/2019_02_Fujifilm_X-T3_with_XF_23mm_2.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2025,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -2680,17 +2687,18 @@
       "weight_g": 78,
       "price_usd": 399.95,
       "product_url": "https://www.fujifilm-x.com/global/products/discontinued-lenses/xf27mmf28/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Fujifilm_X-E4_with_XF_27mm_F2.8_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2013,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "feldkonflikte:model,canonical_name,weight_g,release_date,price_usd,product_url"
       ]
     },
@@ -2706,17 +2714,18 @@
       "weight_g": 195,
       "price_usd": 699.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf30mmf28-r-lm-wr-macro/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2022,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -2732,17 +2741,18 @@
       "weight_g": 360,
       "price_usd": 949.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf33mmf14-r-lm-wr/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2021,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },

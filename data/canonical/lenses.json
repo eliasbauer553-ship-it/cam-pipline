@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T08:28:28Z",
+  "generated_at": "2026-09-14T09:06:29Z",
   "pipeline_version": "1.1",
   "entity_type": "lens",
   "quality_report": {
@@ -28,17 +28,18 @@
       "weight_g": 504,
       "price_usd": 449,
       "product_url": "https://7artisans.store/products/af-10mm-f2-5-full-frame-lens-for-e-z-l",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2026,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -80,6 +81,59 @@
       "weight_g": 1014,
       "price_usd": 689,
       "product_url": "https://7artisans.store/products/af-135mm-f1-8-full-frame-lens-for-e-z-l",
+      "image_url": null,
+      "image_license_hint": null,
+      "release_date": 2026,
+      "sources": [
+        "lens_db"
+      ],
+      "match_confidence": 100.0,
+      "completeness_score": 1.0,
+      "quality_tier": "hoch",
+      "quality_flags": [
+        "kein_bild",
+        "nur_eine_quelle"
+      ]
+    },
+    {
+      "id": "grp_00176",
+      "brand": "7Artisans",
+      "model": "AF 24mm F1.8",
+      "canonical_name": "7Artisans AF 24mm F1.8",
+      "mount": "Sony E, Nikon Z, L-Mount",
+      "focal_min": 24,
+      "focal_max": 24,
+      "aperture_max": 1.8,
+      "weight_g": 424,
+      "price_usd": 329,
+      "product_url": "https://7artisans.store/products/af-24mm-f1-8-full-frame-lens-for-e",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
+      "release_date": 2025,
+      "sources": [
+        "lens_db",
+        "wikimedia_commons"
+      ],
+      "match_confidence": 100.0,
+      "completeness_score": 1.0,
+      "quality_tier": "hoch",
+      "quality_flags": [
+        "bild_via_wikimedia_fallback",
+        "nur_eine_quelle"
+      ]
+    },
+    {
+      "id": "grp_00177",
+      "brand": "7Artisans",
+      "model": "AF 25mm F1.8 Lite",
+      "canonical_name": "7Artisans AF 25mm F1.8 Lite",
+      "mount": "Sony E, Fujifilm X",
+      "focal_min": 25,
+      "focal_max": 25,
+      "aperture_max": 1.8,
+      "weight_g": 183,
+      "price_usd": 125,
+      "product_url": "https://7artisans.store/products/af-25-35-50mm-f1-8-aps-c-lens-for-e-fx-z",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2026,
@@ -96,58 +150,6 @@
       ]
     },
     {
-      "id": "grp_00176",
-      "brand": "7Artisans",
-      "model": "AF 24mm F1.8",
-      "canonical_name": "7Artisans AF 24mm F1.8",
-      "mount": "Sony E, Nikon Z, L-Mount",
-      "focal_min": 24,
-      "focal_max": 24,
-      "aperture_max": 1.8,
-      "weight_g": 424,
-      "price_usd": 329,
-      "product_url": "https://7artisans.store/products/af-24mm-f1-8-full-frame-lens-for-e",
-      "image_url": null,
-      "image_license_hint": null,
-      "release_date": 2025,
-      "sources": [
-        "lens_db"
-      ],
-      "match_confidence": 100.0,
-      "completeness_score": 1.0,
-      "quality_tier": "hoch",
-      "quality_flags": [
-        "kein_bild",
-        "nur_eine_quelle"
-      ]
-    },
-    {
-      "id": "grp_00177",
-      "brand": "7Artisans",
-      "model": "AF 25mm F1.8 Lite",
-      "canonical_name": "7Artisans AF 25mm F1.8 Lite",
-      "mount": "Sony E, Fujifilm X",
-      "focal_min": 25,
-      "focal_max": 25,
-      "aperture_max": 1.8,
-      "weight_g": 183,
-      "price_usd": 125,
-      "product_url": "https://7artisans.store/products/af-25-35-50mm-f1-8-aps-c-lens-for-e-fx-z",
-      "image_url": null,
-      "image_license_hint": null,
-      "release_date": 2026,
-      "sources": [
-        "lens_db"
-      ],
-      "match_confidence": 100.0,
-      "completeness_score": 1.0,
-      "quality_tier": "hoch",
-      "quality_flags": [
-        "kein_bild",
-        "nur_eine_quelle"
-      ]
-    },
-    {
       "id": "grp_00178",
       "brand": "7Artisans",
       "model": "AF 27mm F2.8",
@@ -159,17 +161,18 @@
       "weight_g": 172,
       "price_usd": 90,
       "product_url": "https://7artisans.store/products/27mm-f2-8-af-aps-c-lens-for-e",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2024,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -185,17 +188,18 @@
       "weight_g": 184,
       "price_usd": 169,
       "product_url": "https://7artisans.store/products/af-35mm-f1-4",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2025,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -315,17 +319,18 @@
       "weight_g": 570,
       "price_usd": 278,
       "product_url": "https://7artisans.store/products/7artisans-10mm-f2-8-full-frame-fisheye-lens-for-e-l-r-z-mount",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2024,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -341,17 +346,18 @@
       "weight_g": 504,
       "price_usd": 299,
       "product_url": "https://7artisans.store/products/14mm-f-2-8-full-frame-wide-angle-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2025,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -367,17 +373,18 @@
       "weight_g": 146,
       "price_usd": 89,
       "product_url": "https://7artisans.store/products/18mm-f-5-6-full-frame-lens-for-e-z-l",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2025,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -393,17 +400,18 @@
       "weight_g": 240,
       "price_usd": 139,
       "product_url": "https://7artisans.store/products/7artisans-35mm-f1-2-ii",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2022,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -419,17 +427,18 @@
       "weight_g": 274,
       "price_usd": 189,
       "product_url": "https://7artisans.store/products/35mm-f-1-4-full-frame-lens-for-e-eos-r-z-l",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2024,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -653,18 +662,17 @@
       "weight_g": 570,
       "price_usd": 2299,
       "product_url": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2023,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 0.9,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -836,18 +844,17 @@
       "weight_g": 540,
       "price_usd": 1599,
       "product_url": "https://www.usa.canon.com/shop/p/rf14-35mm-f4-l-is-usm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2021,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -863,18 +870,17 @@
       "weight_g": 578,
       "price_usd": 2599,
       "product_url": "https://www.usa.canon.com/shop/p/rf14mm-f1-4-l-vcm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2026,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1462,18 +1468,17 @@
       "weight_g": 350,
       "price_usd": 1999,
       "product_url": "https://www.usa.canon.com/shop/p/rf5-2mm-f2-8-l-dual-fisheye",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Canon_R5_C_and_RF5.2mm_f2.8_L_dual_fisheye_lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2021,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1619,18 +1624,17 @@
       "weight_g": 476,
       "price_usd": 1899,
       "product_url": "https://www.usa.canon.com/shop/p/rf7-14mm-f2-8-3-5-l-fisheye-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2026,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1854,18 +1858,17 @@
       "weight_g": 150,
       "price_usd": 319.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf-s10-18mm-f4-5-6-3-is-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Canon_RF-S_10-18mm_F4.5-6.3_IS_STM_by_Henry_S%C3%B6derlund_%281-1_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY 2.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2023,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1881,18 +1884,17 @@
       "weight_g": 181,
       "price_usd": 349.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf-s14-30mm-f4-6-3-is-stm-pz",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2025,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1960,18 +1962,17 @@
       "weight_g": 290,
       "price_usd": 1099,
       "product_url": "https://www.usa.canon.com/shop/p/rf-s3-9mm-f3-5-stm-dual-fisheye",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2024,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -2013,18 +2014,17 @@
       "weight_g": 130,
       "price_usd": 409.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf-s7-8mm-f4-stm-dual",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2024,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },

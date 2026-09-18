@@ -1,8 +1,8 @@
 {
   "total_records": 1059,
   "by_tier": {
-    "hoch": 695,
-    "mittel": 275,
+    "hoch": 696,
+    "mittel": 274,
     "niedrig": 89
   },
   "avg_completeness": 0.808,
@@ -13,8 +13,8 @@
     "camera": {
       "total_records": 378,
       "by_tier": {
-        "hoch": 14,
-        "mittel": 275,
+        "hoch": 15,
+        "mittel": 274,
         "niedrig": 89
       },
       "avg_completeness": 0.463,

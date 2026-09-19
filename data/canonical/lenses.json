@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:25:26Z",
+  "generated_at": "2026-09-19T08:10:17Z",
   "pipeline_version": "1.1",
   "entity_type": "lens",
   "quality_report": {
@@ -10,14 +10,14 @@
       "niedrig": 0
     },
     "avg_completeness": 0.999,
-    "records_missing_image": 671,
+    "records_missing_image": 681,
     "records_with_conflicts": 32,
     "records_single_source": 649
   },
   "count": 681,
   "items": [
     {
-      "id": "grp_00173",
+      "id": "grp_00155",
       "brand": "7Artisans",
       "model": "AF 10mm F2.5 MAX",
       "canonical_name": "7Artisans AF 10mm F2.5 MAX",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "id": "grp_00171",
+      "id": "grp_00153",
       "brand": "7Artisans",
       "model": "AF 10mm F2.8 Ultra Wide-angle",
       "canonical_name": "7Artisans AF 10mm F2.8 Ultra Wide-angle",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "id": "grp_00192",
+      "id": "grp_00174",
       "brand": "7Artisans",
       "model": "AF 135mm F1.8 MAX",
       "canonical_name": "7Artisans AF 135mm F1.8 MAX",
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "id": "grp_00176",
+      "id": "grp_00158",
       "brand": "7Artisans",
       "model": "AF 24mm F1.8",
       "canonical_name": "7Artisans AF 24mm F1.8",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "id": "grp_00177",
+      "id": "grp_00159",
       "brand": "7Artisans",
       "model": "AF 25mm F1.8 Lite",
       "canonical_name": "7Artisans AF 25mm F1.8 Lite",
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "id": "grp_00178",
+      "id": "grp_00160",
       "brand": "7Artisans",
       "model": "AF 27mm F2.8",
       "canonical_name": "7Artisans AF 27mm F2.8",
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "id": "grp_00180",
+      "id": "grp_00162",
       "brand": "7Artisans",
       "model": "AF 35mm F1.4",
       "canonical_name": "7Artisans AF 35mm F1.4",
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "id": "grp_00182",
+      "id": "grp_00164",
       "brand": "7Artisans",
       "model": "AF 35mm F1.8",
       "canonical_name": "7Artisans AF 35mm F1.8",
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "id": "grp_00184",
+      "id": "grp_00166",
       "brand": "7Artisans",
       "model": "AF 40mm F2.5",
       "canonical_name": "7Artisans AF 40mm F2.5",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "id": "grp_00187",
+      "id": "grp_00169",
       "brand": "7Artisans",
       "model": "AF 50mm F1.8",
       "canonical_name": "7Artisans AF 50mm F1.8",
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "id": "grp_00191",
+      "id": "grp_00173",
       "brand": "7Artisans",
       "model": "AF 85mm F1.8",
       "canonical_name": "7Artisans AF 85mm F1.8",
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "id": "grp_00172",
+      "id": "grp_00154",
       "brand": "7Artisans",
       "model": "MF 10mm f/2.8 Mark II Fisheye",
       "canonical_name": "7Artisans MF 10mm f/2.8 Mark II Fisheye",
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "id": "grp_00174",
+      "id": "grp_00156",
       "brand": "7Artisans",
       "model": "MF 14mm f/2.8",
       "canonical_name": "7Artisans MF 14mm f/2.8",
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "id": "grp_00175",
+      "id": "grp_00157",
       "brand": "7Artisans",
       "model": "MF 18mm f/5.6",
       "canonical_name": "7Artisans MF 18mm f/5.6",
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "id": "grp_00179",
+      "id": "grp_00161",
       "brand": "7Artisans",
       "model": "MF 35mm f/1.2 Mark II",
       "canonical_name": "7Artisans MF 35mm f/1.2 Mark II",
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "id": "grp_00181",
+      "id": "grp_00163",
       "brand": "7Artisans",
       "model": "MF 35mm f/1.4 Mark III",
       "canonical_name": "7Artisans MF 35mm f/1.4 Mark III",
@@ -433,7 +433,7 @@
       ]
     },
     {
-      "id": "grp_00183",
+      "id": "grp_00165",
       "brand": "7Artisans",
       "model": "MF 35mm f/5.6",
       "canonical_name": "7Artisans MF 35mm f/5.6",
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "id": "grp_00185",
+      "id": "grp_00167",
       "brand": "7Artisans",
       "model": "MF 50mm f/0.95",
       "canonical_name": "7Artisans MF 50mm f/0.95",
@@ -485,7 +485,7 @@
       ]
     },
     {
-      "id": "grp_00186",
+      "id": "grp_00168",
       "brand": "7Artisans",
       "model": "MF 50mm f/1.05",
       "canonical_name": "7Artisans MF 50mm f/1.05",
@@ -511,7 +511,7 @@
       ]
     },
     {
-      "id": "grp_00188",
+      "id": "grp_00170",
       "brand": "7Artisans",
       "model": "MF 60mm f/2.8 Full-frame 2X Ultra-Macro",
       "canonical_name": "7Artisans MF 60mm f/2.8 Full-frame 2X Ultra-Macro",
@@ -537,7 +537,7 @@
       ]
     },
     {
-      "id": "grp_00189",
+      "id": "grp_00171",
       "brand": "7Artisans",
       "model": "MF 60mm f/2.8 Mark II Macro",
       "canonical_name": "7Artisans MF 60mm f/2.8 Mark II Macro",
@@ -563,7 +563,7 @@
       ]
     },
     {
-      "id": "grp_00169",
+      "id": "grp_00151",
       "brand": "7Artisans",
       "model": "MF 7.5mm f/2.8 Mark II Fisheye",
       "canonical_name": "7Artisans MF 7.5mm f/2.8 Mark II Fisheye",
@@ -589,7 +589,7 @@
       ]
     },
     {
-      "id": "grp_00190",
+      "id": "grp_00172",
       "brand": "7Artisans",
       "model": "MF 75mm f/1.4",
       "canonical_name": "7Artisans MF 75mm f/1.4",
@@ -615,7 +615,7 @@
       ]
     },
     {
-      "id": "grp_00170",
+      "id": "grp_00152",
       "brand": "7Artisans",
       "model": "MF 9mm f/5.6",
       "canonical_name": "7Artisans MF 9mm f/5.6",
@@ -641,7 +641,7 @@
       ]
     },
     {
-      "id": "grp_00197",
+      "id": "grp_00179",
       "brand": "Canon",
       "model": "RF 10-20mm F4 L IS STM",
       "canonical_name": "Canon RF 10-20mm F4 L IS STM",
@@ -667,7 +667,7 @@
       ]
     },
     {
-      "id": "grp_00234",
+      "id": "grp_00216",
       "brand": "Canon",
       "model": "RF 100-300mm F2.8 L IS USM",
       "canonical_name": "Canon RF 100-300mm F2.8 L IS USM",
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "id": "grp_00237",
+      "id": "grp_00219",
       "brand": "Canon",
       "model": "RF 100-400mm F5.6-8 IS USM",
       "canonical_name": "Canon RF 100-400mm F5.6-8 IS USM",
@@ -719,7 +719,7 @@
       ]
     },
     {
-      "id": "grp_00236",
+      "id": "grp_00218",
       "brand": "Canon",
       "model": "RF 100-500mm F4.5-7.1 L IS USM",
       "canonical_name": "Canon RF 100-500mm F4.5-7.1 L IS USM",
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "id": "grp_00235",
+      "id": "grp_00217",
       "brand": "Canon",
       "model": "RF 100mm F2.8 L Macro IS USM",
       "canonical_name": "Canon RF 100mm F2.8 L Macro IS USM",
@@ -771,7 +771,7 @@
       ]
     },
     {
-      "id": "grp_00245",
+      "id": "grp_00227",
       "brand": "Canon",
       "model": "RF 1200mm F8 L IS USM",
       "canonical_name": "Canon RF 1200mm F8 L IS USM",
@@ -797,7 +797,7 @@
       ]
     },
     {
-      "id": "grp_00238",
+      "id": "grp_00220",
       "brand": "Canon",
       "model": "RF 135mm F1.8 L IS USM",
       "canonical_name": "Canon RF 135mm F1.8 L IS USM",
@@ -823,7 +823,7 @@
       ]
     },
     {
-      "id": "grp_00200",
+      "id": "grp_00182",
       "brand": "Canon",
       "model": "RF 14-35mm F4 L IS USM",
       "canonical_name": "Canon RF 14-35mm F4 L IS USM",
@@ -849,7 +849,7 @@
       ]
     },
     {
-      "id": "grp_00199",
+      "id": "grp_00181",
       "brand": "Canon",
       "model": "RF 14mm F1.4 L VCM",
       "canonical_name": "Canon RF 14mm F1.4 L VCM",
@@ -875,7 +875,7 @@
       ]
     },
     {
-      "id": "grp_00203",
+      "id": "grp_00185",
       "brand": "Canon",
       "model": "RF 15-30mm F4.5-6.3 IS STM",
       "canonical_name": "Canon RF 15-30mm F4.5-6.3 IS STM",
@@ -901,7 +901,7 @@
       ]
     },
     {
-      "id": "grp_00202",
+      "id": "grp_00184",
       "brand": "Canon",
       "model": "RF 15-35mm F2.8 L IS USM",
       "canonical_name": "Canon RF 15-35mm F2.8 L IS USM",
@@ -927,7 +927,7 @@
       ]
     },
     {
-      "id": "grp_00204",
+      "id": "grp_00186",
       "brand": "Canon",
       "model": "RF 16-28mm F2.8 IS STM",
       "canonical_name": "Canon RF 16-28mm F2.8 IS STM",
@@ -953,7 +953,7 @@
       ]
     },
     {
-      "id": "grp_00205",
+      "id": "grp_00187",
       "brand": "Canon",
       "model": "RF 16mm F2.8 STM",
       "canonical_name": "Canon RF 16mm F2.8 STM",
@@ -979,7 +979,7 @@
       ]
     },
     {
-      "id": "grp_00209",
+      "id": "grp_00191",
       "brand": "Canon",
       "model": "RF 20-50mm F4 L IS USM PZ",
       "canonical_name": "Canon RF 20-50mm F4 L IS USM PZ",
@@ -1005,7 +1005,7 @@
       ]
     },
     {
-      "id": "grp_00239",
+      "id": "grp_00221",
       "brand": "Canon",
       "model": "RF 200-800mm F6.3-9 IS USM",
       "canonical_name": "Canon RF 200-800mm F6.3-9 IS USM",
@@ -1031,7 +1031,7 @@
       ]
     },
     {
-      "id": "grp_00208",
+      "id": "grp_00190",
       "brand": "Canon",
       "model": "RF 20mm F1.4 L VCM",
       "canonical_name": "Canon RF 20mm F1.4 L VCM",
@@ -1057,7 +1057,7 @@
       ]
     },
     {
-      "id": "grp_00212",
+      "id": "grp_00194",
       "brand": "Canon",
       "model": "RF 24-105mm F2.8 L IS USM Z",
       "canonical_name": "Canon RF 24-105mm F2.8 L IS USM Z",
@@ -1068,23 +1068,22 @@
       "weight_g": 1330,
       "price_usd": 3199.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf24-105mm-f2-8-l-is-usm-z",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2023,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_00214",
+      "id": "grp_00196",
       "brand": "Canon",
       "model": "RF 24-105mm F4 L IS USM",
       "canonical_name": "Canon RF 24-105mm F4 L IS USM",
@@ -1095,23 +1094,22 @@
       "weight_g": 700,
       "price_usd": 1299,
       "product_url": "https://www.usa.canon.com/shop/p/rf24-105mm-f4-l-is-usm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2018,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_00215",
+      "id": "grp_00197",
       "brand": "Canon",
       "model": "RF 24-105mm F4-7.1 IS STM",
       "canonical_name": "Canon RF 24-105mm F4-7.1 IS STM",
@@ -1122,23 +1120,22 @@
       "weight_g": 395,
       "price_usd": 459.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf24-105mm-f4-7-1-is-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2020,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_00216",
+      "id": "grp_00198",
       "brand": "Canon",
       "model": "RF 24-240mm F4-6.3 IS USM",
       "canonical_name": "Canon RF 24-240mm F4-6.3 IS USM",
@@ -1149,23 +1146,22 @@
       "weight_g": 750,
       "price_usd": 999.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf24-240mm-f4-6-3-is-usm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2019,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_00217",
+      "id": "grp_00199",
       "brand": "Canon",
       "model": "RF 24-50mm F4.5-6.3 IS STM",
       "canonical_name": "Canon RF 24-50mm F4.5-6.3 IS STM",
@@ -1176,23 +1172,22 @@
       "weight_g": 210,
       "price_usd": 349.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf24-50mm-f4-5-6-3-is-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2023,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_00213",
+      "id": "grp_00195",
       "brand": "Canon",
       "model": "RF 24-70mm F2.8 L IS USM",
       "canonical_name": "Canon RF 24-70mm F2.8 L IS USM",
@@ -1203,23 +1198,22 @@
       "weight_g": 900,
       "price_usd": 2399.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf24-70mm-f2-8l-is-usm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2019,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_00210",
+      "id": "grp_00192",
       "brand": "Canon",
       "model": "RF 24mm F1.4 L VCM",
       "canonical_name": "Canon RF 24mm F1.4 L VCM",
@@ -1245,7 +1239,7 @@
       ]
     },
     {
-      "id": "grp_00211",
+      "id": "grp_00193",
       "brand": "Canon",
       "model": "RF 24mm F1.8 Macro IS STM",
       "canonical_name": "Canon RF 24mm F1.8 Macro IS STM",
@@ -1271,7 +1265,7 @@
       ]
     },
     {
-      "id": "grp_00218",
+      "id": "grp_00200",
       "brand": "Canon",
       "model": "RF 28-70mm F2 L USM",
       "canonical_name": "Canon RF 28-70mm F2 L USM",
@@ -1282,23 +1276,22 @@
       "weight_g": 1430,
       "price_usd": 3199.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf28-70mm-f2-l-usm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2018,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_00219",
+      "id": "grp_00201",
       "brand": "Canon",
       "model": "RF 28-70mm F2.8 IS STM",
       "canonical_name": "Canon RF 28-70mm F2.8 IS STM",
@@ -1309,23 +1302,22 @@
       "weight_g": 490,
       "price_usd": 1149.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf28-70mm-f2-8-is-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2024,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_00220",
+      "id": "grp_00202",
       "brand": "Canon",
       "model": "RF 28mm F2.8 STM",
       "canonical_name": "Canon RF 28mm F2.8 STM",
@@ -1336,23 +1328,22 @@
       "weight_g": 120,
       "price_usd": 299.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf28mm-f2-8-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2023,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_00221",
+      "id": "grp_00203",
       "brand": "Canon",
       "model": "RF 35mm F1.4 L VCM",
       "canonical_name": "Canon RF 35mm F1.4 L VCM",
@@ -1363,23 +1354,22 @@
       "weight_g": 555,
       "price_usd": 1549.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf35mm-f1-4-l-vcm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2024,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
     {
-      "id": "grp_00222",
+      "id": "grp_00204",
       "brand": "Canon",
       "model": "RF 35mm F1.8 Macro IS STM",
       "canonical_name": "Canon RF 35mm F1.8 Macro IS STM",
@@ -1405,7 +1395,7 @@
       ]
     },
     {
-      "id": "grp_00240",
+      "id": "grp_00222",
       "brand": "Canon",
       "model": "RF 400mm F2.8 L IS USM",
       "canonical_name": "Canon RF 400mm F2.8 L IS USM",
@@ -1431,7 +1421,7 @@
       ]
     },
     {
-      "id": "grp_00223",
+      "id": "grp_00205",
       "brand": "Canon",
       "model": "RF 45mm F1.2 STM",
       "canonical_name": "Canon RF 45mm F1.2 STM",
@@ -1457,7 +1447,7 @@
       ]
     },
     {
-      "id": "grp_00194",
+      "id": "grp_00176",
       "brand": "Canon",
       "model": "RF 5.2mm F2.8 L Dual Fisheye",
       "canonical_name": "Canon RF 5.2mm F2.8 L Dual Fisheye",
@@ -1483,7 +1473,7 @@
       ]
     },
     {
-      "id": "grp_00224",
+      "id": "grp_00206",
       "brand": "Canon",
       "model": "RF 50mm F1.2 L USM",
       "canonical_name": "Canon RF 50mm F1.2 L USM",
@@ -1509,7 +1499,7 @@
       ]
     },
     {
-      "id": "grp_00225",
+      "id": "grp_00207",
       "brand": "Canon",
       "model": "RF 50mm F1.4 L VCM",
       "canonical_name": "Canon RF 50mm F1.4 L VCM",
@@ -1535,7 +1525,7 @@
       ]
     },
     {
-      "id": "grp_00226",
+      "id": "grp_00208",
       "brand": "Canon",
       "model": "RF 50mm F1.8 STM",
       "canonical_name": "Canon RF 50mm F1.8 STM",
@@ -1561,7 +1551,7 @@
       ]
     },
     {
-      "id": "grp_00242",
+      "id": "grp_00224",
       "brand": "Canon",
       "model": "RF 600mm F11 IS STM",
       "canonical_name": "Canon RF 600mm F11 IS STM",
@@ -1587,7 +1577,7 @@
       ]
     },
     {
-      "id": "grp_00241",
+      "id": "grp_00223",
       "brand": "Canon",
       "model": "RF 600mm F4 L IS USM",
       "canonical_name": "Canon RF 600mm F4 L IS USM",
@@ -1613,7 +1603,7 @@
       ]
     },
     {
-      "id": "grp_00195",
+      "id": "grp_00177",
       "brand": "Canon",
       "model": "RF 7-14mm F2.8-3.5 L Fisheye STM",
       "canonical_name": "Canon RF 7-14mm F2.8-3.5 L Fisheye STM",
@@ -1639,7 +1629,7 @@
       ]
     },
     {
-      "id": "grp_00228",
+      "id": "grp_00210",
       "brand": "Canon",
       "model": "RF 70-200mm F2.8 L IS USM",
       "canonical_name": "Canon RF 70-200mm F2.8 L IS USM",
@@ -1665,7 +1655,7 @@
       ]
     },
     {
-      "id": "grp_00229",
+      "id": "grp_00211",
       "brand": "Canon",
       "model": "RF 70-200mm F4 L IS USM",
       "canonical_name": "Canon RF 70-200mm F4 L IS USM",
@@ -1691,7 +1681,7 @@
       ]
     },
     {
-      "id": "grp_00230",
+      "id": "grp_00212",
       "brand": "Canon",
       "model": "RF 75-300mm F4-5.6",
       "canonical_name": "Canon RF 75-300mm F4-5.6",
@@ -1717,7 +1707,7 @@
       ]
     },
     {
-      "id": "grp_00244",
+      "id": "grp_00226",
       "brand": "Canon",
       "model": "RF 800mm F11 IS STM",
       "canonical_name": "Canon RF 800mm F11 IS STM",
@@ -1743,7 +1733,7 @@
       ]
     },
     {
-      "id": "grp_00243",
+      "id": "grp_00225",
       "brand": "Canon",
       "model": "RF 800mm F5.6 L IS USM",
       "canonical_name": "Canon RF 800mm F5.6 L IS USM",
@@ -1769,7 +1759,7 @@
       ]
     },
     {
-      "id": "grp_00231",
+      "id": "grp_00213",
       "brand": "Canon",
       "model": "RF 85mm F1.2 L USM",
       "canonical_name": "Canon RF 85mm F1.2 L USM",
@@ -1795,7 +1785,7 @@
       ]
     },
     {
-      "id": "grp_00232",
+      "id": "grp_00214",
       "brand": "Canon",
       "model": "RF 85mm F1.4 L VCM",
       "canonical_name": "Canon RF 85mm F1.4 L VCM",
@@ -1821,7 +1811,7 @@
       ]
     },
     {
-      "id": "grp_00233",
+      "id": "grp_00215",
       "brand": "Canon",
       "model": "RF 85mm F2 Macro IS STM",
       "canonical_name": "Canon RF 85mm F2 Macro IS STM",
@@ -1847,7 +1837,7 @@
       ]
     },
     {
-      "id": "grp_00198",
+      "id": "grp_00180",
       "brand": "Canon",
       "model": "RF-S 10-18mm F4.5-6.3 IS STM",
       "canonical_name": "Canon RF-S 10-18mm F4.5-6.3 IS STM",
@@ -1873,7 +1863,7 @@
       ]
     },
     {
-      "id": "grp_00201",
+      "id": "grp_00183",
       "brand": "Canon",
       "model": "RF-S 14-30mm F4-6.3 IS STM PZ",
       "canonical_name": "Canon RF-S 14-30mm F4-6.3 IS STM PZ",
@@ -1899,7 +1889,7 @@
       ]
     },
     {
-      "id": "grp_00206",
+      "id": "grp_00188",
       "brand": "Canon",
       "model": "RF-S 18-150mm F3.5-6.3 IS STM",
       "canonical_name": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
@@ -1925,7 +1915,7 @@
       ]
     },
     {
-      "id": "grp_00207",
+      "id": "grp_00189",
       "brand": "Canon",
       "model": "RF-S 18-45mm F4.5-6.3 IS STM",
       "canonical_name": "Canon RF-S 18-45mm F4.5-6.3 IS STM",
@@ -1951,7 +1941,7 @@
       ]
     },
     {
-      "id": "grp_00193",
+      "id": "grp_00175",
       "brand": "Canon",
       "model": "RF-S 3.9mm F3.5 STM Dual Fisheye",
       "canonical_name": "Canon RF-S 3.9mm F3.5 STM Dual Fisheye",
@@ -1977,7 +1967,7 @@
       ]
     },
     {
-      "id": "grp_00227",
+      "id": "grp_00209",
       "brand": "Canon",
       "model": "RF-S 55-210mm F5-7.1 IS STM",
       "canonical_name": "Canon RF-S 55-210mm F5-7.1 IS STM",
@@ -2003,7 +1993,7 @@
       ]
     },
     {
-      "id": "grp_00196",
+      "id": "grp_00178",
       "brand": "Canon",
       "model": "RF-S 7.8mm F4 STM Dual",
       "canonical_name": "Canon RF-S 7.8mm F4 STM Dual",
@@ -2029,7 +2019,7 @@
       ]
     },
     {
-      "id": "grp_00249",
+      "id": "grp_00231",
       "brand": "Fujifilm",
       "model": "XC 13-33mm F3.5-6.3 OIS",
       "canonical_name": "Fujifilm XC 13-33mm F3.5-6.3 OIS",
@@ -2055,7 +2045,7 @@
       ]
     },
     {
-      "id": "grp_00251",
+      "id": "grp_00233",
       "brand": "Fujifilm",
       "model": "XC 15-45mm F3.5-5.6 OIS PZ",
       "canonical_name": "Fujifilm XC 15-45mm F3.5-5.6 OIS PZ",
@@ -2081,7 +2071,7 @@
       ]
     },
     {
-      "id": "grp_00256",
+      "id": "grp_00238",
       "brand": "Fujifilm",
       "model": "XC 16-50mm F3.5-5.6 OIS",
       "canonical_name": "Fujifilm XC 16-50mm F3.5-5.6 OIS",
@@ -2107,7 +2097,7 @@
       ]
     },
     {
-      "id": "grp_00257",
+      "id": "grp_00239",
       "brand": "Fujifilm",
       "model": "XC 16-50mm F3.5-5.6 OIS II",
       "canonical_name": "Fujifilm XC 16-50mm F3.5-5.6 OIS II",
@@ -2133,7 +2123,7 @@
       ]
     },
     {
-      "id": "grp_00271",
+      "id": "grp_00253",
       "brand": "Fujifilm",
       "model": "XC 35mm F2",
       "canonical_name": "Fujifilm XC 35mm F2",
@@ -2159,7 +2149,7 @@
       ]
     },
     {
-      "id": "grp_00276",
+      "id": "grp_00258",
       "brand": "Fujifilm",
       "model": "XC 50-230mm F4.5-6.7 OIS",
       "canonical_name": "Fujifilm XC 50-230mm F4.5-6.7 OIS",
@@ -2185,7 +2175,7 @@
       ]
     },
     {
-      "id": "grp_00277",
+      "id": "grp_00259",
       "brand": "Fujifilm",
       "model": "XC 50-230mm F4.5-6.7 OIS II",
       "canonical_name": "Fujifilm XC 50-230mm F4.5-6.7 OIS II",
@@ -2211,7 +2201,7 @@
       ]
     },
     {
-      "id": "grp_00248",
+      "id": "grp_00230",
       "brand": "Fujifilm",
       "model": "XF 10-24mm F4 R OIS",
       "canonical_name": "Fujifilm XF 10-24mm F4 R OIS",
@@ -2237,7 +2227,7 @@
       ]
     },
     {
-      "id": "grp_00284",
+      "id": "grp_00266",
       "brand": "Fujifilm",
       "model": "XF 100-400mm F4.5-5.6 R LM OIS WR",
       "canonical_name": "Fujifilm XF 100-400mm F4.5-5.6 R LM OIS WR",
@@ -2263,7 +2253,7 @@
       ]
     },
     {
-      "id": "grp_00250",
+      "id": "grp_00232",
       "brand": "Fujifilm",
       "model": "XF 14mm F2.8 R",
       "canonical_name": "Fujifilm XF 14mm F2.8 R",
@@ -2289,7 +2279,7 @@
       ]
     },
     {
-      "id": "grp_00285",
+      "id": "grp_00267",
       "brand": "Fujifilm",
       "model": "XF 150-600mm F5.6-8 R LM OIS WR",
       "canonical_name": "Fujifilm XF 150-600mm F5.6-8 R LM OIS WR",
@@ -2315,7 +2305,7 @@
       ]
     },
     {
-      "id": "grp_00253",
+      "id": "grp_00235",
       "brand": "Fujifilm",
       "model": "XF 16-50mm F2.8-4.8 R LM WR",
       "canonical_name": "Fujifilm XF 16-50mm F2.8-4.8 R LM WR",
@@ -2341,7 +2331,7 @@
       ]
     },
     {
-      "id": "grp_00254",
+      "id": "grp_00236",
       "brand": "Fujifilm",
       "model": "XF 16-55mm F2.8 R LM WR",
       "canonical_name": "Fujifilm XF 16-55mm F2.8 R LM WR",
@@ -2367,7 +2357,7 @@
       ]
     },
     {
-      "id": "grp_00255",
+      "id": "grp_00237",
       "brand": "Fujifilm",
       "model": "XF 16-55mm F2.8 R LM WR II",
       "canonical_name": "Fujifilm XF 16-55mm F2.8 R LM WR II",
@@ -2393,7 +2383,7 @@
       ]
     },
     {
-      "id": "grp_00258",
+      "id": "grp_00240",
       "brand": "Fujifilm",
       "model": "XF 16-80mm F4 R OIS WR",
       "canonical_name": "Fujifilm XF 16-80mm F4 R OIS WR",
@@ -2419,7 +2409,7 @@
       ]
     },
     {
-      "id": "grp_00252",
+      "id": "grp_00234",
       "brand": "Fujifilm",
       "model": "XF 16mm F1.4 R WR",
       "canonical_name": "Fujifilm XF 16mm F1.4 R WR",
@@ -2445,7 +2435,7 @@
       ]
     },
     {
-      "id": "grp_00263",
+      "id": "grp_00245",
       "brand": "Fujifilm",
       "model": "XF 18-120mm F4 LM PZ WR",
       "canonical_name": "Fujifilm XF 18-120mm F4 LM PZ WR",
@@ -2471,7 +2461,7 @@
       ]
     },
     {
-      "id": "grp_00262",
+      "id": "grp_00244",
       "brand": "Fujifilm",
       "model": "XF 18-135mm F3.5-5.6 R LM OIS WR",
       "canonical_name": "Fujifilm XF 18-135mm F3.5-5.6 R LM OIS WR",
@@ -2497,7 +2487,7 @@
       ]
     },
     {
-      "id": "grp_00261",
+      "id": "grp_00243",
       "brand": "Fujifilm",
       "model": "XF 18-55mm F2.8-4 R LM OIS",
       "canonical_name": "Fujifilm XF 18-55mm F2.8-4 R LM OIS",
@@ -2523,7 +2513,7 @@
       ]
     },
     {
-      "id": "grp_00259",
+      "id": "grp_00241",
       "brand": "Fujifilm",
       "model": "XF 18mm F1.4 R LM WR",
       "canonical_name": "Fujifilm XF 18mm F1.4 R LM WR",
@@ -2549,7 +2539,7 @@
       ]
     },
     {
-      "id": "grp_00260",
+      "id": "grp_00242",
       "brand": "Fujifilm",
       "model": "XF 18mm F2 R",
       "canonical_name": "Fujifilm XF 18mm F2 R",
@@ -2575,7 +2565,7 @@
       ]
     },
     {
-      "id": "grp_00286",
+      "id": "grp_00268",
       "brand": "Fujifilm",
       "model": "XF 200mm F2 R LM OIS WR",
       "canonical_name": "Fujifilm XF 200mm F2 R LM OIS WR",
@@ -2601,7 +2591,7 @@
       ]
     },
     {
-      "id": "grp_00264",
+      "id": "grp_00246",
       "brand": "Fujifilm",
       "model": "XF 23mm F1.4 R",
       "canonical_name": "Fujifilm XF 23mm F1.4 R",
@@ -2627,7 +2617,7 @@
       ]
     },
     {
-      "id": "grp_00265",
+      "id": "grp_00247",
       "brand": "Fujifilm",
       "model": "XF 23mm F2 R WR",
       "canonical_name": "Fujifilm XF 23mm F2 R WR",
@@ -2653,7 +2643,7 @@
       ]
     },
     {
-      "id": "grp_00266",
+      "id": "grp_00248",
       "brand": "Fujifilm",
       "model": "XF 23mm F2.8 R WR",
       "canonical_name": "Fujifilm XF 23mm F2.8 R WR",
@@ -2679,7 +2669,7 @@
       ]
     },
     {
-      "id": "grp_00267",
+      "id": "grp_00249",
       "brand": "Fujifilm",
       "model": "XF 27mm F2.8",
       "canonical_name": "Fujifilm XF 27mm F2.8",
@@ -2705,7 +2695,7 @@
       ]
     },
     {
-      "id": "grp_00268",
+      "id": "grp_00250",
       "brand": "Fujifilm",
       "model": "XF 30mm F2.8 R LM WR Macro",
       "canonical_name": "Fujifilm XF 30mm F2.8 R LM WR Macro",
@@ -2731,7 +2721,7 @@
       ]
     },
     {
-      "id": "grp_00269",
+      "id": "grp_00251",
       "brand": "Fujifilm",
       "model": "XF 33mm F1.4 R LM WR",
       "canonical_name": "Fujifilm XF 33mm F1.4 R LM WR",
@@ -2757,7 +2747,7 @@
       ]
     },
     {
-      "id": "grp_00270",
+      "id": "grp_00252",
       "brand": "Fujifilm",
       "model": "XF 35mm F1.4 R",
       "canonical_name": "Fujifilm XF 35mm F1.4 R",
@@ -2783,7 +2773,7 @@
       ]
     },
     {
-      "id": "grp_00272",
+      "id": "grp_00254",
       "brand": "Fujifilm",
       "model": "XF 35mm F2 R WR",
       "canonical_name": "Fujifilm XF 35mm F2 R WR",
@@ -2809,7 +2799,7 @@
       ]
     },
     {
-      "id": "grp_00275",
+      "id": "grp_00257",
       "brand": "Fujifilm",
       "model": "XF 50-140mm F2.8 R LM OIS WR",
       "canonical_name": "Fujifilm XF 50-140mm F2.8 R LM OIS WR",
@@ -2835,7 +2825,7 @@
       ]
     },
     {
-      "id": "grp_00287",
+      "id": "grp_00269",
       "brand": "Fujifilm",
       "model": "XF 500mm F5.6 R LM OIS WR",
       "canonical_name": "Fujifilm XF 500mm F5.6 R LM OIS WR",
@@ -2861,7 +2851,7 @@
       ]
     },
     {
-      "id": "grp_00273",
+      "id": "grp_00255",
       "brand": "Fujifilm",
       "model": "XF 50mm F1.0 R WR",
       "canonical_name": "Fujifilm XF 50mm F1.0 R WR",
@@ -2887,7 +2877,7 @@
       ]
     },
     {
-      "id": "grp_00274",
+      "id": "grp_00256",
       "brand": "Fujifilm",
       "model": "XF 50mm F2 R WR",
       "canonical_name": "Fujifilm XF 50mm F2 R WR",
@@ -2913,7 +2903,7 @@
       ]
     },
     {
-      "id": "grp_00278",
+      "id": "grp_00260",
       "brand": "Fujifilm",
       "model": "XF 55-200mm F3.5-4.8 R LM OIS",
       "canonical_name": "Fujifilm XF 55-200mm F3.5-4.8 R LM OIS",
@@ -2939,7 +2929,7 @@
       ]
     },
     {
-      "id": "grp_00279",
+      "id": "grp_00261",
       "brand": "Fujifilm",
       "model": "XF 56mm F1.2 R",
       "canonical_name": "Fujifilm XF 56mm F1.2 R",
@@ -2965,7 +2955,7 @@
       ]
     },
     {
-      "id": "grp_00280",
+      "id": "grp_00262",
       "brand": "Fujifilm",
       "model": "XF 60mm F2.4 R Macro",
       "canonical_name": "Fujifilm XF 60mm F2.4 R Macro",
@@ -2991,7 +2981,7 @@
       ]
     },
     {
-      "id": "grp_00281",
+      "id": "grp_00263",
       "brand": "Fujifilm",
       "model": "XF 70-300mm F4-5.6 R LM OIS WR",
       "canonical_name": "Fujifilm XF 70-300mm F4-5.6 R LM OIS WR",
@@ -3017,7 +3007,7 @@
       ]
     },
     {
-      "id": "grp_00246",
+      "id": "grp_00228",
       "brand": "Fujifilm",
       "model": "XF 8-16mm F2.8 R LM WR",
       "canonical_name": "Fujifilm XF 8-16mm F2.8 R LM WR",
@@ -3043,7 +3033,7 @@
       ]
     },
     {
-      "id": "grp_00282",
+      "id": "grp_00264",
       "brand": "Fujifilm",
       "model": "XF 80mm F2.8 R LM OIS WR Macro",
       "canonical_name": "Fujifilm XF 80mm F2.8 R LM OIS WR Macro",
@@ -3069,7 +3059,7 @@
       ]
     },
     {
-      "id": "grp_00247",
+      "id": "grp_00229",
       "brand": "Fujifilm",
       "model": "XF 8mm F3.5 R WR",
       "canonical_name": "Fujifilm XF 8mm F3.5 R WR",
@@ -3095,7 +3085,7 @@
       ]
     },
     {
-      "id": "grp_00283",
+      "id": "grp_00265",
       "brand": "Fujifilm",
       "model": "XF 90mm F2 R LM WR",
       "canonical_name": "Fujifilm XF 90mm F2 R LM WR",
@@ -3121,7 +3111,7 @@
       ]
     },
     {
-      "id": "grp_00320",
+      "id": "grp_00302",
       "brand": "Laowa",
       "model": "100mm f/2.8 2X Ultra Macro APO",
       "canonical_name": "Laowa 100mm f/2.8 2X Ultra Macro APO",
@@ -3147,7 +3137,7 @@
       ]
     },
     {
-      "id": "grp_00293",
+      "id": "grp_00275",
       "brand": "Laowa",
       "model": "10mm f/2 Zero-D MFT",
       "canonical_name": "Laowa 10mm f/2 Zero-D MFT",
@@ -3173,7 +3163,7 @@
       ]
     },
     {
-      "id": "grp_00294",
+      "id": "grp_00276",
       "brand": "Laowa",
       "model": "10mm f/2.8 Zero-D FF",
       "canonical_name": "Laowa 10mm f/2.8 Zero-D FF",
@@ -3199,7 +3189,7 @@
       ]
     },
     {
-      "id": "grp_00295",
+      "id": "grp_00277",
       "brand": "Laowa",
       "model": "10mm f/4 Cookie",
       "canonical_name": "Laowa 10mm f/4 Cookie",
@@ -3225,7 +3215,7 @@
       ]
     },
     {
-      "id": "grp_00296",
+      "id": "grp_00278",
       "brand": "Laowa",
       "model": "11mm f/4.5 FF RL",
       "canonical_name": "Laowa 11mm f/4.5 FF RL",
@@ -3251,7 +3241,7 @@
       ]
     },
     {
-      "id": "grp_00298",
+      "id": "grp_00280",
       "brand": "Laowa",
       "model": "12-24mm f/5.6 Zoom",
       "canonical_name": "Laowa 12-24mm f/5.6 Zoom",
@@ -3277,7 +3267,7 @@
       ]
     },
     {
-      "id": "grp_00297",
+      "id": "grp_00279",
       "brand": "Laowa",
       "model": "12mm f/2.8 Lite Zero-D FF",
       "canonical_name": "Laowa 12mm f/2.8 Lite Zero-D FF",
@@ -3303,7 +3293,7 @@
       ]
     },
     {
-      "id": "grp_00299",
+      "id": "grp_00281",
       "brand": "Laowa",
       "model": "14mm f/4 FF RL Zero-D",
       "canonical_name": "Laowa 14mm f/4 FF RL Zero-D",
@@ -3329,7 +3319,7 @@
       ]
     },
     {
-      "id": "grp_00300",
+      "id": "grp_00282",
       "brand": "Laowa",
       "model": "15mm f/2 FE Zero-D",
       "canonical_name": "Laowa 15mm f/2 FE Zero-D",
@@ -3355,7 +3345,7 @@
       ]
     },
     {
-      "id": "grp_00301",
+      "id": "grp_00283",
       "brand": "Laowa",
       "model": "15mm f/4.5 0.5X Wide Angle Macro",
       "canonical_name": "Laowa 15mm f/4.5 0.5X Wide Angle Macro",
@@ -3381,7 +3371,7 @@
       ]
     },
     {
-      "id": "grp_00302",
+      "id": "grp_00284",
       "brand": "Laowa",
       "model": "15mm f/4.5 Zero-D Shift",
       "canonical_name": "Laowa 15mm f/4.5 Zero-D Shift",
@@ -3407,7 +3397,7 @@
       ]
     },
     {
-      "id": "grp_00303",
+      "id": "grp_00285",
       "brand": "Laowa",
       "model": "17mm f/4 Zero-D Tilt-Shift",
       "canonical_name": "Laowa 17mm f/4 Zero-D Tilt-Shift",
@@ -3433,7 +3423,7 @@
       ]
     },
     {
-      "id": "grp_00321",
+      "id": "grp_00303",
       "brand": "Laowa",
       "model": "200mm f/2 AF FF",
       "canonical_name": "Laowa 200mm f/2 AF FF",
@@ -3459,7 +3449,7 @@
       ]
     },
     {
-      "id": "grp_00305",
+      "id": "grp_00287",
       "brand": "Laowa",
       "model": "20mm f/4 Zero-D Shift",
       "canonical_name": "Laowa 20mm f/4 Zero-D Shift",
@@ -3485,7 +3475,7 @@
       ]
     },
     {
-      "id": "grp_00306",
+      "id": "grp_00288",
       "brand": "Laowa",
       "model": "24mm f/14 2X Macro Probe",
       "canonical_name": "Laowa 24mm f/14 2X Macro Probe",
@@ -3511,7 +3501,7 @@
       ]
     },
     {
-      "id": "grp_00308",
+      "id": "grp_00290",
       "brand": "Laowa",
       "model": "25mm f/2.8 2.5-5X Ultra Macro",
       "canonical_name": "Laowa 25mm f/2.8 2.5-5X Ultra Macro",
@@ -3537,7 +3527,7 @@
       ]
     },
     {
-      "id": "grp_00312",
+      "id": "grp_00294",
       "brand": "Laowa",
       "model": "35mm f/2.8 Zero-D Tilt-Shift 0.5X Macro",
       "canonical_name": "Laowa 35mm f/2.8 Zero-D Tilt-Shift 0.5X Macro",
@@ -3563,7 +3553,7 @@
       ]
     },
     {
-      "id": "grp_00288",
+      "id": "grp_00270",
       "brand": "Laowa",
       "model": "4.5-10mm f/2.8 CF Zoom Fisheye",
       "canonical_name": "Laowa 4.5-10mm f/2.8 CF Zoom Fisheye",
@@ -3589,7 +3579,7 @@
       ]
     },
     {
-      "id": "grp_00315",
+      "id": "grp_00297",
       "brand": "Laowa",
       "model": "50mm f/2.8 2X Ultra Macro APO",
       "canonical_name": "Laowa 50mm f/2.8 2X Ultra Macro APO",
@@ -3615,7 +3605,7 @@
       ]
     },
     {
-      "id": "grp_00316",
+      "id": "grp_00298",
       "brand": "Laowa",
       "model": "58mm f/2.8 2X Ultra-Macro APO",
       "canonical_name": "Laowa 58mm f/2.8 2X Ultra-Macro APO",
@@ -3641,7 +3631,7 @@
       ]
     },
     {
-      "id": "grp_00317",
+      "id": "grp_00299",
       "brand": "Laowa",
       "model": "65mm f/2.8 2X Ultra Macro APO",
       "canonical_name": "Laowa 65mm f/2.8 2X Ultra Macro APO",
@@ -3667,7 +3657,7 @@
       ]
     },
     {
-      "id": "grp_00289",
+      "id": "grp_00271",
       "brand": "Laowa",
       "model": "7.5mm f/2 MFT",
       "canonical_name": "Laowa 7.5mm f/2 MFT",
@@ -3693,7 +3683,7 @@
       ]
     },
     {
-      "id": "grp_00290",
+      "id": "grp_00272",
       "brand": "Laowa",
       "model": "8-15mm f/2.8 FF Zoom Fisheye",
       "canonical_name": "Laowa 8-15mm f/2.8 FF Zoom Fisheye",
@@ -3719,7 +3709,7 @@
       ]
     },
     {
-      "id": "grp_00318",
+      "id": "grp_00300",
       "brand": "Laowa",
       "model": "85mm f/5.6 2X Ultra Macro APO",
       "canonical_name": "Laowa 85mm f/5.6 2X Ultra Macro APO",
@@ -3745,7 +3735,7 @@
       ]
     },
     {
-      "id": "grp_00319",
+      "id": "grp_00301",
       "brand": "Laowa",
       "model": "90mm f/2.8 2X Ultra Macro APO",
       "canonical_name": "Laowa 90mm f/2.8 2X Ultra Macro APO",
@@ -3771,7 +3761,7 @@
       ]
     },
     {
-      "id": "grp_00291",
+      "id": "grp_00273",
       "brand": "Laowa",
       "model": "9mm f/2.8 Zero-D",
       "canonical_name": "Laowa 9mm f/2.8 Zero-D",
@@ -3797,7 +3787,7 @@
       ]
     },
     {
-      "id": "grp_00292",
+      "id": "grp_00274",
       "brand": "Laowa",
       "model": "9mm f/5.6 FF RL",
       "canonical_name": "Laowa 9mm f/5.6 FF RL",
@@ -3823,7 +3813,7 @@
       ]
     },
     {
-      "id": "grp_00304",
+      "id": "grp_00286",
       "brand": "Laowa",
       "model": "Aksen 17.5mm f/1.7 5-10X Ultra Macro APO",
       "canonical_name": "Laowa Aksen 17.5mm f/1.7 5-10X Ultra Macro APO",
@@ -3849,7 +3839,7 @@
       ]
     },
     {
-      "id": "grp_00314",
+      "id": "grp_00296",
       "brand": "Laowa",
       "model": "Aksen 45mm f/2.8 1-5X Ultra Macro APO",
       "canonical_name": "Laowa Aksen 45mm f/2.8 1-5X Ultra Macro APO",
@@ -3875,7 +3865,7 @@
       ]
     },
     {
-      "id": "grp_00307",
+      "id": "grp_00289",
       "brand": "Laowa",
       "model": "Argus 25mm f/0.95 MFT APO",
       "canonical_name": "Laowa Argus 25mm f/0.95 MFT APO",
@@ -3901,7 +3891,7 @@
       ]
     },
     {
-      "id": "grp_00309",
+      "id": "grp_00291",
       "brand": "Laowa",
       "model": "Argus 28mm f/1.2 FF",
       "canonical_name": "Laowa Argus 28mm f/1.2 FF",
@@ -3927,7 +3917,7 @@
       ]
     },
     {
-      "id": "grp_00310",
+      "id": "grp_00292",
       "brand": "Laowa",
       "model": "Argus 33mm f/0.95 CF APO",
       "canonical_name": "Laowa Argus 33mm f/0.95 CF APO",
@@ -3953,7 +3943,7 @@
       ]
     },
     {
-      "id": "grp_00311",
+      "id": "grp_00293",
       "brand": "Laowa",
       "model": "Argus 35mm f/0.95 FF II",
       "canonical_name": "Laowa Argus 35mm f/0.95 FF II",
@@ -3979,7 +3969,7 @@
       ]
     },
     {
-      "id": "grp_00313",
+      "id": "grp_00295",
       "brand": "Laowa",
       "model": "Argus 45mm f/0.95 FF",
       "canonical_name": "Laowa Argus 45mm f/0.95 FF",
@@ -4005,7 +3995,7 @@
       ]
     },
     {
-      "id": "grp_00364",
+      "id": "grp_00346",
       "brand": "Leica",
       "model": "APO-Macro-Elmarit-SL 100mm f/2.8",
       "canonical_name": "Leica APO-Macro-Elmarit-SL 100mm f/2.8",
@@ -4031,7 +4021,7 @@
       ]
     },
     {
-      "id": "grp_00354",
+      "id": "grp_00336",
       "brand": "Leica",
       "model": "APO-Macro-Elmarit-TL 60mm f/2.8 ASPH.",
       "canonical_name": "Leica APO-Macro-Elmarit-TL 60mm f/2.8 ASPH.",
@@ -4057,7 +4047,7 @@
       ]
     },
     {
-      "id": "grp_00346",
+      "id": "grp_00328",
       "brand": "Leica",
       "model": "APO-Summicron-M 35mm f/2 ASPH.",
       "canonical_name": "Leica APO-Summicron-M 35mm f/2 ASPH.",
@@ -4083,7 +4073,7 @@
       ]
     },
     {
-      "id": "grp_00351",
+      "id": "grp_00333",
       "brand": "Leica",
       "model": "APO-Summicron-M 50mm f/2 ASPH.",
       "canonical_name": "Leica APO-Summicron-M 50mm f/2 ASPH.",
@@ -4109,7 +4099,7 @@
       ]
     },
     {
-      "id": "grp_00357",
+      "id": "grp_00339",
       "brand": "Leica",
       "model": "APO-Summicron-M 75mm f/2 ASPH.",
       "canonical_name": "Leica APO-Summicron-M 75mm f/2 ASPH.",
@@ -4135,7 +4125,7 @@
       ]
     },
     {
-      "id": "grp_00359",
+      "id": "grp_00341",
       "brand": "Leica",
       "model": "APO-Summicron-M 90mm f/2 ASPH.",
       "canonical_name": "Leica APO-Summicron-M 90mm f/2 ASPH.",
@@ -4161,7 +4151,7 @@
       ]
     },
     {
-      "id": "grp_00338",
+      "id": "grp_00320",
       "brand": "Leica",
       "model": "APO-Summicron-SL 28mm f/2 ASPH.",
       "canonical_name": "Leica APO-Summicron-SL 28mm f/2 ASPH.",
@@ -4187,7 +4177,7 @@
       ]
     },
     {
-      "id": "grp_00365",
+      "id": "grp_00347",
       "brand": "Leica",
       "model": "APO-Telyt-M 135mm f/3.4",
       "canonical_name": "Leica APO-Telyt-M 135mm f/3.4",
@@ -4213,7 +4203,7 @@
       ]
     },
     {
-      "id": "grp_00353",
+      "id": "grp_00335",
       "brand": "Leica",
       "model": "APO-Vario-Elmar-TL 55-135mm f/3.5-4.5 ASPH.",
       "canonical_name": "Leica APO-Vario-Elmar-TL 55-135mm f/3.5-4.5 ASPH.",
@@ -4239,7 +4229,7 @@
       ]
     },
     {
-      "id": "grp_00361",
+      "id": "grp_00343",
       "brand": "Leica",
       "model": "APO-Vario-Elmarit-SL 90-280mm f/2.8-4",
       "canonical_name": "Leica APO-Vario-Elmarit-SL 90-280mm f/2.8-4",
@@ -4265,7 +4255,7 @@
       ]
     },
     {
-      "id": "grp_00336",
+      "id": "grp_00318",
       "brand": "Leica",
       "model": "Elmar-M 24mm f/3.8 ASPH.",
       "canonical_name": "Leica Elmar-M 24mm f/3.8 ASPH.",
@@ -4291,7 +4281,7 @@
       ]
     },
     {
-      "id": "grp_00340",
+      "id": "grp_00322",
       "brand": "Leica",
       "model": "Elmarit-M 28mm f/2.8 ASPH.",
       "canonical_name": "Leica Elmarit-M 28mm f/2.8 ASPH.",
@@ -4317,7 +4307,7 @@
       ]
     },
     {
-      "id": "grp_00326",
+      "id": "grp_00308",
       "brand": "Leica",
       "model": "Elmarit-TL 18mm f/2.8 ASPH.",
       "canonical_name": "Leica Elmarit-TL 18mm f/2.8 ASPH.",
@@ -4343,7 +4333,7 @@
       ]
     },
     {
-      "id": "grp_00362",
+      "id": "grp_00344",
       "brand": "Leica",
       "model": "Macro-Elmar-M 90mm f/4",
       "canonical_name": "Leica Macro-Elmar-M 90mm f/4",
@@ -4369,7 +4359,7 @@
       ]
     },
     {
-      "id": "grp_00343",
+      "id": "grp_00325",
       "brand": "Leica",
       "model": "Noctilux-M 35mm f/1.2 ASPH.",
       "canonical_name": "Leica Noctilux-M 35mm f/1.2 ASPH.",
@@ -4395,7 +4385,7 @@
       ]
     },
     {
-      "id": "grp_00347",
+      "id": "grp_00329",
       "brand": "Leica",
       "model": "Noctilux-M 50mm f/0.95 ASPH.",
       "canonical_name": "Leica Noctilux-M 50mm f/0.95 ASPH.",
@@ -4421,7 +4411,7 @@
       ]
     },
     {
-      "id": "grp_00348",
+      "id": "grp_00330",
       "brand": "Leica",
       "model": "Noctilux-M 50mm f/1.2 ASPH.",
       "canonical_name": "Leica Noctilux-M 50mm f/1.2 ASPH.",
@@ -4447,7 +4437,7 @@
       ]
     },
     {
-      "id": "grp_00356",
+      "id": "grp_00338",
       "brand": "Leica",
       "model": "Noctilux-M 75mm f/1.25 ASPH.",
       "canonical_name": "Leica Noctilux-M 75mm f/1.25 ASPH.",
@@ -4473,7 +4463,7 @@
       ]
     },
     {
-      "id": "grp_00342",
+      "id": "grp_00324",
       "brand": "Leica",
       "model": "Summaron-M 28mm f/5.6",
       "canonical_name": "Leica Summaron-M 28mm f/5.6",
@@ -4499,7 +4489,7 @@
       ]
     },
     {
-      "id": "grp_00339",
+      "id": "grp_00321",
       "brand": "Leica",
       "model": "Summicron-M 28mm f/2 ASPH. (2023)",
       "canonical_name": "Leica Summicron-M 28mm f/2 ASPH. (2023)",
@@ -4525,7 +4515,7 @@
       ]
     },
     {
-      "id": "grp_00332",
+      "id": "grp_00314",
       "brand": "Leica",
       "model": "Summicron-TL 23mm f/2 ASPH.",
       "canonical_name": "Leica Summicron-TL 23mm f/2 ASPH.",
@@ -4551,7 +4541,7 @@
       ]
     },
     {
-      "id": "grp_00329",
+      "id": "grp_00311",
       "brand": "Leica",
       "model": "Summilux-M 21mm f/1.4 ASPH.",
       "canonical_name": "Leica Summilux-M 21mm f/1.4 ASPH.",
@@ -4577,7 +4567,7 @@
       ]
     },
     {
-      "id": "grp_00333",
+      "id": "grp_00315",
       "brand": "Leica",
       "model": "Summilux-M 24mm f/1.4 ASPH.",
       "canonical_name": "Leica Summilux-M 24mm f/1.4 ASPH.",
@@ -4603,7 +4593,7 @@
       ]
     },
     {
-      "id": "grp_00337",
+      "id": "grp_00319",
       "brand": "Leica",
       "model": "Summilux-M 28mm f/1.4 ASPH.",
       "canonical_name": "Leica Summilux-M 28mm f/1.4 ASPH.",
@@ -4629,7 +4619,7 @@
       ]
     },
     {
-      "id": "grp_00344",
+      "id": "grp_00326",
       "brand": "Leica",
       "model": "Summilux-M 35mm f/1.4 ASPH. (FLE II, 2022)",
       "canonical_name": "Leica Summilux-M 35mm f/1.4 ASPH. (FLE II, 2022)",
@@ -4655,7 +4645,7 @@
       ]
     },
     {
-      "id": "grp_00349",
+      "id": "grp_00331",
       "brand": "Leica",
       "model": "Summilux-M 50mm f/1.4 ASPH. (II, 2023)",
       "canonical_name": "Leica Summilux-M 50mm f/1.4 ASPH. (II, 2023)",
@@ -4681,7 +4671,7 @@
       ]
     },
     {
-      "id": "grp_00358",
+      "id": "grp_00340",
       "brand": "Leica",
       "model": "Summilux-M 90mm f/1.5 ASPH.",
       "canonical_name": "Leica Summilux-M 90mm f/1.5 ASPH.",
@@ -4707,7 +4697,7 @@
       ]
     },
     {
-      "id": "grp_00350",
+      "id": "grp_00332",
       "brand": "Leica",
       "model": "Summilux-SL 50mm F1.4 ASPH.",
       "canonical_name": "Leica Summilux-SL 50mm F1.4 ASPH.",
@@ -4733,7 +4723,7 @@
       ]
     },
     {
-      "id": "grp_00352",
+      "id": "grp_00334",
       "brand": "Leica",
       "model": "Summilux-SL 50mm f/1.4 ASPH. (2026)",
       "canonical_name": "Leica Summilux-SL 50mm f/1.4 ASPH. (2026)",
@@ -4759,7 +4749,7 @@
       ]
     },
     {
-      "id": "grp_00345",
+      "id": "grp_00327",
       "brand": "Leica",
       "model": "Summilux-TL 35mm f/1.4 ASPH.",
       "canonical_name": "Leica Summilux-TL 35mm f/1.4 ASPH.",
@@ -4785,7 +4775,7 @@
       ]
     },
     {
-      "id": "grp_00330",
+      "id": "grp_00312",
       "brand": "Leica",
       "model": "Super-APO-Summicron-SL 21mm f/2 ASPH.",
       "canonical_name": "Leica Super-APO-Summicron-SL 21mm f/2 ASPH.",
@@ -4811,7 +4801,7 @@
       ]
     },
     {
-      "id": "grp_00328",
+      "id": "grp_00310",
       "brand": "Leica",
       "model": "Super-Elmar-M 18mm f/3.8 ASPH.",
       "canonical_name": "Leica Super-Elmar-M 18mm f/3.8 ASPH.",
@@ -4837,7 +4827,7 @@
       ]
     },
     {
-      "id": "grp_00331",
+      "id": "grp_00313",
       "brand": "Leica",
       "model": "Super-Elmar-M 21mm f/3.4 ASPH.",
       "canonical_name": "Leica Super-Elmar-M 21mm f/3.4 ASPH.",
@@ -4863,7 +4853,7 @@
       ]
     },
     {
-      "id": "grp_00324",
+      "id": "grp_00306",
       "brand": "Leica",
       "model": "Super-Vario-Elmar-SL 16-35mm f/3.5-4.5 ASPH.",
       "canonical_name": "Leica Super-Vario-Elmar-SL 16-35mm f/3.5-4.5 ASPH.",
@@ -4889,7 +4879,7 @@
       ]
     },
     {
-      "id": "grp_00322",
+      "id": "grp_00304",
       "brand": "Leica",
       "model": "Super-Vario-Elmar-TL 11-23mm f/3.5-4.5 ASPH.",
       "canonical_name": "Leica Super-Vario-Elmar-TL 11-23mm f/3.5-4.5 ASPH.",
@@ -4915,7 +4905,7 @@
       ]
     },
     {
-      "id": "grp_00323",
+      "id": "grp_00305",
       "brand": "Leica",
       "model": "Super-Vario-Elmarit-SL 14-24mm f/2.8 ASPH.",
       "canonical_name": "Leica Super-Vario-Elmarit-SL 14-24mm f/2.8 ASPH.",
@@ -4941,7 +4931,7 @@
       ]
     },
     {
-      "id": "grp_00360",
+      "id": "grp_00342",
       "brand": "Leica",
       "model": "Thambar-M 90mm f/2.2",
       "canonical_name": "Leica Thambar-M 90mm f/2.2",
@@ -4967,7 +4957,7 @@
       ]
     },
     {
-      "id": "grp_00325",
+      "id": "grp_00307",
       "brand": "Leica",
       "model": "Tri-Elmar-M 16-18-21mm f/4 ASPH.",
       "canonical_name": "Leica Tri-Elmar-M 16-18-21mm f/4 ASPH.",
@@ -4993,7 +4983,7 @@
       ]
     },
     {
-      "id": "grp_00363",
+      "id": "grp_00345",
       "brand": "Leica",
       "model": "Vario-Elmar-SL 100-400mm f/5-6.3",
       "canonical_name": "Leica Vario-Elmar-SL 100-400mm f/5-6.3",
@@ -5019,7 +5009,7 @@
       ]
     },
     {
-      "id": "grp_00327",
+      "id": "grp_00309",
       "brand": "Leica",
       "model": "Vario-Elmar-TL 18-56mm f/3.5-5.6 ASPH.",
       "canonical_name": "Leica Vario-Elmar-TL 18-56mm f/3.5-5.6 ASPH.",
@@ -5045,7 +5035,7 @@
       ]
     },
     {
-      "id": "grp_00334",
+      "id": "grp_00316",
       "brand": "Leica",
       "model": "Vario-Elmarit-SL 24-70mm f/2.8 ASPH.",
       "canonical_name": "Leica Vario-Elmarit-SL 24-70mm f/2.8 ASPH.",
@@ -5071,7 +5061,7 @@
       ]
     },
     {
-      "id": "grp_00335",
+      "id": "grp_00317",
       "brand": "Leica",
       "model": "Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH.",
       "canonical_name": "Leica Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH.",
@@ -5097,7 +5087,7 @@
       ]
     },
     {
-      "id": "grp_00341",
+      "id": "grp_00323",
       "brand": "Leica",
       "model": "Vario-Elmarit-SL 28-70mm f/2.8 ASPH.",
       "canonical_name": "Leica Vario-Elmarit-SL 28-70mm f/2.8 ASPH.",
@@ -5123,7 +5113,7 @@
       ]
     },
     {
-      "id": "grp_00355",
+      "id": "grp_00337",
       "brand": "Leica",
       "model": "Vario-Elmarit-SL 70-200mm f/2.8 ASPH.",
       "canonical_name": "Leica Vario-Elmarit-SL 70-200mm f/2.8 ASPH.",
@@ -5149,7 +5139,7 @@
       ]
     },
     {
-      "id": "grp_00366",
+      "id": "grp_00348",
       "brand": "Meike",
       "model": "12mm f/2.0 APS-C",
       "canonical_name": "Meike 12mm f/2.0 APS-C",
@@ -5175,7 +5165,7 @@
       ]
     },
     {
-      "id": "grp_00367",
+      "id": "grp_00349",
       "brand": "Meike",
       "model": "23mm f/1.4 APS-C AF STM",
       "canonical_name": "Meike 23mm f/1.4 APS-C AF STM",
@@ -5201,7 +5191,7 @@
       ]
     },
     {
-      "id": "grp_00368",
+      "id": "grp_00350",
       "brand": "Meike",
       "model": "24mm f/1.4 MIX AF STM",
       "canonical_name": "Meike 24mm f/1.4 MIX AF STM",
@@ -5227,7 +5217,7 @@
       ]
     },
     {
-      "id": "grp_00369",
+      "id": "grp_00351",
       "brand": "Meike",
       "model": "25mm f/1.7 Air AF",
       "canonical_name": "Meike 25mm f/1.7 Air AF",
@@ -5253,7 +5243,7 @@
       ]
     },
     {
-      "id": "grp_00370",
+      "id": "grp_00352",
       "brand": "Meike",
       "model": "33mm f/1.4 APS-C AF STM",
       "canonical_name": "Meike 33mm f/1.4 APS-C AF STM",
@@ -5279,7 +5269,7 @@
       ]
     },
     {
-      "id": "grp_00371",
+      "id": "grp_00353",
       "brand": "Meike",
       "model": "35mm f/0.95 APS-C",
       "canonical_name": "Meike 35mm f/0.95 APS-C",
@@ -5305,7 +5295,7 @@
       ]
     },
     {
-      "id": "grp_00372",
+      "id": "grp_00354",
       "brand": "Meike",
       "model": "35mm f/2 AF STM",
       "canonical_name": "Meike 35mm f/2 AF STM",
@@ -5331,7 +5321,7 @@
       ]
     },
     {
-      "id": "grp_00373",
+      "id": "grp_00355",
       "brand": "Meike",
       "model": "50mm f/0.95 APS-C",
       "canonical_name": "Meike 50mm f/0.95 APS-C",
@@ -5357,7 +5347,7 @@
       ]
     },
     {
-      "id": "grp_00374",
+      "id": "grp_00356",
       "brand": "Meike",
       "model": "50mm f/1.2",
       "canonical_name": "Meike 50mm f/1.2",
@@ -5383,7 +5373,7 @@
       ]
     },
     {
-      "id": "grp_00375",
+      "id": "grp_00357",
       "brand": "Meike",
       "model": "50mm f/1.7",
       "canonical_name": "Meike 50mm f/1.7",
@@ -5409,7 +5399,7 @@
       ]
     },
     {
-      "id": "grp_00376",
+      "id": "grp_00358",
       "brand": "Meike",
       "model": "50mm f/1.8 AF STM",
       "canonical_name": "Meike 50mm f/1.8 AF STM",
@@ -5435,7 +5425,7 @@
       ]
     },
     {
-      "id": "grp_00377",
+      "id": "grp_00359",
       "brand": "Meike",
       "model": "55mm f/1.4 APS-C AF STM",
       "canonical_name": "Meike 55mm f/1.4 APS-C AF STM",
@@ -5461,7 +5451,7 @@
       ]
     },
     {
-      "id": "grp_00378",
+      "id": "grp_00360",
       "brand": "Meike",
       "model": "55mm f/1.8 Pro AF",
       "canonical_name": "Meike 55mm f/1.8 Pro AF",
@@ -5487,7 +5477,7 @@
       ]
     },
     {
-      "id": "grp_00379",
+      "id": "grp_00361",
       "brand": "Meike",
       "model": "56mm f/1.7 Air AF",
       "canonical_name": "Meike 56mm f/1.7 Air AF",
@@ -5513,7 +5503,7 @@
       ]
     },
     {
-      "id": "grp_00381",
+      "id": "grp_00363",
       "brand": "Meike",
       "model": "85mm f/1.4 II MIX AF",
       "canonical_name": "Meike 85mm f/1.4 II MIX AF",
@@ -5539,7 +5529,7 @@
       ]
     },
     {
-      "id": "grp_00380",
+      "id": "grp_00362",
       "brand": "Meike",
       "model": "85mm f/1.4 MIX AF",
       "canonical_name": "Meike 85mm f/1.4 MIX AF",
@@ -5565,7 +5555,7 @@
       ]
     },
     {
-      "id": "grp_00382",
+      "id": "grp_00364",
       "brand": "Meike",
       "model": "85mm f/1.8 AF STM",
       "canonical_name": "Meike 85mm f/1.8 AF STM",
@@ -5591,7 +5581,7 @@
       ]
     },
     {
-      "id": "grp_00383",
+      "id": "grp_00365",
       "brand": "Meike",
       "model": "85mm f/1.8 SE II AF",
       "canonical_name": "Meike 85mm f/1.8 SE II AF",
@@ -5617,7 +5607,7 @@
       ]
     },
     {
-      "id": "grp_00422",
+      "id": "grp_00404",
       "brand": "Nikon",
       "model": "NIKKOR Z 100-400mm f/4.5-5.6 VR S",
       "canonical_name": "Nikon NIKKOR Z 100-400mm f/4.5-5.6 VR S",
@@ -5643,7 +5633,7 @@
       ]
     },
     {
-      "id": "grp_00424",
+      "id": "grp_00406",
       "brand": "Nikon",
       "model": "NIKKOR Z 135mm f/1.8 S Plena",
       "canonical_name": "Nikon NIKKOR Z 135mm f/1.8 S Plena",
@@ -5669,7 +5659,7 @@
       ]
     },
     {
-      "id": "grp_00385",
+      "id": "grp_00367",
       "brand": "Nikon",
       "model": "NIKKOR Z 14-24mm f/2.8 S",
       "canonical_name": "Nikon NIKKOR Z 14-24mm f/2.8 S",
@@ -5695,7 +5685,7 @@
       ]
     },
     {
-      "id": "grp_00386",
+      "id": "grp_00368",
       "brand": "Nikon",
       "model": "NIKKOR Z 14-30mm f/4 S",
       "canonical_name": "Nikon NIKKOR Z 14-30mm f/4 S",
@@ -5721,7 +5711,7 @@
       ]
     },
     {
-      "id": "grp_00389",
+      "id": "grp_00371",
       "brand": "Nikon",
       "model": "NIKKOR Z 17-28mm f/2.8",
       "canonical_name": "Nikon NIKKOR Z 17-28mm f/2.8",
@@ -5747,7 +5737,7 @@
       ]
     },
     {
-      "id": "grp_00425",
+      "id": "grp_00407",
       "brand": "Nikon",
       "model": "NIKKOR Z 180-600mm f/5.6-6.3 VR",
       "canonical_name": "Nikon NIKKOR Z 180-600mm f/5.6-6.3 VR",
@@ -5773,7 +5763,7 @@
       ]
     },
     {
-      "id": "grp_00391",
+      "id": "grp_00373",
       "brand": "Nikon",
       "model": "NIKKOR Z 20mm f/1.8 S",
       "canonical_name": "Nikon NIKKOR Z 20mm f/1.8 S",
@@ -5799,7 +5789,7 @@
       ]
     },
     {
-      "id": "grp_00396",
+      "id": "grp_00378",
       "brand": "Nikon",
       "model": "NIKKOR Z 24-105mm f/4-7.1",
       "canonical_name": "Nikon NIKKOR Z 24-105mm f/4-7.1",
@@ -5825,7 +5815,7 @@
       ]
     },
     {
-      "id": "grp_00397",
+      "id": "grp_00379",
       "brand": "Nikon",
       "model": "NIKKOR Z 24-120mm f/4 S",
       "canonical_name": "Nikon NIKKOR Z 24-120mm f/4 S",
@@ -5851,7 +5841,7 @@
       ]
     },
     {
-      "id": "grp_00398",
+      "id": "grp_00380",
       "brand": "Nikon",
       "model": "NIKKOR Z 24-200mm f/4-6.3 VR",
       "canonical_name": "Nikon NIKKOR Z 24-200mm f/4-6.3 VR",
@@ -5877,7 +5867,7 @@
       ]
     },
     {
-      "id": "grp_00399",
+      "id": "grp_00381",
       "brand": "Nikon",
       "model": "NIKKOR Z 24-50mm f/4-6.3",
       "canonical_name": "Nikon NIKKOR Z 24-50mm f/4-6.3",
@@ -5903,7 +5893,7 @@
       ]
     },
     {
-      "id": "grp_00394",
+      "id": "grp_00376",
       "brand": "Nikon",
       "model": "NIKKOR Z 24-70mm f/2.8 S",
       "canonical_name": "Nikon NIKKOR Z 24-70mm f/2.8 S",
@@ -5929,7 +5919,7 @@
       ]
     },
     {
-      "id": "grp_00395",
+      "id": "grp_00377",
       "brand": "Nikon",
       "model": "NIKKOR Z 24-70mm f/2.8 S II",
       "canonical_name": "Nikon NIKKOR Z 24-70mm f/2.8 S II",
@@ -5955,7 +5945,7 @@
       ]
     },
     {
-      "id": "grp_00400",
+      "id": "grp_00382",
       "brand": "Nikon",
       "model": "NIKKOR Z 24-70mm f/4 S",
       "canonical_name": "Nikon NIKKOR Z 24-70mm f/4 S",
@@ -5981,7 +5971,7 @@
       ]
     },
     {
-      "id": "grp_00393",
+      "id": "grp_00375",
       "brand": "Nikon",
       "model": "NIKKOR Z 24mm f/1.8 S",
       "canonical_name": "Nikon NIKKOR Z 24mm f/1.8 S",
@@ -6007,7 +5997,7 @@
       ]
     },
     {
-      "id": "grp_00401",
+      "id": "grp_00383",
       "brand": "Nikon",
       "model": "NIKKOR Z 26mm f/2.8",
       "canonical_name": "Nikon NIKKOR Z 26mm f/2.8",
@@ -6033,7 +6023,7 @@
       ]
     },
     {
-      "id": "grp_00404",
+      "id": "grp_00386",
       "brand": "Nikon",
       "model": "NIKKOR Z 28-135mm f/4 PZ",
       "canonical_name": "Nikon NIKKOR Z 28-135mm f/4 PZ",
@@ -6059,7 +6049,7 @@
       ]
     },
     {
-      "id": "grp_00405",
+      "id": "grp_00387",
       "brand": "Nikon",
       "model": "NIKKOR Z 28-400mm f/4-8 VR",
       "canonical_name": "Nikon NIKKOR Z 28-400mm f/4-8 VR",
@@ -6085,7 +6075,7 @@
       ]
     },
     {
-      "id": "grp_00402",
+      "id": "grp_00384",
       "brand": "Nikon",
       "model": "NIKKOR Z 28-75mm f/2.8",
       "canonical_name": "Nikon NIKKOR Z 28-75mm f/2.8",
@@ -6111,7 +6101,7 @@
       ]
     },
     {
-      "id": "grp_00403",
+      "id": "grp_00385",
       "brand": "Nikon",
       "model": "NIKKOR Z 28mm f/2.8",
       "canonical_name": "Nikon NIKKOR Z 28mm f/2.8",
@@ -6137,7 +6127,7 @@
       ]
     },
     {
-      "id": "grp_00406",
+      "id": "grp_00388",
       "brand": "Nikon",
       "model": "NIKKOR Z 35mm f/1.2 S",
       "canonical_name": "Nikon NIKKOR Z 35mm f/1.2 S",
@@ -6163,7 +6153,7 @@
       ]
     },
     {
-      "id": "grp_00407",
+      "id": "grp_00389",
       "brand": "Nikon",
       "model": "NIKKOR Z 35mm f/1.4",
       "canonical_name": "Nikon NIKKOR Z 35mm f/1.4",
@@ -6189,7 +6179,7 @@
       ]
     },
     {
-      "id": "grp_00409",
+      "id": "grp_00391",
       "brand": "Nikon",
       "model": "NIKKOR Z 35mm f/1.8 S",
       "canonical_name": "Nikon NIKKOR Z 35mm f/1.8 S",
@@ -6215,7 +6205,7 @@
       ]
     },
     {
-      "id": "grp_00426",
+      "id": "grp_00408",
       "brand": "Nikon",
       "model": "NIKKOR Z 400mm f/2.8 TC VR S",
       "canonical_name": "Nikon NIKKOR Z 400mm f/2.8 TC VR S",
@@ -6241,7 +6231,7 @@
       ]
     },
     {
-      "id": "grp_00427",
+      "id": "grp_00409",
       "brand": "Nikon",
       "model": "NIKKOR Z 400mm f/4.5 VR S",
       "canonical_name": "Nikon NIKKOR Z 400mm f/4.5 VR S",
@@ -6267,7 +6257,7 @@
       ]
     },
     {
-      "id": "grp_00410",
+      "id": "grp_00392",
       "brand": "Nikon",
       "model": "NIKKOR Z 40mm f/2",
       "canonical_name": "Nikon NIKKOR Z 40mm f/2",
@@ -6293,7 +6283,7 @@
       ]
     },
     {
-      "id": "grp_00411",
+      "id": "grp_00393",
       "brand": "Nikon",
       "model": "NIKKOR Z 50mm f/1.2 S",
       "canonical_name": "Nikon NIKKOR Z 50mm f/1.2 S",
@@ -6319,7 +6309,7 @@
       ]
     },
     {
-      "id": "grp_00412",
+      "id": "grp_00394",
       "brand": "Nikon",
       "model": "NIKKOR Z 50mm f/1.4",
       "canonical_name": "Nikon NIKKOR Z 50mm f/1.4",
@@ -6345,7 +6335,7 @@
       ]
     },
     {
-      "id": "grp_00413",
+      "id": "grp_00395",
       "brand": "Nikon",
       "model": "NIKKOR Z 50mm f/1.8 S",
       "canonical_name": "Nikon NIKKOR Z 50mm f/1.8 S",
@@ -6371,7 +6361,7 @@
       ]
     },
     {
-      "id": "grp_00416",
+      "id": "grp_00398",
       "brand": "Nikon",
       "model": "NIKKOR Z 58mm f/0.95 S Noct",
       "canonical_name": "Nikon NIKKOR Z 58mm f/0.95 S Noct",
@@ -6397,7 +6387,7 @@
       ]
     },
     {
-      "id": "grp_00428",
+      "id": "grp_00410",
       "brand": "Nikon",
       "model": "NIKKOR Z 600mm f/4 TC VR S",
       "canonical_name": "Nikon NIKKOR Z 600mm f/4 TC VR S",
@@ -6423,7 +6413,7 @@
       ]
     },
     {
-      "id": "grp_00429",
+      "id": "grp_00411",
       "brand": "Nikon",
       "model": "NIKKOR Z 600mm f/6.3 VR S",
       "canonical_name": "Nikon NIKKOR Z 600mm f/6.3 VR S",
@@ -6449,7 +6439,7 @@
       ]
     },
     {
-      "id": "grp_00417",
+      "id": "grp_00399",
       "brand": "Nikon",
       "model": "NIKKOR Z 70-180mm f/2.8",
       "canonical_name": "Nikon NIKKOR Z 70-180mm f/2.8",
@@ -6475,7 +6465,7 @@
       ]
     },
     {
-      "id": "grp_00418",
+      "id": "grp_00400",
       "brand": "Nikon",
       "model": "NIKKOR Z 70-200mm f/2.8 VR S",
       "canonical_name": "Nikon NIKKOR Z 70-200mm f/2.8 VR S",
@@ -6501,7 +6491,7 @@
       ]
     },
     {
-      "id": "grp_00419",
+      "id": "grp_00401",
       "brand": "Nikon",
       "model": "NIKKOR Z 70-200mm f/2.8 VR S II",
       "canonical_name": "Nikon NIKKOR Z 70-200mm f/2.8 VR S II",
@@ -6527,7 +6517,7 @@
       ]
     },
     {
-      "id": "grp_00430",
+      "id": "grp_00412",
       "brand": "Nikon",
       "model": "NIKKOR Z 800mm f/6.3 VR S",
       "canonical_name": "Nikon NIKKOR Z 800mm f/6.3 VR S",
@@ -6553,7 +6543,7 @@
       ]
     },
     {
-      "id": "grp_00420",
+      "id": "grp_00402",
       "brand": "Nikon",
       "model": "NIKKOR Z 85mm f/1.2 S",
       "canonical_name": "Nikon NIKKOR Z 85mm f/1.2 S",
@@ -6579,7 +6569,7 @@
       ]
     },
     {
-      "id": "grp_00421",
+      "id": "grp_00403",
       "brand": "Nikon",
       "model": "NIKKOR Z 85mm f/1.8 S",
       "canonical_name": "Nikon NIKKOR Z 85mm f/1.8 S",
@@ -6605,7 +6595,7 @@
       ]
     },
     {
-      "id": "grp_00384",
+      "id": "grp_00366",
       "brand": "Nikon",
       "model": "NIKKOR Z DX 12-28mm f/3.5-5.6 PZ VR",
       "canonical_name": "Nikon NIKKOR Z DX 12-28mm f/3.5-5.6 PZ VR",
@@ -6631,7 +6621,7 @@
       ]
     },
     {
-      "id": "grp_00387",
+      "id": "grp_00369",
       "brand": "Nikon",
       "model": "NIKKOR Z DX 16-50mm f/2.8 VR",
       "canonical_name": "Nikon NIKKOR Z DX 16-50mm f/2.8 VR",
@@ -6657,7 +6647,7 @@
       ]
     },
     {
-      "id": "grp_00388",
+      "id": "grp_00370",
       "brand": "Nikon",
       "model": "NIKKOR Z DX 16-50mm f/3.5-6.3 VR",
       "canonical_name": "Nikon NIKKOR Z DX 16-50mm f/3.5-6.3 VR",
@@ -6683,7 +6673,7 @@
       ]
     },
     {
-      "id": "grp_00390",
+      "id": "grp_00372",
       "brand": "Nikon",
       "model": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
       "canonical_name": "Nikon NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
@@ -6709,7 +6699,7 @@
       ]
     },
     {
-      "id": "grp_00392",
+      "id": "grp_00374",
       "brand": "Nikon",
       "model": "NIKKOR Z DX 24mm f/1.7",
       "canonical_name": "Nikon NIKKOR Z DX 24mm f/1.7",
@@ -6735,7 +6725,7 @@
       ]
     },
     {
-      "id": "grp_00415",
+      "id": "grp_00397",
       "brand": "Nikon",
       "model": "NIKKOR Z DX 50-250mm f/4.5-6.3 VR",
       "canonical_name": "Nikon NIKKOR Z DX 50-250mm f/4.5-6.3 VR",
@@ -6761,7 +6751,7 @@
       ]
     },
     {
-      "id": "grp_00408",
+      "id": "grp_00390",
       "brand": "Nikon",
       "model": "NIKKOR Z DX MC 35mm f/1.7",
       "canonical_name": "Nikon NIKKOR Z DX MC 35mm f/1.7",
@@ -6787,7 +6777,7 @@
       ]
     },
     {
-      "id": "grp_00423",
+      "id": "grp_00405",
       "brand": "Nikon",
       "model": "NIKKOR Z MC 105mm f/2.8 VR S",
       "canonical_name": "Nikon NIKKOR Z MC 105mm f/2.8 VR S",
@@ -6813,7 +6803,7 @@
       ]
     },
     {
-      "id": "grp_00414",
+      "id": "grp_00396",
       "brand": "Nikon",
       "model": "NIKKOR Z MC 50mm f/2.8",
       "canonical_name": "Nikon NIKKOR Z MC 50mm f/2.8",
@@ -6839,7 +6829,7 @@
       ]
     },
     {
-      "id": "grp_00463",
+      "id": "grp_00445",
       "brand": "OM System",
       "model": "M.Zuiko Digital 17mm F1.8 II",
       "canonical_name": "OM System M.Zuiko Digital 17mm F1.8 II",
@@ -6865,7 +6855,7 @@
       ]
     },
     {
-      "id": "grp_00465",
+      "id": "grp_00447",
       "brand": "OM System",
       "model": "M.Zuiko Digital 25mm F1.8 II",
       "canonical_name": "OM System M.Zuiko Digital 25mm F1.8 II",
@@ -6891,7 +6881,7 @@
       ]
     },
     {
-      "id": "grp_00469",
+      "id": "grp_00451",
       "brand": "OM System",
       "model": "M.Zuiko Digital ED 100-400mm F5.0-6.3 IS II",
       "canonical_name": "OM System M.Zuiko Digital ED 100-400mm F5.0-6.3 IS II",
@@ -6917,7 +6907,7 @@
       ]
     },
     {
-      "id": "grp_00462",
+      "id": "grp_00444",
       "brand": "OM System",
       "model": "M.Zuiko Digital ED 12-40mm F2.8 PRO II",
       "canonical_name": "OM System M.Zuiko Digital ED 12-40mm F2.8 PRO II",
@@ -6943,7 +6933,7 @@
       ]
     },
     {
-      "id": "grp_00470",
+      "id": "grp_00452",
       "brand": "OM System",
       "model": "M.Zuiko Digital ED 150-400mm F4.5 TC1.25X IS PRO",
       "canonical_name": "OM System M.Zuiko Digital ED 150-400mm F4.5 TC1.25X IS PRO",
@@ -6969,7 +6959,7 @@
       ]
     },
     {
-      "id": "grp_00471",
+      "id": "grp_00453",
       "brand": "OM System",
       "model": "M.Zuiko Digital ED 150-600mm F5.0-6.3 IS",
       "canonical_name": "OM System M.Zuiko Digital ED 150-600mm F5.0-6.3 IS",
@@ -6995,7 +6985,7 @@
       ]
     },
     {
-      "id": "grp_00464",
+      "id": "grp_00446",
       "brand": "OM System",
       "model": "M.Zuiko Digital ED 20mm F1.4 PRO",
       "canonical_name": "OM System M.Zuiko Digital ED 20mm F1.4 PRO",
@@ -7021,7 +7011,7 @@
       ]
     },
     {
-      "id": "grp_00466",
+      "id": "grp_00448",
       "brand": "OM System",
       "model": "M.Zuiko Digital ED 40-150mm F4.0 PRO",
       "canonical_name": "OM System M.Zuiko Digital ED 40-150mm F4.0 PRO",
@@ -7047,7 +7037,7 @@
       ]
     },
     {
-      "id": "grp_00467",
+      "id": "grp_00449",
       "brand": "OM System",
       "model": "M.Zuiko Digital ED 50-200mm F2.8 IS PRO",
       "canonical_name": "OM System M.Zuiko Digital ED 50-200mm F2.8 IS PRO",
@@ -7073,7 +7063,7 @@
       ]
     },
     {
-      "id": "grp_00460",
+      "id": "grp_00442",
       "brand": "OM System",
       "model": "M.Zuiko Digital ED 8-25mm F4.0 PRO",
       "canonical_name": "OM System M.Zuiko Digital ED 8-25mm F4.0 PRO",
@@ -7099,7 +7089,7 @@
       ]
     },
     {
-      "id": "grp_00461",
+      "id": "grp_00443",
       "brand": "OM System",
       "model": "M.Zuiko Digital ED 9-18mm F4.0-5.6 II",
       "canonical_name": "OM System M.Zuiko Digital ED 9-18mm F4.0-5.6 II",
@@ -7125,7 +7115,7 @@
       ]
     },
     {
-      "id": "grp_00468",
+      "id": "grp_00450",
       "brand": "OM System",
       "model": "M.Zuiko Digital ED 90mm F3.5 Macro IS PRO",
       "canonical_name": "OM System M.Zuiko Digital ED 90mm F3.5 Macro IS PRO",
@@ -7151,7 +7141,7 @@
       ]
     },
     {
-      "id": "grp_00441",
+      "id": "grp_00423",
       "brand": "Olympus",
       "model": "M.Zuiko Digital 14-42mm F3.5-5.6 II R",
       "canonical_name": "Olympus M.Zuiko Digital 14-42mm F3.5-5.6 II R",
@@ -7177,7 +7167,7 @@
       ]
     },
     {
-      "id": "grp_00444",
+      "id": "grp_00426",
       "brand": "Olympus",
       "model": "M.Zuiko Digital 15mm F8.0 Body Cap BCL-1580",
       "canonical_name": "Olympus M.Zuiko Digital 15mm F8.0 Body Cap BCL-1580",
@@ -7203,7 +7193,7 @@
       ]
     },
     {
-      "id": "grp_00446",
+      "id": "grp_00428",
       "brand": "Olympus",
       "model": "M.Zuiko Digital 17mm F1.8",
       "canonical_name": "Olympus M.Zuiko Digital 17mm F1.8",
@@ -7229,7 +7219,7 @@
       ]
     },
     {
-      "id": "grp_00447",
+      "id": "grp_00429",
       "brand": "Olympus",
       "model": "M.Zuiko Digital 17mm F2.8",
       "canonical_name": "Olympus M.Zuiko Digital 17mm F2.8",
@@ -7255,7 +7245,7 @@
       ]
     },
     {
-      "id": "grp_00449",
+      "id": "grp_00431",
       "brand": "Olympus",
       "model": "M.Zuiko Digital 25mm F1.8",
       "canonical_name": "Olympus M.Zuiko Digital 25mm F1.8",
@@ -7281,7 +7271,7 @@
       ]
     },
     {
-      "id": "grp_00454",
+      "id": "grp_00436",
       "brand": "Olympus",
       "model": "M.Zuiko Digital 45mm F1.8",
       "canonical_name": "Olympus M.Zuiko Digital 45mm F1.8",
@@ -7307,7 +7297,7 @@
       ]
     },
     {
-      "id": "grp_00458",
+      "id": "grp_00440",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 100-400mm F5.0-6.3 IS",
       "canonical_name": "Olympus M.Zuiko Digital ED 100-400mm F5.0-6.3 IS",
@@ -7333,7 +7323,7 @@
       ]
     },
     {
-      "id": "grp_00439",
+      "id": "grp_00421",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 12-100mm F4.0 IS PRO",
       "canonical_name": "Olympus M.Zuiko Digital ED 12-100mm F4.0 IS PRO",
@@ -7359,7 +7349,7 @@
       ]
     },
     {
-      "id": "grp_00437",
+      "id": "grp_00419",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 12-200mm F3.5-6.3",
       "canonical_name": "Olympus M.Zuiko Digital ED 12-200mm F3.5-6.3",
@@ -7385,7 +7375,7 @@
       ]
     },
     {
-      "id": "grp_00436",
+      "id": "grp_00418",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 12-40mm F2.8 PRO",
       "canonical_name": "Olympus M.Zuiko Digital ED 12-40mm F2.8 PRO",
@@ -7411,7 +7401,7 @@
       ]
     },
     {
-      "id": "grp_00440",
+      "id": "grp_00422",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 12-45mm F4.0 PRO",
       "canonical_name": "Olympus M.Zuiko Digital ED 12-45mm F4.0 PRO",
@@ -7437,7 +7427,7 @@
       ]
     },
     {
-      "id": "grp_00438",
+      "id": "grp_00420",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 12-50mm F3.5-6.3 EZ",
       "canonical_name": "Olympus M.Zuiko Digital ED 12-50mm F3.5-6.3 EZ",
@@ -7463,7 +7453,7 @@
       ]
     },
     {
-      "id": "grp_00435",
+      "id": "grp_00417",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 12mm F2.0",
       "canonical_name": "Olympus M.Zuiko Digital ED 12mm F2.0",
@@ -7489,7 +7479,7 @@
       ]
     },
     {
-      "id": "grp_00443",
+      "id": "grp_00425",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 14-150mm F4.0-5.6 II",
       "canonical_name": "Olympus M.Zuiko Digital ED 14-150mm F4.0-5.6 II",
@@ -7515,7 +7505,7 @@
       ]
     },
     {
-      "id": "grp_00442",
+      "id": "grp_00424",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 14-42mm F3.5-5.6 EZ",
       "canonical_name": "Olympus M.Zuiko Digital ED 14-42mm F3.5-5.6 EZ",
@@ -7541,7 +7531,7 @@
       ]
     },
     {
-      "id": "grp_00445",
+      "id": "grp_00427",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 17mm F1.2 PRO",
       "canonical_name": "Olympus M.Zuiko Digital ED 17mm F1.2 PRO",
@@ -7567,7 +7557,7 @@
       ]
     },
     {
-      "id": "grp_00448",
+      "id": "grp_00430",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 25mm F1.2 PRO",
       "canonical_name": "Olympus M.Zuiko Digital ED 25mm F1.2 PRO",
@@ -7593,7 +7583,7 @@
       ]
     },
     {
-      "id": "grp_00459",
+      "id": "grp_00441",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 300mm F4.0 IS PRO",
       "canonical_name": "Olympus M.Zuiko Digital ED 300mm F4.0 IS PRO",
@@ -7619,7 +7609,7 @@
       ]
     },
     {
-      "id": "grp_00450",
+      "id": "grp_00432",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 30mm F3.5 Macro",
       "canonical_name": "Olympus M.Zuiko Digital ED 30mm F3.5 Macro",
@@ -7645,7 +7635,7 @@
       ]
     },
     {
-      "id": "grp_00451",
+      "id": "grp_00433",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 40-150mm F2.8 PRO",
       "canonical_name": "Olympus M.Zuiko Digital ED 40-150mm F2.8 PRO",
@@ -7671,7 +7661,7 @@
       ]
     },
     {
-      "id": "grp_00452",
+      "id": "grp_00434",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
       "canonical_name": "Olympus M.Zuiko Digital ED 40-150mm F4.0-5.6 R",
@@ -7697,7 +7687,7 @@
       ]
     },
     {
-      "id": "grp_00453",
+      "id": "grp_00435",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 45mm F1.2 PRO",
       "canonical_name": "Olympus M.Zuiko Digital ED 45mm F1.2 PRO",
@@ -7723,7 +7713,7 @@
       ]
     },
     {
-      "id": "grp_00455",
+      "id": "grp_00437",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 60mm F2.8 Macro",
       "canonical_name": "Olympus M.Zuiko Digital ED 60mm F2.8 Macro",
@@ -7749,7 +7739,7 @@
       ]
     },
     {
-      "id": "grp_00431",
+      "id": "grp_00413",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 7-14mm F2.8 PRO",
       "canonical_name": "Olympus M.Zuiko Digital ED 7-14mm F2.8 PRO",
@@ -7775,7 +7765,7 @@
       ]
     },
     {
-      "id": "grp_00457",
+      "id": "grp_00439",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 75-300mm F4.8-6.7 II",
       "canonical_name": "Olympus M.Zuiko Digital ED 75-300mm F4.8-6.7 II",
@@ -7801,7 +7791,7 @@
       ]
     },
     {
-      "id": "grp_00456",
+      "id": "grp_00438",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 75mm F1.8",
       "canonical_name": "Olympus M.Zuiko Digital ED 75mm F1.8",
@@ -7827,7 +7817,7 @@
       ]
     },
     {
-      "id": "grp_00432",
+      "id": "grp_00414",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 8mm F1.8 Fisheye PRO",
       "canonical_name": "Olympus M.Zuiko Digital ED 8mm F1.8 Fisheye PRO",
@@ -7853,7 +7843,7 @@
       ]
     },
     {
-      "id": "grp_00433",
+      "id": "grp_00415",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 9-18mm F4.0-5.6",
       "canonical_name": "Olympus M.Zuiko Digital ED 9-18mm F4.0-5.6",
@@ -7879,7 +7869,7 @@
       ]
     },
     {
-      "id": "grp_00434",
+      "id": "grp_00416",
       "brand": "Olympus",
       "model": "M.Zuiko Digital ED 9mm F8.0 Fisheye Body Cap BCL-0980",
       "canonical_name": "Olympus M.Zuiko Digital ED 9mm F8.0 Fisheye Body Cap BCL-0980",
@@ -7905,7 +7895,7 @@
       ]
     },
     {
-      "id": "grp_00536",
+      "id": "grp_00518",
       "brand": "Panasonic",
       "model": "LEICA DG ELMARIT 200mm F2.8 POWER O.I.S.",
       "canonical_name": "Panasonic LEICA DG ELMARIT 200mm F2.8 POWER O.I.S.",
@@ -7931,7 +7921,7 @@
       ]
     },
     {
-      "id": "grp_00518",
+      "id": "grp_00500",
       "brand": "Panasonic",
       "model": "LEICA DG MACRO-ELMARIT 45mm F2.8 ASPH. MEGA O.I.S.",
       "canonical_name": "Panasonic LEICA DG MACRO-ELMARIT 45mm F2.8 ASPH. MEGA O.I.S.",
@@ -7957,7 +7947,7 @@
       ]
     },
     {
-      "id": "grp_00516",
+      "id": "grp_00498",
       "brand": "Panasonic",
       "model": "LEICA DG NOCTICRON 42.5mm F1.2 ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LEICA DG NOCTICRON 42.5mm F1.2 ASPH. POWER O.I.S.",
@@ -7983,7 +7973,7 @@
       ]
     },
     {
-      "id": "grp_00477",
+      "id": "grp_00459",
       "brand": "Panasonic",
       "model": "LEICA DG SUMMILUX 12mm F1.4 ASPH.",
       "canonical_name": "Panasonic LEICA DG SUMMILUX 12mm F1.4 ASPH.",
@@ -8009,7 +7999,7 @@
       ]
     },
     {
-      "id": "grp_00492",
+      "id": "grp_00474",
       "brand": "Panasonic",
       "model": "LEICA DG SUMMILUX 15mm F1.7 ASPH.",
       "canonical_name": "Panasonic LEICA DG SUMMILUX 15mm F1.7 ASPH.",
@@ -8035,7 +8025,7 @@
       ]
     },
     {
-      "id": "grp_00503",
+      "id": "grp_00485",
       "brand": "Panasonic",
       "model": "LEICA DG SUMMILUX 25mm F1.4 ASPH.",
       "canonical_name": "Panasonic LEICA DG SUMMILUX 25mm F1.4 ASPH.",
@@ -8061,7 +8051,7 @@
       ]
     },
     {
-      "id": "grp_00504",
+      "id": "grp_00486",
       "brand": "Panasonic",
       "model": "LEICA DG SUMMILUX 25mm F1.4 II ASPH.",
       "canonical_name": "Panasonic LEICA DG SUMMILUX 25mm F1.4 II ASPH.",
@@ -8087,7 +8077,7 @@
       ]
     },
     {
-      "id": "grp_00475",
+      "id": "grp_00457",
       "brand": "Panasonic",
       "model": "LEICA DG SUMMILUX 9mm F1.7 ASPH.",
       "canonical_name": "Panasonic LEICA DG SUMMILUX 9mm F1.7 ASPH.",
@@ -8113,7 +8103,7 @@
       ]
     },
     {
-      "id": "grp_00531",
+      "id": "grp_00513",
       "brand": "Panasonic",
       "model": "LEICA DG VARIO-ELMAR 100-400mm F4.0-6.3 ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LEICA DG VARIO-ELMAR 100-400mm F4.0-6.3 ASPH. POWER O.I.S.",
@@ -8139,7 +8129,7 @@
       ]
     },
     {
-      "id": "grp_00532",
+      "id": "grp_00514",
       "brand": "Panasonic",
       "model": "LEICA DG VARIO-ELMAR 100-400mm F4.0-6.3 II ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LEICA DG VARIO-ELMAR 100-400mm F4.0-6.3 II ASPH. POWER O.I.S.",
@@ -8165,7 +8155,7 @@
       ]
     },
     {
-      "id": "grp_00478",
+      "id": "grp_00460",
       "brand": "Panasonic",
       "model": "LEICA DG VARIO-ELMARIT 12-35mm F2.8 ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LEICA DG VARIO-ELMARIT 12-35mm F2.8 ASPH. POWER O.I.S.",
@@ -8191,7 +8181,7 @@
       ]
     },
     {
-      "id": "grp_00479",
+      "id": "grp_00461",
       "brand": "Panasonic",
       "model": "LEICA DG VARIO-ELMARIT 12-60mm F2.8-4.0 ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LEICA DG VARIO-ELMARIT 12-60mm F2.8-4.0 ASPH. POWER O.I.S.",
@@ -8217,7 +8207,7 @@
       ]
     },
     {
-      "id": "grp_00511",
+      "id": "grp_00493",
       "brand": "Panasonic",
       "model": "LEICA DG VARIO-ELMARIT 35-100mm F2.8 POWER O.I.S.",
       "canonical_name": "Panasonic LEICA DG VARIO-ELMARIT 35-100mm F2.8 POWER O.I.S.",
@@ -8243,7 +8233,7 @@
       ]
     },
     {
-      "id": "grp_00525",
+      "id": "grp_00507",
       "brand": "Panasonic",
       "model": "LEICA DG VARIO-ELMARIT 50-200mm F2.8-4.0 ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LEICA DG VARIO-ELMARIT 50-200mm F2.8-4.0 ASPH. POWER O.I.S.",
@@ -8269,7 +8259,7 @@
       ]
     },
     {
-      "id": "grp_00473",
+      "id": "grp_00455",
       "brand": "Panasonic",
       "model": "LEICA DG VARIO-ELMARIT 8-18mm F2.8-4.0 ASPH.",
       "canonical_name": "Panasonic LEICA DG VARIO-ELMARIT 8-18mm F2.8-4.0 ASPH.",
@@ -8295,7 +8285,7 @@
       ]
     },
     {
-      "id": "grp_00476",
+      "id": "grp_00458",
       "brand": "Panasonic",
       "model": "LEICA DG VARIO-SUMMILUX 10-25mm F1.7 ASPH.",
       "canonical_name": "Panasonic LEICA DG VARIO-SUMMILUX 10-25mm F1.7 ASPH.",
@@ -8321,7 +8311,7 @@
       ]
     },
     {
-      "id": "grp_00505",
+      "id": "grp_00487",
       "brand": "Panasonic",
       "model": "LEICA DG VARIO-SUMMILUX 25-50mm F1.7 ASPH.",
       "canonical_name": "Panasonic LEICA DG VARIO-SUMMILUX 25-50mm F1.7 ASPH.",
@@ -8347,7 +8337,7 @@
       ]
     },
     {
-      "id": "grp_00484",
+      "id": "grp_00466",
       "brand": "Panasonic",
       "model": "LUMIX G 14mm F2.5 ASPH.",
       "canonical_name": "Panasonic LUMIX G 14mm F2.5 ASPH.",
@@ -8373,7 +8363,7 @@
       ]
     },
     {
-      "id": "grp_00485",
+      "id": "grp_00467",
       "brand": "Panasonic",
       "model": "LUMIX G 14mm F2.5 II ASPH.",
       "canonical_name": "Panasonic LUMIX G 14mm F2.5 II ASPH.",
@@ -8399,7 +8389,7 @@
       ]
     },
     {
-      "id": "grp_00496",
+      "id": "grp_00478",
       "brand": "Panasonic",
       "model": "LUMIX G 20mm F1.7 ASPH.",
       "canonical_name": "Panasonic LUMIX G 20mm F1.7 ASPH.",
@@ -8425,7 +8415,7 @@
       ]
     },
     {
-      "id": "grp_00497",
+      "id": "grp_00479",
       "brand": "Panasonic",
       "model": "LUMIX G 20mm F1.7 II ASPH.",
       "canonical_name": "Panasonic LUMIX G 20mm F1.7 II ASPH.",
@@ -8451,7 +8441,7 @@
       ]
     },
     {
-      "id": "grp_00506",
+      "id": "grp_00488",
       "brand": "Panasonic",
       "model": "LUMIX G 25mm F1.7 ASPH.",
       "canonical_name": "Panasonic LUMIX G 25mm F1.7 ASPH.",
@@ -8477,7 +8467,7 @@
       ]
     },
     {
-      "id": "grp_00517",
+      "id": "grp_00499",
       "brand": "Panasonic",
       "model": "LUMIX G 42.5mm F1.7 ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LUMIX G 42.5mm F1.7 ASPH. POWER O.I.S.",
@@ -8503,7 +8493,7 @@
       ]
     },
     {
-      "id": "grp_00474",
+      "id": "grp_00456",
       "brand": "Panasonic",
       "model": "LUMIX G FISHEYE 8mm F3.5",
       "canonical_name": "Panasonic LUMIX G FISHEYE 8mm F3.5",
@@ -8529,7 +8519,7 @@
       ]
     },
     {
-      "id": "grp_00509",
+      "id": "grp_00491",
       "brand": "Panasonic",
       "model": "LUMIX G MACRO 30mm F2.8 ASPH. MEGA O.I.S.",
       "canonical_name": "Panasonic LUMIX G MACRO 30mm F2.8 ASPH. MEGA O.I.S.",
@@ -8555,7 +8545,7 @@
       ]
     },
     {
-      "id": "grp_00533",
+      "id": "grp_00515",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 100-300mm F4.0-5.6 II POWER O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 100-300mm F4.0-5.6 II POWER O.I.S.",
@@ -8581,7 +8571,7 @@
       ]
     },
     {
-      "id": "grp_00534",
+      "id": "grp_00516",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 100-300mm F4.0-5.6 MEGA O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 100-300mm F4.0-5.6 MEGA O.I.S.",
@@ -8607,7 +8597,7 @@
       ]
     },
     {
-      "id": "grp_00482",
+      "id": "grp_00464",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 12-32mm F3.5-5.6 ASPH. MEGA O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 12-32mm F3.5-5.6 ASPH. MEGA O.I.S.",
@@ -8633,7 +8623,7 @@
       ]
     },
     {
-      "id": "grp_00483",
+      "id": "grp_00465",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 12-60mm F3.5-5.6 ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 12-60mm F3.5-5.6 ASPH. POWER O.I.S.",
@@ -8659,7 +8649,7 @@
       ]
     },
     {
-      "id": "grp_00486",
+      "id": "grp_00468",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 14-140mm F3.5-5.6 II ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 14-140mm F3.5-5.6 II ASPH. POWER O.I.S.",
@@ -8685,7 +8675,7 @@
       ]
     },
     {
-      "id": "grp_00487",
+      "id": "grp_00469",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 14-42mm F3.5-5.6 ASPH. MEGA O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 14-42mm F3.5-5.6 ASPH. MEGA O.I.S.",
@@ -8711,7 +8701,7 @@
       ]
     },
     {
-      "id": "grp_00488",
+      "id": "grp_00470",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 14-42mm F3.5-5.6 II ASPH. MEGA O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 14-42mm F3.5-5.6 II ASPH. MEGA O.I.S.",
@@ -8737,7 +8727,7 @@
       ]
     },
     {
-      "id": "grp_00489",
+      "id": "grp_00471",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 14-45mm F3.5-5.6 ASPH. MEGA O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 14-45mm F3.5-5.6 ASPH. MEGA O.I.S.",
@@ -8763,7 +8753,7 @@
       ]
     },
     {
-      "id": "grp_00514",
+      "id": "grp_00496",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 35-100mm F4.0-5.6 ASPH. MEGA O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 35-100mm F4.0-5.6 ASPH. MEGA O.I.S.",
@@ -8789,7 +8779,7 @@
       ]
     },
     {
-      "id": "grp_00519",
+      "id": "grp_00501",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 45-150mm F4.0-5.6 ASPH. MEGA O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 45-150mm F4.0-5.6 ASPH. MEGA O.I.S.",
@@ -8815,7 +8805,7 @@
       ]
     },
     {
-      "id": "grp_00520",
+      "id": "grp_00502",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 45-200mm F4.0-5.6 II POWER O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 45-200mm F4.0-5.6 II POWER O.I.S.",
@@ -8841,7 +8831,7 @@
       ]
     },
     {
-      "id": "grp_00521",
+      "id": "grp_00503",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 45-200mm F4.0-5.6 MEGA O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO 45-200mm F4.0-5.6 MEGA O.I.S.",
@@ -8867,7 +8857,7 @@
       ]
     },
     {
-      "id": "grp_00472",
+      "id": "grp_00454",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO 7-14mm F4.0 ASPH.",
       "canonical_name": "Panasonic LUMIX G VARIO 7-14mm F4.0 ASPH.",
@@ -8893,7 +8883,7 @@
       ]
     },
     {
-      "id": "grp_00490",
+      "id": "grp_00472",
       "brand": "Panasonic",
       "model": "LUMIX G VARIO HD 14-140mm F4.0-5.8 ASPH. MEGA O.I.S.",
       "canonical_name": "Panasonic LUMIX G VARIO HD 14-140mm F4.0-5.8 ASPH. MEGA O.I.S.",
@@ -8919,7 +8909,7 @@
       ]
     },
     {
-      "id": "grp_00480",
+      "id": "grp_00462",
       "brand": "Panasonic",
       "model": "LUMIX G X VARIO 12-35mm F2.8 ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LUMIX G X VARIO 12-35mm F2.8 ASPH. POWER O.I.S.",
@@ -8945,7 +8935,7 @@
       ]
     },
     {
-      "id": "grp_00481",
+      "id": "grp_00463",
       "brand": "Panasonic",
       "model": "LUMIX G X VARIO 12-35mm F2.8 II ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LUMIX G X VARIO 12-35mm F2.8 II ASPH. POWER O.I.S.",
@@ -8971,7 +8961,7 @@
       ]
     },
     {
-      "id": "grp_00512",
+      "id": "grp_00494",
       "brand": "Panasonic",
       "model": "LUMIX G X VARIO 35-100mm F2.8 II POWER O.I.S.",
       "canonical_name": "Panasonic LUMIX G X VARIO 35-100mm F2.8 II POWER O.I.S.",
@@ -8997,7 +8987,7 @@
       ]
     },
     {
-      "id": "grp_00513",
+      "id": "grp_00495",
       "brand": "Panasonic",
       "model": "LUMIX G X VARIO 35-100mm F2.8 POWER O.I.S.",
       "canonical_name": "Panasonic LUMIX G X VARIO 35-100mm F2.8 POWER O.I.S.",
@@ -9023,7 +9013,7 @@
       ]
     },
     {
-      "id": "grp_00522",
+      "id": "grp_00504",
       "brand": "Panasonic",
       "model": "LUMIX G X VARIO PZ 45-175mm F4.0-5.6 ASPH. POWER O.I.S.",
       "canonical_name": "Panasonic LUMIX G X VARIO PZ 45-175mm F4.0-5.6 ASPH. POWER O.I.S.",
@@ -9049,7 +9039,7 @@
       ]
     },
     {
-      "id": "grp_00535",
+      "id": "grp_00517",
       "brand": "Panasonic",
       "model": "LUMIX S 100-500mm F5-7.1 O.I.S.",
       "canonical_name": "Panasonic LUMIX S 100-500mm F5-7.1 O.I.S.",
@@ -9075,7 +9065,7 @@
       ]
     },
     {
-      "id": "grp_00530",
+      "id": "grp_00512",
       "brand": "Panasonic",
       "model": "LUMIX S 100mm F2.8 MACRO",
       "canonical_name": "Panasonic LUMIX S 100mm F2.8 MACRO",
@@ -9101,7 +9091,7 @@
       ]
     },
     {
-      "id": "grp_00491",
+      "id": "grp_00473",
       "brand": "Panasonic",
       "model": "LUMIX S 14-28mm F4-5.6 MACRO",
       "canonical_name": "Panasonic LUMIX S 14-28mm F4-5.6 MACRO",
@@ -9127,7 +9117,7 @@
       ]
     },
     {
-      "id": "grp_00495",
+      "id": "grp_00477",
       "brand": "Panasonic",
       "model": "LUMIX S 18-40mm F4.5-6.3",
       "canonical_name": "Panasonic LUMIX S 18-40mm F4.5-6.3",
@@ -9153,7 +9143,7 @@
       ]
     },
     {
-      "id": "grp_00494",
+      "id": "grp_00476",
       "brand": "Panasonic",
       "model": "LUMIX S 18mm F1.8",
       "canonical_name": "Panasonic LUMIX S 18mm F1.8",
@@ -9179,7 +9169,7 @@
       ]
     },
     {
-      "id": "grp_00498",
+      "id": "grp_00480",
       "brand": "Panasonic",
       "model": "LUMIX S 20-60mm F3.5-5.6",
       "canonical_name": "Panasonic LUMIX S 20-60mm F3.5-5.6",
@@ -9205,7 +9195,7 @@
       ]
     },
     {
-      "id": "grp_00502",
+      "id": "grp_00484",
       "brand": "Panasonic",
       "model": "LUMIX S 24-105mm F4 MACRO O.I.S.",
       "canonical_name": "Panasonic LUMIX S 24-105mm F4 MACRO O.I.S.",
@@ -9231,7 +9221,7 @@
       ]
     },
     {
-      "id": "grp_00500",
+      "id": "grp_00482",
       "brand": "Panasonic",
       "model": "LUMIX S 24-60mm F2.8",
       "canonical_name": "Panasonic LUMIX S 24-60mm F2.8",
@@ -9257,7 +9247,7 @@
       ]
     },
     {
-      "id": "grp_00499",
+      "id": "grp_00481",
       "brand": "Panasonic",
       "model": "LUMIX S 24mm F1.8",
       "canonical_name": "Panasonic LUMIX S 24mm F1.8",
@@ -9283,7 +9273,7 @@
       ]
     },
     {
-      "id": "grp_00507",
+      "id": "grp_00489",
       "brand": "Panasonic",
       "model": "LUMIX S 26mm F8",
       "canonical_name": "Panasonic LUMIX S 26mm F8",
@@ -9309,7 +9299,7 @@
       ]
     },
     {
-      "id": "grp_00508",
+      "id": "grp_00490",
       "brand": "Panasonic",
       "model": "LUMIX S 28-200mm F4-7.1 MACRO O.I.S.",
       "canonical_name": "Panasonic LUMIX S 28-200mm F4-7.1 MACRO O.I.S.",
@@ -9335,7 +9325,7 @@
       ]
     },
     {
-      "id": "grp_00510",
+      "id": "grp_00492",
       "brand": "Panasonic",
       "model": "LUMIX S 35mm F1.8",
       "canonical_name": "Panasonic LUMIX S 35mm F1.8",
@@ -9361,7 +9351,7 @@
       ]
     },
     {
-      "id": "grp_00515",
+      "id": "grp_00497",
       "brand": "Panasonic",
       "model": "LUMIX S 40mm F2",
       "canonical_name": "Panasonic LUMIX S 40mm F2",
@@ -9387,7 +9377,7 @@
       ]
     },
     {
-      "id": "grp_00524",
+      "id": "grp_00506",
       "brand": "Panasonic",
       "model": "LUMIX S 50mm F1.8",
       "canonical_name": "Panasonic LUMIX S 50mm F1.8",
@@ -9413,7 +9403,7 @@
       ]
     },
     {
-      "id": "grp_00528",
+      "id": "grp_00510",
       "brand": "Panasonic",
       "model": "LUMIX S 70-300mm F4.5-5.6 MACRO O.I.S.",
       "canonical_name": "Panasonic LUMIX S 70-300mm F4.5-5.6 MACRO O.I.S.",
@@ -9439,7 +9429,7 @@
       ]
     },
     {
-      "id": "grp_00529",
+      "id": "grp_00511",
       "brand": "Panasonic",
       "model": "LUMIX S 85mm F1.8",
       "canonical_name": "Panasonic LUMIX S 85mm F1.8",
@@ -9465,7 +9455,7 @@
       ]
     },
     {
-      "id": "grp_00493",
+      "id": "grp_00475",
       "brand": "Panasonic",
       "model": "LUMIX S PRO 16-35mm F4",
       "canonical_name": "Panasonic LUMIX S PRO 16-35mm F4",
@@ -9491,7 +9481,7 @@
       ]
     },
     {
-      "id": "grp_00501",
+      "id": "grp_00483",
       "brand": "Panasonic",
       "model": "LUMIX S PRO 24-70mm F2.8",
       "canonical_name": "Panasonic LUMIX S PRO 24-70mm F2.8",
@@ -9517,7 +9507,7 @@
       ]
     },
     {
-      "id": "grp_00523",
+      "id": "grp_00505",
       "brand": "Panasonic",
       "model": "LUMIX S PRO 50mm F1.4",
       "canonical_name": "Panasonic LUMIX S PRO 50mm F1.4",
@@ -9543,7 +9533,7 @@
       ]
     },
     {
-      "id": "grp_00526",
+      "id": "grp_00508",
       "brand": "Panasonic",
       "model": "LUMIX S PRO 70-200mm F2.8 O.I.S.",
       "canonical_name": "Panasonic LUMIX S PRO 70-200mm F2.8 O.I.S.",
@@ -9569,7 +9559,7 @@
       ]
     },
     {
-      "id": "grp_00527",
+      "id": "grp_00509",
       "brand": "Panasonic",
       "model": "LUMIX S PRO 70-200mm F4 O.I.S.",
       "canonical_name": "Panasonic LUMIX S PRO 70-200mm F4 O.I.S.",
@@ -9595,7 +9585,7 @@
       ]
     },
     {
-      "id": "grp_00537",
+      "id": "grp_00519",
       "brand": "Samyang",
       "model": "AF 12mm F2",
       "canonical_name": "Samyang AF 12mm F2",
@@ -9621,7 +9611,7 @@
       ]
     },
     {
-      "id": "grp_00570",
+      "id": "grp_00552",
       "brand": "Samyang",
       "model": "AF 135mm F1.8 FE",
       "canonical_name": "Samyang AF 135mm F1.8 FE",
@@ -9647,7 +9637,7 @@
       ]
     },
     {
-      "id": "grp_00539",
+      "id": "grp_00521",
       "brand": "Samyang",
       "model": "AF 14-24mm F2.8",
       "canonical_name": "Samyang AF 14-24mm F2.8",
@@ -9673,7 +9663,7 @@
       ]
     },
     {
-      "id": "grp_00540",
+      "id": "grp_00522",
       "brand": "Samyang",
       "model": "AF 14mm F2.8",
       "canonical_name": "Samyang AF 14mm F2.8",
@@ -9699,7 +9689,7 @@
       ]
     },
     {
-      "id": "grp_00542",
+      "id": "grp_00524",
       "brand": "Samyang",
       "model": "AF 16mm F2.8 P FE",
       "canonical_name": "Samyang AF 16mm F2.8 P FE",
@@ -9725,7 +9715,7 @@
       ]
     },
     {
-      "id": "grp_00543",
+      "id": "grp_00525",
       "brand": "Samyang",
       "model": "AF 18mm F2.8 FE",
       "canonical_name": "Samyang AF 18mm F2.8 FE",
@@ -9751,7 +9741,7 @@
       ]
     },
     {
-      "id": "grp_00547",
+      "id": "grp_00529",
       "brand": "Samyang",
       "model": "AF 24-60mm F2.8 FE",
       "canonical_name": "Samyang AF 24-60mm F2.8 FE",
@@ -9777,7 +9767,7 @@
       ]
     },
     {
-      "id": "grp_00548",
+      "id": "grp_00530",
       "brand": "Samyang",
       "model": "AF 24-70mm F2.8 FE",
       "canonical_name": "Samyang AF 24-70mm F2.8 FE",
@@ -9803,7 +9793,7 @@
       ]
     },
     {
-      "id": "grp_00545",
+      "id": "grp_00527",
       "brand": "Samyang",
       "model": "AF 24mm F1.8 FE",
       "canonical_name": "Samyang AF 24mm F1.8 FE",
@@ -9829,7 +9819,7 @@
       ]
     },
     {
-      "id": "grp_00549",
+      "id": "grp_00531",
       "brand": "Samyang",
       "model": "AF 24mm F2.8 FE",
       "canonical_name": "Samyang AF 24mm F2.8 FE",
@@ -9855,7 +9845,7 @@
       ]
     },
     {
-      "id": "grp_00555",
+      "id": "grp_00537",
       "brand": "Samyang",
       "model": "AF 35-150mm F2-2.8",
       "canonical_name": "Samyang AF 35-150mm F2-2.8",
@@ -9881,7 +9871,7 @@
       ]
     },
     {
-      "id": "grp_00551",
+      "id": "grp_00533",
       "brand": "Samyang",
       "model": "AF 35mm F1.4 FE",
       "canonical_name": "Samyang AF 35mm F1.4 FE",
@@ -9907,7 +9897,7 @@
       ]
     },
     {
-      "id": "grp_00552",
+      "id": "grp_00534",
       "brand": "Samyang",
       "model": "AF 35mm F1.4 FE II",
       "canonical_name": "Samyang AF 35mm F1.4 FE II",
@@ -9933,7 +9923,7 @@
       ]
     },
     {
-      "id": "grp_00553",
+      "id": "grp_00535",
       "brand": "Samyang",
       "model": "AF 35mm F1.8 FE",
       "canonical_name": "Samyang AF 35mm F1.8 FE",
@@ -9959,7 +9949,7 @@
       ]
     },
     {
-      "id": "grp_00556",
+      "id": "grp_00538",
       "brand": "Samyang",
       "model": "AF 35mm F2.8 FE",
       "canonical_name": "Samyang AF 35mm F2.8 FE",
@@ -9985,7 +9975,7 @@
       ]
     },
     {
-      "id": "grp_00557",
+      "id": "grp_00539",
       "brand": "Samyang",
       "model": "AF 45mm F1.8 FE",
       "canonical_name": "Samyang AF 45mm F1.8 FE",
@@ -10011,7 +10001,7 @@
       ]
     },
     {
-      "id": "grp_00560",
+      "id": "grp_00542",
       "brand": "Samyang",
       "model": "AF 50mm F1.4 FE",
       "canonical_name": "Samyang AF 50mm F1.4 FE",
@@ -10037,7 +10027,7 @@
       ]
     },
     {
-      "id": "grp_00561",
+      "id": "grp_00543",
       "brand": "Samyang",
       "model": "AF 50mm F1.4 FE II",
       "canonical_name": "Samyang AF 50mm F1.4 FE II",
@@ -10063,7 +10053,7 @@
       ]
     },
     {
-      "id": "grp_00562",
+      "id": "grp_00544",
       "brand": "Samyang",
       "model": "AF 60-180mm F2.8 FE",
       "canonical_name": "Samyang AF 60-180mm F2.8 FE",
@@ -10089,7 +10079,7 @@
       ]
     },
     {
-      "id": "grp_00563",
+      "id": "grp_00545",
       "brand": "Samyang",
       "model": "AF 75mm F1.8",
       "canonical_name": "Samyang AF 75mm F1.8",
@@ -10115,7 +10105,7 @@
       ]
     },
     {
-      "id": "grp_00565",
+      "id": "grp_00547",
       "brand": "Samyang",
       "model": "AF 85mm F1.4 FE",
       "canonical_name": "Samyang AF 85mm F1.4 FE",
@@ -10141,7 +10131,7 @@
       ]
     },
     {
-      "id": "grp_00566",
+      "id": "grp_00548",
       "brand": "Samyang",
       "model": "AF 85mm F1.4 FE II",
       "canonical_name": "Samyang AF 85mm F1.4 FE II",
@@ -10167,7 +10157,7 @@
       ]
     },
     {
-      "id": "grp_00568",
+      "id": "grp_00550",
       "brand": "Samyang",
       "model": "AF 85mm F1.8 P FE",
       "canonical_name": "Samyang AF 85mm F1.8 P FE",
@@ -10193,7 +10183,7 @@
       ]
     },
     {
-      "id": "grp_00538",
+      "id": "grp_00520",
       "brand": "Samyang",
       "model": "MF 12mm F2.0 NCS CS",
       "canonical_name": "Samyang MF 12mm F2.0 NCS CS",
@@ -10219,7 +10209,7 @@
       ]
     },
     {
-      "id": "grp_00541",
+      "id": "grp_00523",
       "brand": "Samyang",
       "model": "MF 14mm F2.8 MK2",
       "canonical_name": "Samyang MF 14mm F2.8 MK2",
@@ -10245,7 +10235,7 @@
       ]
     },
     {
-      "id": "grp_00550",
+      "id": "grp_00532",
       "brand": "Samyang",
       "model": "MF 35mm F1.2 (APS-C)",
       "canonical_name": "Samyang MF 35mm F1.2 (APS-C)",
@@ -10271,7 +10261,7 @@
       ]
     },
     {
-      "id": "grp_00559",
+      "id": "grp_00541",
       "brand": "Samyang",
       "model": "MF 50mm F1.2 (APS-C)",
       "canonical_name": "Samyang MF 50mm F1.2 (APS-C)",
@@ -10297,7 +10287,7 @@
       ]
     },
     {
-      "id": "grp_00567",
+      "id": "grp_00549",
       "brand": "Samyang",
       "model": "MF 85mm F1.4 MK2",
       "canonical_name": "Samyang MF 85mm F1.4 MK2",
@@ -10323,7 +10313,7 @@
       ]
     },
     {
-      "id": "grp_00569",
+      "id": "grp_00551",
       "brand": "Samyang",
       "model": "V-AF 100mm T2.3 FE",
       "canonical_name": "Samyang V-AF 100mm T2.3 FE",
@@ -10349,7 +10339,7 @@
       ]
     },
     {
-      "id": "grp_00544",
+      "id": "grp_00526",
       "brand": "Samyang",
       "model": "V-AF 20mm T1.9 FE",
       "canonical_name": "Samyang V-AF 20mm T1.9 FE",
@@ -10375,7 +10365,7 @@
       ]
     },
     {
-      "id": "grp_00546",
+      "id": "grp_00528",
       "brand": "Samyang",
       "model": "V-AF 24mm T1.9 FE",
       "canonical_name": "Samyang V-AF 24mm T1.9 FE",
@@ -10401,7 +10391,7 @@
       ]
     },
     {
-      "id": "grp_00554",
+      "id": "grp_00536",
       "brand": "Samyang",
       "model": "V-AF 35mm T1.9 FE",
       "canonical_name": "Samyang V-AF 35mm T1.9 FE",
@@ -10427,7 +10417,7 @@
       ]
     },
     {
-      "id": "grp_00558",
+      "id": "grp_00540",
       "brand": "Samyang",
       "model": "V-AF 45mm T1.9 FE",
       "canonical_name": "Samyang V-AF 45mm T1.9 FE",
@@ -10453,7 +10443,7 @@
       ]
     },
     {
-      "id": "grp_00564",
+      "id": "grp_00546",
       "brand": "Samyang",
       "model": "V-AF 75mm T1.9 FE",
       "canonical_name": "Samyang V-AF 75mm T1.9 FE",
@@ -10479,7 +10469,7 @@
       ]
     },
     {
-      "id": "grp_00571",
+      "id": "grp_00553",
       "brand": "Sigma",
       "model": "10-18mm F2.8 DC DN | Contemporary",
       "canonical_name": "Sigma 10-18mm F2.8 DC DN | Contemporary",
@@ -10505,7 +10495,7 @@
       ]
     },
     {
-      "id": "grp_00612",
+      "id": "grp_00594",
       "brand": "Sigma",
       "model": "100-400mm F5-6.3 DG DN OS | Contemporary",
       "canonical_name": "Sigma 100-400mm F5-6.3 DG DN OS | Contemporary",
@@ -10531,7 +10521,7 @@
       ]
     },
     {
-      "id": "grp_00613",
+      "id": "grp_00595",
       "brand": "Sigma",
       "model": "105mm F2.8 DG DN Macro | Art",
       "canonical_name": "Sigma 105mm F2.8 DG DN Macro | Art",
@@ -10557,7 +10547,7 @@
       ]
     },
     {
-      "id": "grp_00572",
+      "id": "grp_00554",
       "brand": "Sigma",
       "model": "12mm F1.4 DC | Contemporary",
       "canonical_name": "Sigma 12mm F1.4 DC | Contemporary",
@@ -10583,7 +10573,7 @@
       ]
     },
     {
-      "id": "grp_00614",
+      "id": "grp_00596",
       "brand": "Sigma",
       "model": "135mm F1.4 DG | Art",
       "canonical_name": "Sigma 135mm F1.4 DG | Art",
@@ -10609,7 +10599,7 @@
       ]
     },
     {
-      "id": "grp_00574",
+      "id": "grp_00556",
       "brand": "Sigma",
       "model": "14-24mm F2.8 DG DN | Art",
       "canonical_name": "Sigma 14-24mm F2.8 DG DN | Art",
@@ -10635,7 +10625,7 @@
       ]
     },
     {
-      "id": "grp_00573",
+      "id": "grp_00555",
       "brand": "Sigma",
       "model": "14mm F1.4 DG DN | Art",
       "canonical_name": "Sigma 14mm F1.4 DG DN | Art",
@@ -10661,7 +10651,7 @@
       ]
     },
     {
-      "id": "grp_00615",
+      "id": "grp_00597",
       "brand": "Sigma",
       "model": "150-600mm F5-6.3 DG DN OS | Sports",
       "canonical_name": "Sigma 150-600mm F5-6.3 DG DN OS | Sports",
@@ -10687,7 +10677,7 @@
       ]
     },
     {
-      "id": "grp_00575",
+      "id": "grp_00557",
       "brand": "Sigma",
       "model": "15mm F1.4 DC | Contemporary",
       "canonical_name": "Sigma 15mm F1.4 DC | Contemporary",
@@ -10713,7 +10703,7 @@
       ]
     },
     {
-      "id": "grp_00576",
+      "id": "grp_00558",
       "brand": "Sigma",
       "model": "15mm F1.4 DG DN Diagonal Fisheye | Art",
       "canonical_name": "Sigma 15mm F1.4 DG DN Diagonal Fisheye | Art",
@@ -10739,7 +10729,7 @@
       ]
     },
     {
-      "id": "grp_00578",
+      "id": "grp_00560",
       "brand": "Sigma",
       "model": "16-28mm F2.8 DG DN | Contemporary",
       "canonical_name": "Sigma 16-28mm F2.8 DG DN | Contemporary",
@@ -10765,7 +10755,7 @@
       ]
     },
     {
-      "id": "grp_00579",
+      "id": "grp_00561",
       "brand": "Sigma",
       "model": "16-300mm F3.5-6.7 DC OS | Contemporary",
       "canonical_name": "Sigma 16-300mm F3.5-6.7 DC OS | Contemporary",
@@ -10791,7 +10781,7 @@
       ]
     },
     {
-      "id": "grp_00577",
+      "id": "grp_00559",
       "brand": "Sigma",
       "model": "16mm F1.4 DC DN | Contemporary",
       "canonical_name": "Sigma 16mm F1.4 DC DN | Contemporary",
@@ -10817,7 +10807,7 @@
       ]
     },
     {
-      "id": "grp_00580",
+      "id": "grp_00562",
       "brand": "Sigma",
       "model": "17-40mm F1.8 DC | Art",
       "canonical_name": "Sigma 17-40mm F1.8 DC | Art",
@@ -10843,7 +10833,7 @@
       ]
     },
     {
-      "id": "grp_00581",
+      "id": "grp_00563",
       "brand": "Sigma",
       "model": "17mm F4 DG DN | Contemporary",
       "canonical_name": "Sigma 17mm F4 DG DN | Contemporary",
@@ -10869,7 +10859,7 @@
       ]
     },
     {
-      "id": "grp_00582",
+      "id": "grp_00564",
       "brand": "Sigma",
       "model": "18-50mm F2.8 DC DN | Contemporary",
       "canonical_name": "Sigma 18-50mm F2.8 DC DN | Contemporary",
@@ -10895,7 +10885,7 @@
       ]
     },
     {
-      "id": "grp_00585",
+      "id": "grp_00567",
       "brand": "Sigma",
       "model": "20-200mm F3.5-6.3 DG | Contemporary",
       "canonical_name": "Sigma 20-200mm F3.5-6.3 DG | Contemporary",
@@ -10921,7 +10911,7 @@
       ]
     },
     {
-      "id": "grp_00616",
+      "id": "grp_00598",
       "brand": "Sigma",
       "model": "200mm F2 DG OS | Sports",
       "canonical_name": "Sigma 200mm F2 DG OS | Sports",
@@ -10947,7 +10937,7 @@
       ]
     },
     {
-      "id": "grp_00583",
+      "id": "grp_00565",
       "brand": "Sigma",
       "model": "20mm F1.4 DG DN | Art",
       "canonical_name": "Sigma 20mm F1.4 DG DN | Art",
@@ -10973,7 +10963,7 @@
       ]
     },
     {
-      "id": "grp_00584",
+      "id": "grp_00566",
       "brand": "Sigma",
       "model": "20mm F2 DG DN | Contemporary",
       "canonical_name": "Sigma 20mm F2 DG DN | Contemporary",
@@ -10999,7 +10989,7 @@
       ]
     },
     {
-      "id": "grp_00586",
+      "id": "grp_00568",
       "brand": "Sigma",
       "model": "23mm F1.4 DC DN | Contemporary",
       "canonical_name": "Sigma 23mm F1.4 DC DN | Contemporary",
@@ -11025,7 +11015,7 @@
       ]
     },
     {
-      "id": "grp_00590",
+      "id": "grp_00572",
       "brand": "Sigma",
       "model": "24-70mm F2.8 DG DN II | Art",
       "canonical_name": "Sigma 24-70mm F2.8 DG DN II | Art",
@@ -11051,7 +11041,7 @@
       ]
     },
     {
-      "id": "grp_00589",
+      "id": "grp_00571",
       "brand": "Sigma",
       "model": "24-70mm F2.8 DG DN | Art",
       "canonical_name": "Sigma 24-70mm F2.8 DG DN | Art",
@@ -11077,7 +11067,7 @@
       ]
     },
     {
-      "id": "grp_00587",
+      "id": "grp_00569",
       "brand": "Sigma",
       "model": "24mm F1.4 DG DN | Art",
       "canonical_name": "Sigma 24mm F1.4 DG DN | Art",
@@ -11103,7 +11093,7 @@
       ]
     },
     {
-      "id": "grp_00588",
+      "id": "grp_00570",
       "brand": "Sigma",
       "model": "24mm F2 DG DN | Contemporary",
       "canonical_name": "Sigma 24mm F2 DG DN | Contemporary",
@@ -11129,7 +11119,7 @@
       ]
     },
     {
-      "id": "grp_00591",
+      "id": "grp_00573",
       "brand": "Sigma",
       "model": "24mm F3.5 DG DN | Contemporary",
       "canonical_name": "Sigma 24mm F3.5 DG DN | Contemporary",
@@ -11155,7 +11145,7 @@
       ]
     },
     {
-      "id": "grp_00593",
+      "id": "grp_00575",
       "brand": "Sigma",
       "model": "28-105mm F2.8 DG DN | Art",
       "canonical_name": "Sigma 28-105mm F2.8 DG DN | Art",
@@ -11181,7 +11171,7 @@
       ]
     },
     {
-      "id": "grp_00592",
+      "id": "grp_00574",
       "brand": "Sigma",
       "model": "28-45mm F1.8 DG DN | Art",
       "canonical_name": "Sigma 28-45mm F1.8 DG DN | Art",
@@ -11207,7 +11197,7 @@
       ]
     },
     {
-      "id": "grp_00594",
+      "id": "grp_00576",
       "brand": "Sigma",
       "model": "28-70mm F2.8 DG DN | Contemporary",
       "canonical_name": "Sigma 28-70mm F2.8 DG DN | Contemporary",
@@ -11233,7 +11223,7 @@
       ]
     },
     {
-      "id": "grp_00617",
+      "id": "grp_00599",
       "brand": "Sigma",
       "model": "300-600mm F4 DG OS | Sports",
       "canonical_name": "Sigma 300-600mm F4 DG OS | Sports",
@@ -11259,7 +11249,7 @@
       ]
     },
     {
-      "id": "grp_00595",
+      "id": "grp_00577",
       "brand": "Sigma",
       "model": "30mm F1.4 DC DN | Contemporary",
       "canonical_name": "Sigma 30mm F1.4 DC DN | Contemporary",
@@ -11285,7 +11275,7 @@
       ]
     },
     {
-      "id": "grp_00596",
+      "id": "grp_00578",
       "brand": "Sigma",
       "model": "35mm F1.2 DG DN | Art",
       "canonical_name": "Sigma 35mm F1.2 DG DN | Art",
@@ -11311,7 +11301,7 @@
       ]
     },
     {
-      "id": "grp_00597",
+      "id": "grp_00579",
       "brand": "Sigma",
       "model": "35mm F1.2 DG II | Art",
       "canonical_name": "Sigma 35mm F1.2 DG II | Art",
@@ -11337,7 +11327,7 @@
       ]
     },
     {
-      "id": "grp_00598",
+      "id": "grp_00580",
       "brand": "Sigma",
       "model": "35mm F1.4 DG DN | Art",
       "canonical_name": "Sigma 35mm F1.4 DG DN | Art",
@@ -11363,7 +11353,7 @@
       ]
     },
     {
-      "id": "grp_00599",
+      "id": "grp_00581",
       "brand": "Sigma",
       "model": "35mm F1.4 DG II | Art",
       "canonical_name": "Sigma 35mm F1.4 DG II | Art",
@@ -11389,7 +11379,7 @@
       ]
     },
     {
-      "id": "grp_00600",
+      "id": "grp_00582",
       "brand": "Sigma",
       "model": "35mm F2 DG DN | Contemporary",
       "canonical_name": "Sigma 35mm F2 DG DN | Contemporary",
@@ -11415,7 +11405,7 @@
       ]
     },
     {
-      "id": "grp_00601",
+      "id": "grp_00583",
       "brand": "Sigma",
       "model": "45mm F2.8 DG DN | Contemporary",
       "canonical_name": "Sigma 45mm F2.8 DG DN | Contemporary",
@@ -11441,7 +11431,7 @@
       ]
     },
     {
-      "id": "grp_00618",
+      "id": "grp_00600",
       "brand": "Sigma",
       "model": "500mm F5.6 DG DN OS | Sports",
       "canonical_name": "Sigma 500mm F5.6 DG DN OS | Sports",
@@ -11467,7 +11457,7 @@
       ]
     },
     {
-      "id": "grp_00602",
+      "id": "grp_00584",
       "brand": "Sigma",
       "model": "50mm F1.2 DG DN | Art",
       "canonical_name": "Sigma 50mm F1.2 DG DN | Art",
@@ -11493,7 +11483,7 @@
       ]
     },
     {
-      "id": "grp_00603",
+      "id": "grp_00585",
       "brand": "Sigma",
       "model": "50mm F1.4 DG DN | Art",
       "canonical_name": "Sigma 50mm F1.4 DG DN | Art",
@@ -11519,7 +11509,7 @@
       ]
     },
     {
-      "id": "grp_00604",
+      "id": "grp_00586",
       "brand": "Sigma",
       "model": "50mm F2 DG DN | Contemporary",
       "canonical_name": "Sigma 50mm F2 DG DN | Contemporary",
@@ -11545,7 +11535,7 @@
       ]
     },
     {
-      "id": "grp_00605",
+      "id": "grp_00587",
       "brand": "Sigma",
       "model": "56mm F1.4 DC DN | Contemporary",
       "canonical_name": "Sigma 56mm F1.4 DC DN | Contemporary",
@@ -11571,7 +11561,7 @@
       ]
     },
     {
-      "id": "grp_00606",
+      "id": "grp_00588",
       "brand": "Sigma",
       "model": "60-600mm F4.5-6.3 DG DN OS | Sports",
       "canonical_name": "Sigma 60-600mm F4.5-6.3 DG DN OS | Sports",
@@ -11597,7 +11587,7 @@
       ]
     },
     {
-      "id": "grp_00607",
+      "id": "grp_00589",
       "brand": "Sigma",
       "model": "65mm F2 DG DN | Contemporary",
       "canonical_name": "Sigma 65mm F2 DG DN | Contemporary",
@@ -11623,7 +11613,7 @@
       ]
     },
     {
-      "id": "grp_00608",
+      "id": "grp_00590",
       "brand": "Sigma",
       "model": "70-200mm F2.8 DG DN OS | Sports",
       "canonical_name": "Sigma 70-200mm F2.8 DG DN OS | Sports",
@@ -11649,7 +11639,7 @@
       ]
     },
     {
-      "id": "grp_00609",
+      "id": "grp_00591",
       "brand": "Sigma",
       "model": "85mm F1.2 DG | Art",
       "canonical_name": "Sigma 85mm F1.2 DG | Art",
@@ -11675,7 +11665,7 @@
       ]
     },
     {
-      "id": "grp_00610",
+      "id": "grp_00592",
       "brand": "Sigma",
       "model": "85mm F1.4 DG DN | Art",
       "canonical_name": "Sigma 85mm F1.4 DG DN | Art",
@@ -11701,7 +11691,7 @@
       ]
     },
     {
-      "id": "grp_00611",
+      "id": "grp_00593",
       "brand": "Sigma",
       "model": "90mm F2.8 DG DN | Contemporary",
       "canonical_name": "Sigma 90mm F2.8 DG DN | Contemporary",
@@ -11727,7 +11717,7 @@
       ]
     },
     {
-      "id": "grp_00662",
+      "id": "grp_00644",
       "brand": "Sony",
       "model": "Distagon T* FE 35mm F1.4 ZA",
       "canonical_name": "Sony Distagon T* FE 35mm F1.4 ZA",
@@ -11753,7 +11743,7 @@
       ]
     },
     {
-      "id": "grp_00619",
+      "id": "grp_00601",
       "brand": "Sony",
       "model": "E 10-18mm F4 OSS",
       "canonical_name": "Sony E 10-18mm F4 OSS",
@@ -11779,7 +11769,7 @@
       ]
     },
     {
-      "id": "grp_00621",
+      "id": "grp_00603",
       "brand": "Sony",
       "model": "E 11mm F1.8",
       "canonical_name": "Sony E 11mm F1.8",
@@ -11805,7 +11795,7 @@
       ]
     },
     {
-      "id": "grp_00625",
+      "id": "grp_00607",
       "brand": "Sony",
       "model": "E 15mm F1.4 G",
       "canonical_name": "Sony E 15mm F1.4 G",
@@ -11831,7 +11821,7 @@
       ]
     },
     {
-      "id": "grp_00627",
+      "id": "grp_00609",
       "brand": "Sony",
       "model": "E 16-55mm F2.8 G",
       "canonical_name": "Sony E 16-55mm F2.8 G",
@@ -11857,7 +11847,7 @@
       ]
     },
     {
-      "id": "grp_00628",
+      "id": "grp_00610",
       "brand": "Sony",
       "model": "E 16mm F2.8",
       "canonical_name": "Sony E 16mm F2.8",
@@ -11883,7 +11873,7 @@
       ]
     },
     {
-      "id": "grp_00637",
+      "id": "grp_00619",
       "brand": "Sony",
       "model": "E 18-135mm F3.5-5.6 OSS",
       "canonical_name": "Sony E 18-135mm F3.5-5.6 OSS",
@@ -11909,7 +11899,7 @@
       ]
     },
     {
-      "id": "grp_00638",
+      "id": "grp_00620",
       "brand": "Sony",
       "model": "E 18-200mm F3.5-6.3 OSS",
       "canonical_name": "Sony E 18-200mm F3.5-6.3 OSS",
@@ -11935,7 +11925,7 @@
       ]
     },
     {
-      "id": "grp_00640",
+      "id": "grp_00622",
       "brand": "Sony",
       "model": "E 18-50mm F4-5.6",
       "canonical_name": "Sony E 18-50mm F4-5.6",
@@ -11961,7 +11951,7 @@
       ]
     },
     {
-      "id": "grp_00639",
+      "id": "grp_00621",
       "brand": "Sony",
       "model": "E 18-55mm F3.5-5.6 OSS",
       "canonical_name": "Sony E 18-55mm F3.5-5.6 OSS",
@@ -11987,7 +11977,7 @@
       ]
     },
     {
-      "id": "grp_00644",
+      "id": "grp_00626",
       "brand": "Sony",
       "model": "E 20mm F2.8",
       "canonical_name": "Sony E 20mm F2.8",
@@ -12013,7 +12003,7 @@
       ]
     },
     {
-      "id": "grp_00661",
+      "id": "grp_00643",
       "brand": "Sony",
       "model": "E 30mm F3.5 Macro",
       "canonical_name": "Sony E 30mm F3.5 Macro",
@@ -12039,7 +12029,7 @@
       ]
     },
     {
-      "id": "grp_00663",
+      "id": "grp_00645",
       "brand": "Sony",
       "model": "E 35mm F1.8 OSS",
       "canonical_name": "Sony E 35mm F1.8 OSS",
@@ -12065,7 +12055,7 @@
       ]
     },
     {
-      "id": "grp_00669",
+      "id": "grp_00651",
       "brand": "Sony",
       "model": "E 50mm F1.8 OSS",
       "canonical_name": "Sony E 50mm F1.8 OSS",
@@ -12091,7 +12081,7 @@
       ]
     },
     {
-      "id": "grp_00675",
+      "id": "grp_00657",
       "brand": "Sony",
       "model": "E 55-210mm F4.5-6.3 OSS",
       "canonical_name": "Sony E 55-210mm F4.5-6.3 OSS",
@@ -12117,7 +12107,7 @@
       ]
     },
     {
-      "id": "grp_00680",
+      "id": "grp_00662",
       "brand": "Sony",
       "model": "E 70-350mm F4.5-6.3 G OSS",
       "canonical_name": "Sony E 70-350mm F4.5-6.3 G OSS",
@@ -12143,7 +12133,7 @@
       ]
     },
     {
-      "id": "grp_00620",
+      "id": "grp_00602",
       "brand": "Sony",
       "model": "E PZ 10-20mm F4 G",
       "canonical_name": "Sony E PZ 10-20mm F4 G",
@@ -12169,7 +12159,7 @@
       ]
     },
     {
-      "id": "grp_00632",
+      "id": "grp_00614",
       "brand": "Sony",
       "model": "E PZ 16-50mm F3.5-5.6 OSS",
       "canonical_name": "Sony E PZ 16-50mm F3.5-5.6 OSS",
@@ -12195,7 +12185,7 @@
       ]
     },
     {
-      "id": "grp_00633",
+      "id": "grp_00615",
       "brand": "Sony",
       "model": "E PZ 16-50mm F3.5-5.6 OSS II",
       "canonical_name": "Sony E PZ 16-50mm F3.5-5.6 OSS II",
@@ -12221,7 +12211,7 @@
       ]
     },
     {
-      "id": "grp_00641",
+      "id": "grp_00623",
       "brand": "Sony",
       "model": "E PZ 18-105mm F4 G OSS",
       "canonical_name": "Sony E PZ 18-105mm F4 G OSS",
@@ -12247,7 +12237,7 @@
       ]
     },
     {
-      "id": "grp_00642",
+      "id": "grp_00624",
       "brand": "Sony",
       "model": "E PZ 18-110mm F4 G OSS",
       "canonical_name": "Sony E PZ 18-110mm F4 G OSS",
@@ -12273,7 +12263,7 @@
       ]
     },
     {
-      "id": "grp_00687",
+      "id": "grp_00669",
       "brand": "Sony",
       "model": "FE 100-400mm F4.5 GM OSS",
       "canonical_name": "Sony FE 100-400mm F4.5 GM OSS",
@@ -12299,7 +12289,7 @@
       ]
     },
     {
-      "id": "grp_00688",
+      "id": "grp_00670",
       "brand": "Sony",
       "model": "FE 100-400mm F4.5-5.6 GM OSS",
       "canonical_name": "Sony FE 100-400mm F4.5-5.6 GM OSS",
@@ -12325,7 +12315,7 @@
       ]
     },
     {
-      "id": "grp_00689",
+      "id": "grp_00671",
       "brand": "Sony",
       "model": "FE 100-400mm F5.6-8 OSS",
       "canonical_name": "Sony FE 100-400mm F5.6-8 OSS",
@@ -12351,7 +12341,7 @@
       ]
     },
     {
-      "id": "grp_00686",
+      "id": "grp_00668",
       "brand": "Sony",
       "model": "FE 100mm F2.8 Macro GM OSS",
       "canonical_name": "Sony FE 100mm F2.8 Macro GM OSS",
@@ -12377,7 +12367,7 @@
       ]
     },
     {
-      "id": "grp_00622",
+      "id": "grp_00604",
       "brand": "Sony",
       "model": "FE 12-24mm F2.8 GM",
       "canonical_name": "Sony FE 12-24mm F2.8 GM",
@@ -12403,7 +12393,7 @@
       ]
     },
     {
-      "id": "grp_00623",
+      "id": "grp_00605",
       "brand": "Sony",
       "model": "FE 12-24mm F4 G",
       "canonical_name": "Sony FE 12-24mm F4 G",
@@ -12429,7 +12419,7 @@
       ]
     },
     {
-      "id": "grp_00690",
+      "id": "grp_00672",
       "brand": "Sony",
       "model": "FE 135mm F1.8 GM",
       "canonical_name": "Sony FE 135mm F1.8 GM",
@@ -12455,7 +12445,7 @@
       ]
     },
     {
-      "id": "grp_00624",
+      "id": "grp_00606",
       "brand": "Sony",
       "model": "FE 14mm F1.8 GM",
       "canonical_name": "Sony FE 14mm F1.8 GM",
@@ -12481,7 +12471,7 @@
       ]
     },
     {
-      "id": "grp_00629",
+      "id": "grp_00611",
       "brand": "Sony",
       "model": "FE 16-25mm F2.8 G",
       "canonical_name": "Sony FE 16-25mm F2.8 G",
@@ -12507,7 +12497,7 @@
       ]
     },
     {
-      "id": "grp_00630",
+      "id": "grp_00612",
       "brand": "Sony",
       "model": "FE 16-35mm F2.8 GM",
       "canonical_name": "Sony FE 16-35mm F2.8 GM",
@@ -12533,7 +12523,7 @@
       ]
     },
     {
-      "id": "grp_00631",
+      "id": "grp_00613",
       "brand": "Sony",
       "model": "FE 16-35mm F2.8 GM II",
       "canonical_name": "Sony FE 16-35mm F2.8 GM II",
@@ -12559,7 +12549,7 @@
       ]
     },
     {
-      "id": "grp_00626",
+      "id": "grp_00608",
       "brand": "Sony",
       "model": "FE 16mm F1.8 G",
       "canonical_name": "Sony FE 16mm F1.8 G",
@@ -12585,7 +12575,7 @@
       ]
     },
     {
-      "id": "grp_00645",
+      "id": "grp_00627",
       "brand": "Sony",
       "model": "FE 20-70mm F4 G",
       "canonical_name": "Sony FE 20-70mm F4 G",
@@ -12611,7 +12601,7 @@
       ]
     },
     {
-      "id": "grp_00691",
+      "id": "grp_00673",
       "brand": "Sony",
       "model": "FE 200-600mm F5.6-6.3 G OSS",
       "canonical_name": "Sony FE 200-600mm F5.6-6.3 G OSS",
@@ -12637,7 +12627,7 @@
       ]
     },
     {
-      "id": "grp_00643",
+      "id": "grp_00625",
       "brand": "Sony",
       "model": "FE 20mm F1.8 G",
       "canonical_name": "Sony FE 20mm F1.8 G",
@@ -12663,7 +12653,7 @@
       ]
     },
     {
-      "id": "grp_00653",
+      "id": "grp_00635",
       "brand": "Sony",
       "model": "FE 24-105mm F4 G OSS",
       "canonical_name": "Sony FE 24-105mm F4 G OSS",
@@ -12689,7 +12679,7 @@
       ]
     },
     {
-      "id": "grp_00652",
+      "id": "grp_00634",
       "brand": "Sony",
       "model": "FE 24-240mm F3.5-6.3 OSS",
       "canonical_name": "Sony FE 24-240mm F3.5-6.3 OSS",
@@ -12715,7 +12705,7 @@
       ]
     },
     {
-      "id": "grp_00648",
+      "id": "grp_00630",
       "brand": "Sony",
       "model": "FE 24-50mm F2.8 G",
       "canonical_name": "Sony FE 24-50mm F2.8 G",
@@ -12741,7 +12731,7 @@
       ]
     },
     {
-      "id": "grp_00649",
+      "id": "grp_00631",
       "brand": "Sony",
       "model": "FE 24-70mm F2.8 GM",
       "canonical_name": "Sony FE 24-70mm F2.8 GM",
@@ -12767,7 +12757,7 @@
       ]
     },
     {
-      "id": "grp_00650",
+      "id": "grp_00632",
       "brand": "Sony",
       "model": "FE 24-70mm F2.8 GM II",
       "canonical_name": "Sony FE 24-70mm F2.8 GM II",
@@ -12793,7 +12783,7 @@
       ]
     },
     {
-      "id": "grp_00646",
+      "id": "grp_00628",
       "brand": "Sony",
       "model": "FE 24mm F1.4 GM",
       "canonical_name": "Sony FE 24mm F1.4 GM",
@@ -12819,7 +12809,7 @@
       ]
     },
     {
-      "id": "grp_00651",
+      "id": "grp_00633",
       "brand": "Sony",
       "model": "FE 24mm F2.8 G",
       "canonical_name": "Sony FE 24mm F2.8 G",
@@ -12845,7 +12835,7 @@
       ]
     },
     {
-      "id": "grp_00659",
+      "id": "grp_00641",
       "brand": "Sony",
       "model": "FE 28-60mm F4-5.6",
       "canonical_name": "Sony FE 28-60mm F4-5.6",
@@ -12871,7 +12861,7 @@
       ]
     },
     {
-      "id": "grp_00655",
+      "id": "grp_00637",
       "brand": "Sony",
       "model": "FE 28-70mm F2 GM",
       "canonical_name": "Sony FE 28-70mm F2 GM",
@@ -12897,7 +12887,7 @@
       ]
     },
     {
-      "id": "grp_00657",
+      "id": "grp_00639",
       "brand": "Sony",
       "model": "FE 28-70mm F3.5-5.6 OSS",
       "canonical_name": "Sony FE 28-70mm F3.5-5.6 OSS",
@@ -12923,7 +12913,7 @@
       ]
     },
     {
-      "id": "grp_00658",
+      "id": "grp_00640",
       "brand": "Sony",
       "model": "FE 28-70mm F3.5-5.6 OSS II",
       "canonical_name": "Sony FE 28-70mm F3.5-5.6 OSS II",
@@ -12949,7 +12939,7 @@
       ]
     },
     {
-      "id": "grp_00656",
+      "id": "grp_00638",
       "brand": "Sony",
       "model": "FE 28mm F2",
       "canonical_name": "Sony FE 28mm F2",
@@ -12975,7 +12965,7 @@
       ]
     },
     {
-      "id": "grp_00692",
+      "id": "grp_00674",
       "brand": "Sony",
       "model": "FE 300mm F2.8 GM OSS",
       "canonical_name": "Sony FE 300mm F2.8 GM OSS",
@@ -13001,7 +12991,7 @@
       ]
     },
     {
-      "id": "grp_00664",
+      "id": "grp_00646",
       "brand": "Sony",
       "model": "FE 35mm F1.8",
       "canonical_name": "Sony FE 35mm F1.8",
@@ -13027,7 +13017,7 @@
       ]
     },
     {
-      "id": "grp_00694",
+      "id": "grp_00676",
       "brand": "Sony",
       "model": "FE 400-800mm F6.3-8 G OSS",
       "canonical_name": "Sony FE 400-800mm F6.3-8 G OSS",
@@ -13053,7 +13043,7 @@
       ]
     },
     {
-      "id": "grp_00693",
+      "id": "grp_00675",
       "brand": "Sony",
       "model": "FE 400mm F2.8 GM OSS",
       "canonical_name": "Sony FE 400mm F2.8 GM OSS",
@@ -13079,7 +13069,7 @@
       ]
     },
     {
-      "id": "grp_00666",
+      "id": "grp_00648",
       "brand": "Sony",
       "model": "FE 40mm F2.5 G",
       "canonical_name": "Sony FE 40mm F2.5 G",
@@ -13105,7 +13095,7 @@
       ]
     },
     {
-      "id": "grp_00671",
+      "id": "grp_00653",
       "brand": "Sony",
       "model": "FE 50-150mm F2 GM",
       "canonical_name": "Sony FE 50-150mm F2 GM",
@@ -13131,7 +13121,7 @@
       ]
     },
     {
-      "id": "grp_00667",
+      "id": "grp_00649",
       "brand": "Sony",
       "model": "FE 50mm F1.2 GM",
       "canonical_name": "Sony FE 50mm F1.2 GM",
@@ -13157,7 +13147,7 @@
       ]
     },
     {
-      "id": "grp_00668",
+      "id": "grp_00650",
       "brand": "Sony",
       "model": "FE 50mm F1.4 GM",
       "canonical_name": "Sony FE 50mm F1.4 GM",
@@ -13183,7 +13173,7 @@
       ]
     },
     {
-      "id": "grp_00670",
+      "id": "grp_00652",
       "brand": "Sony",
       "model": "FE 50mm F1.8",
       "canonical_name": "Sony FE 50mm F1.8",
@@ -13209,7 +13199,7 @@
       ]
     },
     {
-      "id": "grp_00672",
+      "id": "grp_00654",
       "brand": "Sony",
       "model": "FE 50mm F2.5 G",
       "canonical_name": "Sony FE 50mm F2.5 G",
@@ -13235,7 +13225,7 @@
       ]
     },
     {
-      "id": "grp_00673",
+      "id": "grp_00655",
       "brand": "Sony",
       "model": "FE 50mm F2.8 Macro",
       "canonical_name": "Sony FE 50mm F2.8 Macro",
@@ -13261,7 +13251,7 @@
       ]
     },
     {
-      "id": "grp_00695",
+      "id": "grp_00677",
       "brand": "Sony",
       "model": "FE 600mm F4 GM OSS",
       "canonical_name": "Sony FE 600mm F4 GM OSS",
@@ -13287,7 +13277,7 @@
       ]
     },
     {
-      "id": "grp_00676",
+      "id": "grp_00658",
       "brand": "Sony",
       "model": "FE 70-200mm F2.8 GM OSS",
       "canonical_name": "Sony FE 70-200mm F2.8 GM OSS",
@@ -13313,7 +13303,7 @@
       ]
     },
     {
-      "id": "grp_00677",
+      "id": "grp_00659",
       "brand": "Sony",
       "model": "FE 70-200mm F2.8 GM OSS II",
       "canonical_name": "Sony FE 70-200mm F2.8 GM OSS II",
@@ -13339,7 +13329,7 @@
       ]
     },
     {
-      "id": "grp_00678",
+      "id": "grp_00660",
       "brand": "Sony",
       "model": "FE 70-200mm F4 G OSS",
       "canonical_name": "Sony FE 70-200mm F4 G OSS",
@@ -13365,7 +13355,7 @@
       ]
     },
     {
-      "id": "grp_00679",
+      "id": "grp_00661",
       "brand": "Sony",
       "model": "FE 70-200mm F4 Macro G OSS II",
       "canonical_name": "Sony FE 70-200mm F4 Macro G OSS II",
@@ -13391,7 +13381,7 @@
       ]
     },
     {
-      "id": "grp_00681",
+      "id": "grp_00663",
       "brand": "Sony",
       "model": "FE 70-300mm F4.5-5.6 G OSS",
       "canonical_name": "Sony FE 70-300mm F4.5-5.6 G OSS",
@@ -13417,7 +13407,7 @@
       ]
     },
     {
-      "id": "grp_00682",
+      "id": "grp_00664",
       "brand": "Sony",
       "model": "FE 85mm F1.4 GM",
       "canonical_name": "Sony FE 85mm F1.4 GM",
@@ -13443,7 +13433,7 @@
       ]
     },
     {
-      "id": "grp_00683",
+      "id": "grp_00665",
       "brand": "Sony",
       "model": "FE 85mm F1.4 GM II",
       "canonical_name": "Sony FE 85mm F1.4 GM II",
@@ -13469,7 +13459,7 @@
       ]
     },
     {
-      "id": "grp_00684",
+      "id": "grp_00666",
       "brand": "Sony",
       "model": "FE 85mm F1.8",
       "canonical_name": "Sony FE 85mm F1.8",
@@ -13495,7 +13485,7 @@
       ]
     },
     {
-      "id": "grp_00685",
+      "id": "grp_00667",
       "brand": "Sony",
       "model": "FE 90mm F2.8 Macro G OSS",
       "canonical_name": "Sony FE 90mm F2.8 Macro G OSS",
@@ -13521,7 +13511,7 @@
       ]
     },
     {
-      "id": "grp_00634",
+      "id": "grp_00616",
       "brand": "Sony",
       "model": "FE PZ 16-35mm F4 G",
       "canonical_name": "Sony FE PZ 16-35mm F4 G",
@@ -13547,7 +13537,7 @@
       ]
     },
     {
-      "id": "grp_00660",
+      "id": "grp_00642",
       "brand": "Sony",
       "model": "FE PZ 28-135mm F4 G OSS",
       "canonical_name": "Sony FE PZ 28-135mm F4 G OSS",
@@ -13573,7 +13563,7 @@
       ]
     },
     {
-      "id": "grp_00647",
+      "id": "grp_00629",
       "brand": "Sony",
       "model": "Sonnar T* E 24mm F1.8 ZA",
       "canonical_name": "Sony Sonnar T* E 24mm F1.8 ZA",
@@ -13599,7 +13589,7 @@
       ]
     },
     {
-      "id": "grp_00665",
+      "id": "grp_00647",
       "brand": "Sony",
       "model": "Sonnar T* FE 35mm F2.8 ZA",
       "canonical_name": "Sony Sonnar T* FE 35mm F2.8 ZA",
@@ -13625,7 +13615,7 @@
       ]
     },
     {
-      "id": "grp_00674",
+      "id": "grp_00656",
       "brand": "Sony",
       "model": "Sonnar T* FE 55mm F1.8 ZA",
       "canonical_name": "Sony Sonnar T* FE 55mm F1.8 ZA",
@@ -13651,7 +13641,7 @@
       ]
     },
     {
-      "id": "grp_00635",
+      "id": "grp_00617",
       "brand": "Sony",
       "model": "Vario-Tessar T* E 16-70mm F4 ZA OSS",
       "canonical_name": "Sony Vario-Tessar T* E 16-70mm F4 ZA OSS",
@@ -13677,7 +13667,7 @@
       ]
     },
     {
-      "id": "grp_00636",
+      "id": "grp_00618",
       "brand": "Sony",
       "model": "Vario-Tessar T* FE 16-35mm F4 ZA OSS",
       "canonical_name": "Sony Vario-Tessar T* FE 16-35mm F4 ZA OSS",
@@ -13703,7 +13693,7 @@
       ]
     },
     {
-      "id": "grp_00654",
+      "id": "grp_00636",
       "brand": "Sony",
       "model": "Vario-Tessar T* FE 24-70mm F4 ZA OSS",
       "canonical_name": "Sony Vario-Tessar T* FE 24-70mm F4 ZA OSS",
@@ -13729,7 +13719,7 @@
       ]
     },
     {
-      "id": "grp_00696",
+      "id": "grp_00678",
       "brand": "Tamron",
       "model": "11-20mm F/2.8 Di III-A RXD",
       "canonical_name": "Tamron 11-20mm F/2.8 Di III-A RXD",
@@ -13755,7 +13745,7 @@
       ]
     },
     {
-      "id": "grp_00697",
+      "id": "grp_00679",
       "brand": "Tamron",
       "model": "12-20mm F/2.8",
       "canonical_name": "Tamron 12-20mm F/2.8",
@@ -13781,7 +13771,7 @@
       ]
     },
     {
-      "id": "grp_00719",
+      "id": "grp_00701",
       "brand": "Tamron",
       "model": "150-500mm F/5-6.7 Di III VC VXD",
       "canonical_name": "Tamron 150-500mm F/5-6.7 Di III VC VXD",
@@ -13807,7 +13797,7 @@
       ]
     },
     {
-      "id": "grp_00698",
+      "id": "grp_00680",
       "brand": "Tamron",
       "model": "16-30mm F/2.8 Di III VXD G2",
       "canonical_name": "Tamron 16-30mm F/2.8 Di III VXD G2",
@@ -13833,7 +13823,7 @@
       ]
     },
     {
-      "id": "grp_00699",
+      "id": "grp_00681",
       "brand": "Tamron",
       "model": "17-28mm F/2.8 Di III RXD",
       "canonical_name": "Tamron 17-28mm F/2.8 Di III RXD",
@@ -13859,7 +13849,7 @@
       ]
     },
     {
-      "id": "grp_00701",
+      "id": "grp_00683",
       "brand": "Tamron",
       "model": "17-50mm F/4 Di III VXD",
       "canonical_name": "Tamron 17-50mm F/4 Di III VXD",
@@ -13885,7 +13875,7 @@
       ]
     },
     {
-      "id": "grp_00700",
+      "id": "grp_00682",
       "brand": "Tamron",
       "model": "17-70mm F/2.8 Di III-A VC RXD",
       "canonical_name": "Tamron 17-70mm F/2.8 Di III-A VC RXD",
@@ -13911,7 +13901,7 @@
       ]
     },
     {
-      "id": "grp_00702",
+      "id": "grp_00684",
       "brand": "Tamron",
       "model": "18-200mm F/3.5-6.3 Di III VC",
       "canonical_name": "Tamron 18-200mm F/3.5-6.3 Di III VC",
@@ -13937,7 +13927,7 @@
       ]
     },
     {
-      "id": "grp_00703",
+      "id": "grp_00685",
       "brand": "Tamron",
       "model": "18-300mm F/3.5-6.3 Di III-A VC VXD",
       "canonical_name": "Tamron 18-300mm F/3.5-6.3 Di III-A VC VXD",
@@ -13963,7 +13953,7 @@
       ]
     },
     {
-      "id": "grp_00704",
+      "id": "grp_00686",
       "brand": "Tamron",
       "model": "20-40mm F/2.8 Di III VXD",
       "canonical_name": "Tamron 20-40mm F/2.8 Di III VXD",
@@ -13989,7 +13979,7 @@
       ]
     },
     {
-      "id": "grp_00705",
+      "id": "grp_00687",
       "brand": "Tamron",
       "model": "20mm F/2.8 Di III OSD M1:2",
       "canonical_name": "Tamron 20mm F/2.8 Di III OSD M1:2",
@@ -14015,7 +14005,7 @@
       ]
     },
     {
-      "id": "grp_00706",
+      "id": "grp_00688",
       "brand": "Tamron",
       "model": "24mm F/2.8 Di III OSD M1:2",
       "canonical_name": "Tamron 24mm F/2.8 Di III OSD M1:2",
@@ -14041,7 +14031,7 @@
       ]
     },
     {
-      "id": "grp_00707",
+      "id": "grp_00689",
       "brand": "Tamron",
       "model": "25-200mm F/2.8-5.6 Di III VXD G2",
       "canonical_name": "Tamron 25-200mm F/2.8-5.6 Di III VXD G2",
@@ -14067,7 +14057,7 @@
       ]
     },
     {
-      "id": "grp_00708",
+      "id": "grp_00690",
       "brand": "Tamron",
       "model": "28-200mm F/2.8-5.6 Di III RXD",
       "canonical_name": "Tamron 28-200mm F/2.8-5.6 Di III RXD",
@@ -14093,7 +14083,7 @@
       ]
     },
     {
-      "id": "grp_00710",
+      "id": "grp_00692",
       "brand": "Tamron",
       "model": "28-300mm F/4-7.1 Di III VC VXD",
       "canonical_name": "Tamron 28-300mm F/4-7.1 Di III VC VXD",
@@ -14119,7 +14109,7 @@
       ]
     },
     {
-      "id": "grp_00709",
+      "id": "grp_00691",
       "brand": "Tamron",
       "model": "28-75mm F/2.8 Di III RXD",
       "canonical_name": "Tamron 28-75mm F/2.8 Di III RXD",
@@ -14145,7 +14135,7 @@
       ]
     },
     {
-      "id": "grp_00712",
+      "id": "grp_00694",
       "brand": "Tamron",
       "model": "35-100mm F/2.8 Di III VXD",
       "canonical_name": "Tamron 35-100mm F/2.8 Di III VXD",
@@ -14171,7 +14161,7 @@
       ]
     },
     {
-      "id": "grp_00711",
+      "id": "grp_00693",
       "brand": "Tamron",
       "model": "35-150mm F/2-2.8 Di III VXD",
       "canonical_name": "Tamron 35-150mm F/2-2.8 Di III VXD",
@@ -14197,7 +14187,7 @@
       ]
     },
     {
-      "id": "grp_00713",
+      "id": "grp_00695",
       "brand": "Tamron",
       "model": "35mm F/2.8 Di III OSD M1:2",
       "canonical_name": "Tamron 35mm F/2.8 Di III OSD M1:2",
@@ -14223,7 +14213,7 @@
       ]
     },
     {
-      "id": "grp_00714",
+      "id": "grp_00696",
       "brand": "Tamron",
       "model": "50-300mm F/4.5-6.3 Di III VC VXD",
       "canonical_name": "Tamron 50-300mm F/4.5-6.3 Di III VC VXD",
@@ -14249,7 +14239,7 @@
       ]
     },
     {
-      "id": "grp_00715",
+      "id": "grp_00697",
       "brand": "Tamron",
       "model": "50-400mm F/4.5-6.3 Di III VC VXD",
       "canonical_name": "Tamron 50-400mm F/4.5-6.3 Di III VC VXD",
@@ -14275,7 +14265,7 @@
       ]
     },
     {
-      "id": "grp_00716",
+      "id": "grp_00698",
       "brand": "Tamron",
       "model": "70-180mm F/2.8 Di III VC VXD G2",
       "canonical_name": "Tamron 70-180mm F/2.8 Di III VC VXD G2",
@@ -14301,7 +14291,7 @@
       ]
     },
     {
-      "id": "grp_00717",
+      "id": "grp_00699",
       "brand": "Tamron",
       "model": "70-300mm F/4.5-6.3 Di III RXD",
       "canonical_name": "Tamron 70-300mm F/4.5-6.3 Di III RXD",
@@ -14327,7 +14317,7 @@
       ]
     },
     {
-      "id": "grp_00718",
+      "id": "grp_00700",
       "brand": "Tamron",
       "model": "90mm F/2.8 Di III MACRO VXD",
       "canonical_name": "Tamron 90mm F/2.8 Di III MACRO VXD",
@@ -14353,7 +14343,7 @@
       ]
     },
     {
-      "id": "grp_00728",
+      "id": "grp_00710",
       "brand": "Tokina",
       "model": "FiRIN 100mm F2.8 FE MACRO",
       "canonical_name": "Tokina FiRIN 100mm F2.8 FE MACRO",
@@ -14379,7 +14369,7 @@
       ]
     },
     {
-      "id": "grp_00722",
+      "id": "grp_00704",
       "brand": "Tokina",
       "model": "FiRIN 20mm F2 FE AF",
       "canonical_name": "Tokina FiRIN 20mm F2 FE AF",
@@ -14405,7 +14395,7 @@
       ]
     },
     {
-      "id": "grp_00724",
+      "id": "grp_00706",
       "brand": "Tokina",
       "model": "SZ 33mm F1.2",
       "canonical_name": "Tokina SZ 33mm F1.2",
@@ -14431,7 +14421,7 @@
       ]
     },
     {
-      "id": "grp_00720",
+      "id": "grp_00702",
       "brand": "Tokina",
       "model": "SZ 8mm F2.8 FISH-EYE",
       "canonical_name": "Tokina SZ 8mm F2.8 FISH-EYE",
@@ -14457,7 +14447,7 @@
       ]
     },
     {
-      "id": "grp_00729",
+      "id": "grp_00711",
       "brand": "Tokina",
       "model": "SZ SUPER TELE 500mm F8 Reflex MF",
       "canonical_name": "Tokina SZ SUPER TELE 500mm F8 Reflex MF",
@@ -14483,7 +14473,7 @@
       ]
     },
     {
-      "id": "grp_00721",
+      "id": "grp_00703",
       "brand": "Tokina",
       "model": "atx-m 11-18mm F2.8",
       "canonical_name": "Tokina atx-m 11-18mm F2.8",
@@ -14509,7 +14499,7 @@
       ]
     },
     {
-      "id": "grp_00723",
+      "id": "grp_00705",
       "brand": "Tokina",
       "model": "atx-m 23mm F1.4 PLUS",
       "canonical_name": "Tokina atx-m 23mm F1.4 PLUS",
@@ -14535,7 +14525,7 @@
       ]
     },
     {
-      "id": "grp_00725",
+      "id": "grp_00707",
       "brand": "Tokina",
       "model": "atx-m 33mm F1.4 PLUS",
       "canonical_name": "Tokina atx-m 33mm F1.4 PLUS",
@@ -14561,7 +14551,7 @@
       ]
     },
     {
-      "id": "grp_00726",
+      "id": "grp_00708",
       "brand": "Tokina",
       "model": "atx-m 56mm F1.4 PLUS",
       "canonical_name": "Tokina atx-m 56mm F1.4 PLUS",
@@ -14587,7 +14577,7 @@
       ]
     },
     {
-      "id": "grp_00727",
+      "id": "grp_00709",
       "brand": "Tokina",
       "model": "atx-m 85mm F1.8 FE",
       "canonical_name": "Tokina atx-m 85mm F1.8 FE",
@@ -14613,7 +14603,7 @@
       ]
     },
     {
-      "id": "grp_00731",
+      "id": "grp_00713",
       "brand": "Ttartisan",
       "model": "11mm F2.8 Fisheye",
       "canonical_name": "Ttartisan 11mm F2.8 Fisheye",
@@ -14639,7 +14629,7 @@
       ]
     },
     {
-      "id": "grp_00733",
+      "id": "grp_00715",
       "brand": "Ttartisan",
       "model": "17mm F1.4 ASPH",
       "canonical_name": "Ttartisan 17mm F1.4 ASPH",
@@ -14665,7 +14655,7 @@
       ]
     },
     {
-      "id": "grp_00736",
+      "id": "grp_00718",
       "brand": "Ttartisan",
       "model": "23mm F1.4",
       "canonical_name": "Ttartisan 23mm F1.4",
@@ -14691,7 +14681,7 @@
       ]
     },
     {
-      "id": "grp_00738",
+      "id": "grp_00720",
       "brand": "Ttartisan",
       "model": "25mm F2",
       "canonical_name": "Ttartisan 25mm F2",
@@ -14717,7 +14707,7 @@
       ]
     },
     {
-      "id": "grp_00741",
+      "id": "grp_00723",
       "brand": "Ttartisan",
       "model": "35mm F1.4",
       "canonical_name": "Ttartisan 35mm F1.4",
@@ -14743,7 +14733,7 @@
       ]
     },
     {
-      "id": "grp_00745",
+      "id": "grp_00727",
       "brand": "Ttartisan",
       "model": "40mm F2.8 Macro",
       "canonical_name": "Ttartisan 40mm F2.8 Macro",
@@ -14769,7 +14759,7 @@
       ]
     },
     {
-      "id": "grp_00746",
+      "id": "grp_00728",
       "brand": "Ttartisan",
       "model": "50mm F1.2",
       "canonical_name": "Ttartisan 50mm F1.2",
@@ -14795,7 +14785,7 @@
       ]
     },
     {
-      "id": "grp_00747",
+      "id": "grp_00729",
       "brand": "Ttartisan",
       "model": "50mm F1.4 ASPH",
       "canonical_name": "Ttartisan 50mm F1.4 ASPH",
@@ -14821,7 +14811,7 @@
       ]
     },
     {
-      "id": "grp_00730",
+      "id": "grp_00712",
       "brand": "Ttartisan",
       "model": "7.5mm F2 Fisheye",
       "canonical_name": "Ttartisan 7.5mm F2 Fisheye",
@@ -14847,7 +14837,7 @@
       ]
     },
     {
-      "id": "grp_00752",
+      "id": "grp_00734",
       "brand": "Ttartisan",
       "model": "90mm F1.25",
       "canonical_name": "Ttartisan 90mm F1.25",
@@ -14873,7 +14863,7 @@
       ]
     },
     {
-      "id": "grp_00732",
+      "id": "grp_00714",
       "brand": "Ttartisan",
       "model": "AF 14mm F3.5",
       "canonical_name": "Ttartisan AF 14mm F3.5",
@@ -14899,7 +14889,7 @@
       ]
     },
     {
-      "id": "grp_00734",
+      "id": "grp_00716",
       "brand": "Ttartisan",
       "model": "AF 17mm F1.8 Air",
       "canonical_name": "Ttartisan AF 17mm F1.8 Air",
@@ -14925,7 +14915,7 @@
       ]
     },
     {
-      "id": "grp_00737",
+      "id": "grp_00719",
       "brand": "Ttartisan",
       "model": "AF 23mm F1.8",
       "canonical_name": "Ttartisan AF 23mm F1.8",
@@ -14951,7 +14941,7 @@
       ]
     },
     {
-      "id": "grp_00739",
+      "id": "grp_00721",
       "brand": "Ttartisan",
       "model": "AF 27mm F2.8",
       "canonical_name": "Ttartisan AF 27mm F2.8",
@@ -14977,7 +14967,7 @@
       ]
     },
     {
-      "id": "grp_00740",
+      "id": "grp_00722",
       "brand": "Ttartisan",
       "model": "AF 32mm F2.8",
       "canonical_name": "Ttartisan AF 32mm F2.8",
@@ -15003,7 +14993,7 @@
       ]
     },
     {
-      "id": "grp_00742",
+      "id": "grp_00724",
       "brand": "Ttartisan",
       "model": "AF 35mm F1.8",
       "canonical_name": "Ttartisan AF 35mm F1.8",
@@ -15029,7 +15019,7 @@
       ]
     },
     {
-      "id": "grp_00743",
+      "id": "grp_00725",
       "brand": "Ttartisan",
       "model": "AF 35mm F1.8 II",
       "canonical_name": "Ttartisan AF 35mm F1.8 II",
@@ -15055,7 +15045,7 @@
       ]
     },
     {
-      "id": "grp_00744",
+      "id": "grp_00726",
       "brand": "Ttartisan",
       "model": "AF 40mm F2",
       "canonical_name": "Ttartisan AF 40mm F2",
@@ -15081,7 +15071,7 @@
       ]
     },
     {
-      "id": "grp_00748",
+      "id": "grp_00730",
       "brand": "Ttartisan",
       "model": "AF 50mm F1.8 Neo",
       "canonical_name": "Ttartisan AF 50mm F1.8 Neo",
@@ -15107,7 +15097,7 @@
       ]
     },
     {
-      "id": "grp_00749",
+      "id": "grp_00731",
       "brand": "Ttartisan",
       "model": "AF 56mm F1.8",
       "canonical_name": "Ttartisan AF 56mm F1.8",
@@ -15133,7 +15123,7 @@
       ]
     },
     {
-      "id": "grp_00750",
+      "id": "grp_00732",
       "brand": "Ttartisan",
       "model": "AF 75mm F2",
       "canonical_name": "Ttartisan AF 75mm F2",
@@ -15159,7 +15149,7 @@
       ]
     },
     {
-      "id": "grp_00751",
+      "id": "grp_00733",
       "brand": "Ttartisan",
       "model": "AF 85mm F1.8 Neo",
       "canonical_name": "Ttartisan AF 85mm F1.8 Neo",
@@ -15185,7 +15175,7 @@
       ]
     },
     {
-      "id": "grp_00753",
+      "id": "grp_00735",
       "brand": "Ttartisan",
       "model": "Tilt-Shift 100mm F2.8 2X Macro",
       "canonical_name": "Ttartisan Tilt-Shift 100mm F2.8 2X Macro",
@@ -15211,7 +15201,7 @@
       ]
     },
     {
-      "id": "grp_00735",
+      "id": "grp_00717",
       "brand": "Ttartisan",
       "model": "Tilt-Shift 17mm F4 ASPH",
       "canonical_name": "Ttartisan Tilt-Shift 17mm F4 ASPH",
@@ -15237,7 +15227,7 @@
       ]
     },
     {
-      "id": "grp_00785",
+      "id": "grp_00767",
       "brand": "Viltrox",
       "model": "AF 135mm F1.8 LAB",
       "canonical_name": "Viltrox AF 135mm F1.8 LAB",
@@ -15263,7 +15253,7 @@
       ]
     },
     {
-      "id": "grp_00755",
+      "id": "grp_00737",
       "brand": "Viltrox",
       "model": "AF 13mm F1.4",
       "canonical_name": "Viltrox AF 13mm F1.4",
@@ -15289,7 +15279,7 @@
       ]
     },
     {
-      "id": "grp_00756",
+      "id": "grp_00738",
       "brand": "Viltrox",
       "model": "AF 14mm F4.0 Air",
       "canonical_name": "Viltrox AF 14mm F4.0 Air",
@@ -15315,7 +15305,7 @@
       ]
     },
     {
-      "id": "grp_00757",
+      "id": "grp_00739",
       "brand": "Viltrox",
       "model": "AF 15mm F1.7 Air",
       "canonical_name": "Viltrox AF 15mm F1.7 Air",
@@ -15341,7 +15331,7 @@
       ]
     },
     {
-      "id": "grp_00758",
+      "id": "grp_00740",
       "brand": "Viltrox",
       "model": "AF 16mm F1.8",
       "canonical_name": "Viltrox AF 16mm F1.8",
@@ -15367,7 +15357,7 @@
       ]
     },
     {
-      "id": "grp_00759",
+      "id": "grp_00741",
       "brand": "Viltrox",
       "model": "AF 20mm F2.8 Air",
       "canonical_name": "Viltrox AF 20mm F2.8 Air",
@@ -15393,7 +15383,7 @@
       ]
     },
     {
-      "id": "grp_00760",
+      "id": "grp_00742",
       "brand": "Viltrox",
       "model": "AF 23mm F1.4",
       "canonical_name": "Viltrox AF 23mm F1.4",
@@ -15419,7 +15409,7 @@
       ]
     },
     {
-      "id": "grp_00761",
+      "id": "grp_00743",
       "brand": "Viltrox",
       "model": "AF 24mm F1.8",
       "canonical_name": "Viltrox AF 24mm F1.8",
@@ -15445,7 +15435,7 @@
       ]
     },
     {
-      "id": "grp_00762",
+      "id": "grp_00744",
       "brand": "Viltrox",
       "model": "AF 25mm F1.7 Air",
       "canonical_name": "Viltrox AF 25mm F1.7 Air",
@@ -15471,7 +15461,7 @@
       ]
     },
     {
-      "id": "grp_00763",
+      "id": "grp_00745",
       "brand": "Viltrox",
       "model": "AF 26mm F2.8 EVO",
       "canonical_name": "Viltrox AF 26mm F2.8 EVO",
@@ -15497,7 +15487,7 @@
       ]
     },
     {
-      "id": "grp_00764",
+      "id": "grp_00746",
       "brand": "Viltrox",
       "model": "AF 27mm F1.2 Pro",
       "canonical_name": "Viltrox AF 27mm F1.2 Pro",
@@ -15523,7 +15513,7 @@
       ]
     },
     {
-      "id": "grp_00765",
+      "id": "grp_00747",
       "brand": "Viltrox",
       "model": "AF 28mm F1.8",
       "canonical_name": "Viltrox AF 28mm F1.8",
@@ -15549,7 +15539,7 @@
       ]
     },
     {
-      "id": "grp_00766",
+      "id": "grp_00748",
       "brand": "Viltrox",
       "model": "AF 28mm F4.5 Chip",
       "canonical_name": "Viltrox AF 28mm F4.5 Chip",
@@ -15575,7 +15565,7 @@
       ]
     },
     {
-      "id": "grp_00767",
+      "id": "grp_00749",
       "brand": "Viltrox",
       "model": "AF 33mm F1.4",
       "canonical_name": "Viltrox AF 33mm F1.4",
@@ -15601,7 +15591,7 @@
       ]
     },
     {
-      "id": "grp_00768",
+      "id": "grp_00750",
       "brand": "Viltrox",
       "model": "AF 35mm F1.2 LAB",
       "canonical_name": "Viltrox AF 35mm F1.2 LAB",
@@ -15627,7 +15617,7 @@
       ]
     },
     {
-      "id": "grp_00769",
+      "id": "grp_00751",
       "brand": "Viltrox",
       "model": "AF 35mm F1.7 Air",
       "canonical_name": "Viltrox AF 35mm F1.7 Air",
@@ -15653,7 +15643,7 @@
       ]
     },
     {
-      "id": "grp_00770",
+      "id": "grp_00752",
       "brand": "Viltrox",
       "model": "AF 35mm F1.8",
       "canonical_name": "Viltrox AF 35mm F1.8",
@@ -15679,7 +15669,7 @@
       ]
     },
     {
-      "id": "grp_00771",
+      "id": "grp_00753",
       "brand": "Viltrox",
       "model": "AF 40mm F2.5 Air",
       "canonical_name": "Viltrox AF 40mm F2.5 Air",
@@ -15705,7 +15695,7 @@
       ]
     },
     {
-      "id": "grp_00772",
+      "id": "grp_00754",
       "brand": "Viltrox",
       "model": "AF 50mm F1.4 Pro",
       "canonical_name": "Viltrox AF 50mm F1.4 Pro",
@@ -15731,7 +15721,7 @@
       ]
     },
     {
-      "id": "grp_00773",
+      "id": "grp_00755",
       "brand": "Viltrox",
       "model": "AF 50mm F1.8",
       "canonical_name": "Viltrox AF 50mm F1.8",
@@ -15757,7 +15747,7 @@
       ]
     },
     {
-      "id": "grp_00774",
+      "id": "grp_00756",
       "brand": "Viltrox",
       "model": "AF 50mm F2.0 Air",
       "canonical_name": "Viltrox AF 50mm F2.0 Air",
@@ -15783,7 +15773,7 @@
       ]
     },
     {
-      "id": "grp_00775",
+      "id": "grp_00757",
       "brand": "Viltrox",
       "model": "AF 55mm F1.8 EVO",
       "canonical_name": "Viltrox AF 55mm F1.8 EVO",
@@ -15809,7 +15799,7 @@
       ]
     },
     {
-      "id": "grp_00776",
+      "id": "grp_00758",
       "brand": "Viltrox",
       "model": "AF 56mm F1.2 Pro",
       "canonical_name": "Viltrox AF 56mm F1.2 Pro",
@@ -15835,7 +15825,7 @@
       ]
     },
     {
-      "id": "grp_00777",
+      "id": "grp_00759",
       "brand": "Viltrox",
       "model": "AF 56mm F1.4",
       "canonical_name": "Viltrox AF 56mm F1.4",
@@ -15861,7 +15851,7 @@
       ]
     },
     {
-      "id": "grp_00778",
+      "id": "grp_00760",
       "brand": "Viltrox",
       "model": "AF 56mm F1.7 Air",
       "canonical_name": "Viltrox AF 56mm F1.7 Air",
@@ -15887,7 +15877,7 @@
       ]
     },
     {
-      "id": "grp_00779",
+      "id": "grp_00761",
       "brand": "Viltrox",
       "model": "AF 75mm F1.2 Pro",
       "canonical_name": "Viltrox AF 75mm F1.2 Pro",
@@ -15913,7 +15903,7 @@
       ]
     },
     {
-      "id": "grp_00780",
+      "id": "grp_00762",
       "brand": "Viltrox",
       "model": "AF 75mm F1.8 EVO",
       "canonical_name": "Viltrox AF 75mm F1.8 EVO",
@@ -15939,7 +15929,7 @@
       ]
     },
     {
-      "id": "grp_00781",
+      "id": "grp_00763",
       "brand": "Viltrox",
       "model": "AF 85mm F1.4 Pro",
       "canonical_name": "Viltrox AF 85mm F1.4 Pro",
@@ -15965,7 +15955,7 @@
       ]
     },
     {
-      "id": "grp_00782",
+      "id": "grp_00764",
       "brand": "Viltrox",
       "model": "AF 85mm F1.8 II",
       "canonical_name": "Viltrox AF 85mm F1.8 II",
@@ -15991,7 +15981,7 @@
       ]
     },
     {
-      "id": "grp_00783",
+      "id": "grp_00765",
       "brand": "Viltrox",
       "model": "AF 85mm F2.0 EVO",
       "canonical_name": "Viltrox AF 85mm F2.0 EVO",
@@ -16017,7 +16007,7 @@
       ]
     },
     {
-      "id": "grp_00784",
+      "id": "grp_00766",
       "brand": "Viltrox",
       "model": "AF 90mm F2.2 EVO",
       "canonical_name": "Viltrox AF 90mm F2.2 EVO",
@@ -16043,7 +16033,7 @@
       ]
     },
     {
-      "id": "grp_00754",
+      "id": "grp_00736",
       "brand": "Viltrox",
       "model": "AF 9mm F2.8 Air",
       "canonical_name": "Viltrox AF 9mm F2.8 Air",
@@ -16069,7 +16059,7 @@
       ]
     },
     {
-      "id": "grp_00798",
+      "id": "grp_00780",
       "brand": "Voigtländer",
       "model": "APO-Lanthar 28mm F2 Aspherical",
       "canonical_name": "Voigtländer APO-Lanthar 28mm F2 Aspherical",
@@ -16095,7 +16085,7 @@
       ]
     },
     {
-      "id": "grp_00802",
+      "id": "grp_00784",
       "brand": "Voigtländer",
       "model": "APO-Lanthar 35mm F2 Aspherical (E-mount)",
       "canonical_name": "Voigtländer APO-Lanthar 35mm F2 Aspherical (E-mount)",
@@ -16121,7 +16111,7 @@
       ]
     },
     {
-      "id": "grp_00803",
+      "id": "grp_00785",
       "brand": "Voigtländer",
       "model": "APO-Lanthar 35mm F2 Aspherical II (Z-mount)",
       "canonical_name": "Voigtländer APO-Lanthar 35mm F2 Aspherical II (Z-mount)",
@@ -16147,7 +16137,7 @@
       ]
     },
     {
-      "id": "grp_00811",
+      "id": "grp_00793",
       "brand": "Voigtländer",
       "model": "APO-Lanthar 50mm F2 Aspherical (E-mount)",
       "canonical_name": "Voigtländer APO-Lanthar 50mm F2 Aspherical (E-mount)",
@@ -16173,7 +16163,7 @@
       ]
     },
     {
-      "id": "grp_00812",
+      "id": "grp_00794",
       "brand": "Voigtländer",
       "model": "APO-Lanthar 50mm F2 Aspherical II (Z-mount)",
       "canonical_name": "Voigtländer APO-Lanthar 50mm F2 Aspherical II (Z-mount)",
@@ -16199,7 +16189,7 @@
       ]
     },
     {
-      "id": "grp_00818",
+      "id": "grp_00800",
       "brand": "Voigtländer",
       "model": "APO-Lanthar 90mm F4 Close Focus VM",
       "canonical_name": "Voigtländer APO-Lanthar 90mm F4 Close Focus VM",
@@ -16225,7 +16215,7 @@
       ]
     },
     {
-      "id": "grp_00817",
+      "id": "grp_00799",
       "brand": "Voigtländer",
       "model": "APO-Skopar 75mm F2.8 VM",
       "canonical_name": "Voigtländer APO-Skopar 75mm F2.8 VM",
@@ -16251,7 +16241,7 @@
       ]
     },
     {
-      "id": "grp_00791",
+      "id": "grp_00773",
       "brand": "Voigtländer",
       "model": "Color-Skopar 18mm F2.8 Aspherical X",
       "canonical_name": "Voigtländer Color-Skopar 18mm F2.8 Aspherical X",
@@ -16277,7 +16267,7 @@
       ]
     },
     {
-      "id": "grp_00793",
+      "id": "grp_00775",
       "brand": "Voigtländer",
       "model": "Color-Skopar 21mm F3.5 Aspherical",
       "canonical_name": "Voigtländer Color-Skopar 21mm F3.5 Aspherical",
@@ -16303,7 +16293,7 @@
       ]
     },
     {
-      "id": "grp_00786",
+      "id": "grp_00768",
       "brand": "Voigtländer",
       "model": "Hyper Wide-Heliar 10mm F5.6 Aspherical",
       "canonical_name": "Voigtländer Hyper Wide-Heliar 10mm F5.6 Aspherical",
@@ -16329,7 +16319,7 @@
       ]
     },
     {
-      "id": "grp_00819",
+      "id": "grp_00801",
       "brand": "Voigtländer",
       "model": "Macro APO-Lanthar 110mm F2.5",
       "canonical_name": "Voigtländer Macro APO-Lanthar 110mm F2.5",
@@ -16355,7 +16345,7 @@
       ]
     },
     {
-      "id": "grp_00814",
+      "id": "grp_00796",
       "brand": "Voigtländer",
       "model": "Macro APO-Lanthar 65mm F2 Aspherical",
       "canonical_name": "Voigtländer Macro APO-Lanthar 65mm F2 Aspherical",
@@ -16381,7 +16371,7 @@
       ]
     },
     {
-      "id": "grp_00804",
+      "id": "grp_00786",
       "brand": "Voigtländer",
       "model": "Macro APO-Ultron D35mm F2",
       "canonical_name": "Voigtländer Macro APO-Ultron D35mm F2",
@@ -16407,7 +16397,7 @@
       ]
     },
     {
-      "id": "grp_00787",
+      "id": "grp_00769",
       "brand": "Voigtländer",
       "model": "Nokton 10.5mm F0.95 Aspherical",
       "canonical_name": "Voigtländer Nokton 10.5mm F0.95 Aspherical",
@@ -16433,7 +16423,7 @@
       ]
     },
     {
-      "id": "grp_00790",
+      "id": "grp_00772",
       "brand": "Voigtländer",
       "model": "Nokton 17.5mm F0.95 Aspherical",
       "canonical_name": "Voigtländer Nokton 17.5mm F0.95 Aspherical",
@@ -16459,7 +16449,7 @@
       ]
     },
     {
-      "id": "grp_00792",
+      "id": "grp_00774",
       "brand": "Voigtländer",
       "model": "Nokton 21mm F1.4 Aspherical",
       "canonical_name": "Voigtländer Nokton 21mm F1.4 Aspherical",
@@ -16485,7 +16475,7 @@
       ]
     },
     {
-      "id": "grp_00795",
+      "id": "grp_00777",
       "brand": "Voigtländer",
       "model": "Nokton 25mm F0.95 Type II Aspherical",
       "canonical_name": "Voigtländer Nokton 25mm F0.95 Type II Aspherical",
@@ -16511,7 +16501,7 @@
       ]
     },
     {
-      "id": "grp_00797",
+      "id": "grp_00779",
       "brand": "Voigtländer",
       "model": "Nokton 28mm F1.5 Aspherical",
       "canonical_name": "Voigtländer Nokton 28mm F1.5 Aspherical",
@@ -16537,7 +16527,7 @@
       ]
     },
     {
-      "id": "grp_00805",
+      "id": "grp_00787",
       "brand": "Voigtländer",
       "model": "Nokton 35mm F0.9 Aspherical X",
       "canonical_name": "Voigtländer Nokton 35mm F0.9 Aspherical X",
@@ -16563,7 +16553,7 @@
       ]
     },
     {
-      "id": "grp_00806",
+      "id": "grp_00788",
       "brand": "Voigtländer",
       "model": "Nokton 40mm F1.2 Aspherical",
       "canonical_name": "Voigtländer Nokton 40mm F1.2 Aspherical",
@@ -16589,7 +16579,7 @@
       ]
     },
     {
-      "id": "grp_00808",
+      "id": "grp_00790",
       "brand": "Voigtländer",
       "model": "Nokton 42.5mm F0.95",
       "canonical_name": "Voigtländer Nokton 42.5mm F0.95",
@@ -16615,7 +16605,7 @@
       ]
     },
     {
-      "id": "grp_00809",
+      "id": "grp_00791",
       "brand": "Voigtländer",
       "model": "Nokton 50mm F1.0 Aspherical",
       "canonical_name": "Voigtländer Nokton 50mm F1.0 Aspherical",
@@ -16641,7 +16631,7 @@
       ]
     },
     {
-      "id": "grp_00810",
+      "id": "grp_00792",
       "brand": "Voigtländer",
       "model": "Nokton 50mm F1.2 Aspherical",
       "canonical_name": "Voigtländer Nokton 50mm F1.2 Aspherical",
@@ -16667,7 +16657,7 @@
       ]
     },
     {
-      "id": "grp_00813",
+      "id": "grp_00795",
       "brand": "Voigtländer",
       "model": "Nokton 60mm F0.95 Aspherical",
       "canonical_name": "Voigtländer Nokton 60mm F0.95 Aspherical",
@@ -16693,7 +16683,7 @@
       ]
     },
     {
-      "id": "grp_00815",
+      "id": "grp_00797",
       "brand": "Voigtländer",
       "model": "Nokton 75mm F1.5 Aspherical",
       "canonical_name": "Voigtländer Nokton 75mm F1.5 Aspherical",
@@ -16719,7 +16709,7 @@
       ]
     },
     {
-      "id": "grp_00801",
+      "id": "grp_00783",
       "brand": "Voigtländer",
       "model": "Nokton Classic 35mm F1.4",
       "canonical_name": "Voigtländer Nokton Classic 35mm F1.4",
@@ -16745,7 +16735,7 @@
       ]
     },
     {
-      "id": "grp_00794",
+      "id": "grp_00776",
       "brand": "Voigtländer",
       "model": "Nokton D23mm F1.2 Aspherical",
       "canonical_name": "Voigtländer Nokton D23mm F1.2 Aspherical",
@@ -16771,7 +16761,7 @@
       ]
     },
     {
-      "id": "grp_00800",
+      "id": "grp_00782",
       "brand": "Voigtländer",
       "model": "Nokton D35mm F1.2",
       "canonical_name": "Voigtländer Nokton D35mm F1.2",
@@ -16797,7 +16787,7 @@
       ]
     },
     {
-      "id": "grp_00816",
+      "id": "grp_00798",
       "brand": "Voigtländer",
       "model": "Portrait Heliar 75mm F1.8 Aspherical",
       "canonical_name": "Voigtländer Portrait Heliar 75mm F1.8 Aspherical",
@@ -16823,7 +16813,7 @@
       ]
     },
     {
-      "id": "grp_00807",
+      "id": "grp_00789",
       "brand": "Voigtländer",
       "model": "Septon 40mm F2 Aspherical",
       "canonical_name": "Voigtländer Septon 40mm F2 Aspherical",
@@ -16849,7 +16839,7 @@
       ]
     },
     {
-      "id": "grp_00799",
+      "id": "grp_00781",
       "brand": "Voigtländer",
       "model": "Super Nokton 29mm F0.8 Aspherical",
       "canonical_name": "Voigtländer Super Nokton 29mm F0.8 Aspherical",
@@ -16875,7 +16865,7 @@
       ]
     },
     {
-      "id": "grp_00789",
+      "id": "grp_00771",
       "brand": "Voigtländer",
       "model": "Super Wide-Heliar 15mm F4.5 Aspherical III",
       "canonical_name": "Voigtländer Super Wide-Heliar 15mm F4.5 Aspherical III",
@@ -16901,7 +16891,7 @@
       ]
     },
     {
-      "id": "grp_00788",
+      "id": "grp_00770",
       "brand": "Voigtländer",
       "model": "Ultra Wide-Heliar 12mm F5.6 Aspherical III",
       "canonical_name": "Voigtländer Ultra Wide-Heliar 12mm F5.6 Aspherical III",
@@ -16927,7 +16917,7 @@
       ]
     },
     {
-      "id": "grp_00796",
+      "id": "grp_00778",
       "brand": "Voigtländer",
       "model": "Ultron 27mm F2 X",
       "canonical_name": "Voigtländer Ultron 27mm F2 X",
@@ -16953,7 +16943,7 @@
       ]
     },
     {
-      "id": "grp_00820",
+      "id": "grp_00802",
       "brand": "Yongnuo",
       "model": "YN 11mm F1.8 DA DSM WL",
       "canonical_name": "Yongnuo YN 11mm F1.8 DA DSM WL",
@@ -16979,7 +16969,7 @@
       ]
     },
     {
-      "id": "grp_00821",
+      "id": "grp_00803",
       "brand": "Yongnuo",
       "model": "YN 12-35mm F2.8-4 M",
       "canonical_name": "Yongnuo YN 12-35mm F2.8-4 M",
@@ -17005,7 +16995,7 @@
       ]
     },
     {
-      "id": "grp_00822",
+      "id": "grp_00804",
       "brand": "Yongnuo",
       "model": "YN 16mm F1.8 DA DSM",
       "canonical_name": "Yongnuo YN 16mm F1.8 DA DSM",
@@ -17031,7 +17021,7 @@
       ]
     },
     {
-      "id": "grp_00823",
+      "id": "grp_00805",
       "brand": "Yongnuo",
       "model": "YN 17mm F1.7 M",
       "canonical_name": "Yongnuo YN 17mm F1.7 M",
@@ -17057,7 +17047,7 @@
       ]
     },
     {
-      "id": "grp_00824",
+      "id": "grp_00806",
       "brand": "Yongnuo",
       "model": "YN 23mm F1.4 DA DSM WL Pro",
       "canonical_name": "Yongnuo YN 23mm F1.4 DA DSM WL Pro",
@@ -17083,7 +17073,7 @@
       ]
     },
     {
-      "id": "grp_00825",
+      "id": "grp_00807",
       "brand": "Yongnuo",
       "model": "YN 25mm F1.7 M",
       "canonical_name": "Yongnuo YN 25mm F1.7 M",
@@ -17109,7 +17099,7 @@
       ]
     },
     {
-      "id": "grp_00826",
+      "id": "grp_00808",
       "brand": "Yongnuo",
       "model": "YN 33mm F1.4 DA DSM WL Pro",
       "canonical_name": "Yongnuo YN 33mm F1.4 DA DSM WL Pro",
@@ -17135,7 +17125,7 @@
       ]
     },
     {
-      "id": "grp_00827",
+      "id": "grp_00809",
       "brand": "Yongnuo",
       "model": "YN 35mm F1.8 DA ART",
       "canonical_name": "Yongnuo YN 35mm F1.8 DA ART",
@@ -17161,7 +17151,7 @@
       ]
     },
     {
-      "id": "grp_00828",
+      "id": "grp_00810",
       "brand": "Yongnuo",
       "model": "YN 35mm F2 DF DSM",
       "canonical_name": "Yongnuo YN 35mm F2 DF DSM",
@@ -17187,7 +17177,7 @@
       ]
     },
     {
-      "id": "grp_00829",
+      "id": "grp_00811",
       "brand": "Yongnuo",
       "model": "YN 42.5mm F1.7 M II",
       "canonical_name": "Yongnuo YN 42.5mm F1.7 M II",
@@ -17213,7 +17203,7 @@
       ]
     },
     {
-      "id": "grp_00830",
+      "id": "grp_00812",
       "brand": "Yongnuo",
       "model": "YN 50mm F1.8 DA DSM",
       "canonical_name": "Yongnuo YN 50mm F1.8 DA DSM",
@@ -17239,7 +17229,7 @@
       ]
     },
     {
-      "id": "grp_00831",
+      "id": "grp_00813",
       "brand": "Yongnuo",
       "model": "YN 50mm F1.8 DA DSM II",
       "canonical_name": "Yongnuo YN 50mm F1.8 DA DSM II",
@@ -17265,7 +17255,7 @@
       ]
     },
     {
-      "id": "grp_00832",
+      "id": "grp_00814",
       "brand": "Yongnuo",
       "model": "YN 56mm F1.4 DA DSM WL Pro",
       "canonical_name": "Yongnuo YN 56mm F1.4 DA DSM WL Pro",
@@ -17291,7 +17281,7 @@
       ]
     },
     {
-      "id": "grp_00833",
+      "id": "grp_00815",
       "brand": "Yongnuo",
       "model": "YN 85mm F1.8 DF DSM",
       "canonical_name": "Yongnuo YN 85mm F1.8 DF DSM",
@@ -17317,7 +17307,7 @@
       ]
     },
     {
-      "id": "grp_00846",
+      "id": "grp_00828",
       "brand": "Zeiss",
       "model": "Batis 1.8/85 (Sonnar T*)",
       "canonical_name": "Zeiss Batis 1.8/85 (Sonnar T*)",
@@ -17343,7 +17333,7 @@
       ]
     },
     {
-      "id": "grp_00849",
+      "id": "grp_00831",
       "brand": "Zeiss",
       "model": "Batis 2.8/135 (APO Sonnar T*)",
       "canonical_name": "Zeiss Batis 2.8/135 (APO Sonnar T*)",
@@ -17369,7 +17359,7 @@
       ]
     },
     {
-      "id": "grp_00835",
+      "id": "grp_00817",
       "brand": "Zeiss",
       "model": "Batis 2.8/18 (Distagon T*)",
       "canonical_name": "Zeiss Batis 2.8/18 (Distagon T*)",
@@ -17395,7 +17385,7 @@
       ]
     },
     {
-      "id": "grp_00837",
+      "id": "grp_00819",
       "brand": "Zeiss",
       "model": "Batis 2/25 (Distagon T*)",
       "canonical_name": "Zeiss Batis 2/25 (Distagon T*)",
@@ -17421,7 +17411,7 @@
       ]
     },
     {
-      "id": "grp_00842",
+      "id": "grp_00824",
       "brand": "Zeiss",
       "model": "Batis 2/40 CF (Distagon T*)",
       "canonical_name": "Zeiss Batis 2/40 CF (Distagon T*)",
@@ -17447,7 +17437,7 @@
       ]
     },
     {
-      "id": "grp_00838",
+      "id": "grp_00820",
       "brand": "Zeiss",
       "model": "Loxia 2.4/25 (Distagon T*)",
       "canonical_name": "Zeiss Loxia 2.4/25 (Distagon T*)",
@@ -17473,7 +17463,7 @@
       ]
     },
     {
-      "id": "grp_00847",
+      "id": "grp_00829",
       "brand": "Zeiss",
       "model": "Loxia 2.4/85 (Sonnar T*)",
       "canonical_name": "Zeiss Loxia 2.4/85 (Sonnar T*)",
@@ -17499,7 +17489,7 @@
       ]
     },
     {
-      "id": "grp_00836",
+      "id": "grp_00818",
       "brand": "Zeiss",
       "model": "Loxia 2.8/21 (Distagon T*)",
       "canonical_name": "Zeiss Loxia 2.8/21 (Distagon T*)",
@@ -17525,7 +17515,7 @@
       ]
     },
     {
-      "id": "grp_00840",
+      "id": "grp_00822",
       "brand": "Zeiss",
       "model": "Loxia 2/35 (Biogon T*)",
       "canonical_name": "Zeiss Loxia 2/35 (Biogon T*)",
@@ -17551,7 +17541,7 @@
       ]
     },
     {
-      "id": "grp_00843",
+      "id": "grp_00825",
       "brand": "Zeiss",
       "model": "Loxia 2/50 (Planar T*)",
       "canonical_name": "Zeiss Loxia 2/50 (Planar T*)",
@@ -17577,7 +17567,7 @@
       ]
     },
     {
-      "id": "grp_00841",
+      "id": "grp_00823",
       "brand": "Zeiss",
       "model": "Otus ML 1.4/35",
       "canonical_name": "Zeiss Otus ML 1.4/35",
@@ -17603,7 +17593,7 @@
       ]
     },
     {
-      "id": "grp_00845",
+      "id": "grp_00827",
       "brand": "Zeiss",
       "model": "Otus ML 1.4/50",
       "canonical_name": "Zeiss Otus ML 1.4/50",
@@ -17629,7 +17619,7 @@
       ]
     },
     {
-      "id": "grp_00848",
+      "id": "grp_00830",
       "brand": "Zeiss",
       "model": "Otus ML 1.4/85",
       "canonical_name": "Zeiss Otus ML 1.4/85",
@@ -17655,7 +17645,7 @@
       ]
     },
     {
-      "id": "grp_00839",
+      "id": "grp_00821",
       "brand": "Zeiss",
       "model": "Touit 1.8/32 (Planar T*)",
       "canonical_name": "Zeiss Touit 1.8/32 (Planar T*)",
@@ -17681,7 +17671,7 @@
       ]
     },
     {
-      "id": "grp_00834",
+      "id": "grp_00816",
       "brand": "Zeiss",
       "model": "Touit 2.8/12 (Distagon T*)",
       "canonical_name": "Zeiss Touit 2.8/12 (Distagon T*)",
@@ -17707,7 +17697,7 @@
       ]
     },
     {
-      "id": "grp_00844",
+      "id": "grp_00826",
       "brand": "Zeiss",
       "model": "Touit 2.8/50M (Makro-Planar T*)",
       "canonical_name": "Zeiss Touit 2.8/50M (Makro-Planar T*)",

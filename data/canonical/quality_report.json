@@ -1,26 +1,26 @@
 {
-  "total_records": 831,
+  "total_records": 1059,
   "by_tier": {
-    "hoch": 691,
-    "mittel": 140,
-    "niedrig": 0
+    "hoch": 692,
+    "mittel": 279,
+    "niedrig": 88
   },
-  "avg_completeness": 0.93,
-  "records_missing_image": 811,
-  "records_with_conflicts": 49,
-  "records_single_source": 782,
+  "avg_completeness": 0.808,
+  "records_missing_image": 891,
+  "records_with_conflicts": 54,
+  "records_single_source": 1004,
   "by_entity_type": {
     "camera": {
-      "total_records": 150,
+      "total_records": 378,
       "by_tier": {
-        "hoch": 10,
-        "mittel": 140,
-        "niedrig": 0
+        "hoch": 11,
+        "mittel": 279,
+        "niedrig": 88
       },
-      "avg_completeness": 0.614,
-      "records_missing_image": 130,
-      "records_with_conflicts": 17,
-      "records_single_source": 133
+      "avg_completeness": 0.463,
+      "records_missing_image": 220,
+      "records_with_conflicts": 22,
+      "records_single_source": 355
     },
     "lens": {
       "total_records": 681,
@@ -30,7 +30,7 @@
         "niedrig": 0
       },
       "avg_completeness": 0.999,
-      "records_missing_image": 681,
+      "records_missing_image": 671,
       "records_with_conflicts": 32,
       "records_single_source": 649
     }

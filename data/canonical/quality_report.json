@@ -6,7 +6,7 @@
     "niedrig": 89
   },
   "avg_completeness": 0.808,
-  "records_missing_image": 901,
+  "records_missing_image": 891,
   "records_with_conflicts": 54,
   "records_single_source": 1004,
   "by_entity_type": {
@@ -30,7 +30,7 @@
         "niedrig": 0
       },
       "avg_completeness": 0.999,
-      "records_missing_image": 681,
+      "records_missing_image": 671,
       "records_with_conflicts": 32,
       "records_single_source": 649
     }

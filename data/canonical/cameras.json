@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-27T09:25:59Z",
+  "generated_at": "2026-09-28T09:58:36Z",
   "pipeline_version": "1.1",
   "entity_type": "camera",
   "quality_report": {
     "total_records": 378,
     "by_tier": {
-      "hoch": 11,
-      "mittel": 278,
+      "hoch": 10,
+      "mittel": 279,
       "niedrig": 89
     },
     "avg_completeness": 0.463,
@@ -803,7 +803,7 @@
       ]
     },
     {
-      "id": "grp_01033",
+      "id": "grp_01036",
       "brand": "Bushnell Corporation",
       "model": "BUSHNELL BS368",
       "canonical_name": "Bushnell Corporation BUSHNELL BS368",
@@ -1113,18 +1113,17 @@
       "sensor_height_mm": 12.5,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1138,19 +1137,18 @@
       "sensor_height_mm": 12.7,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/EOS70D_18-135STM_flash.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 3.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2014-01-01",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1165,19 +1163,18 @@
       "sensor_height_mm": 12.5,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Canon_EOS_7D_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 3.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2009-10-19",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1192,19 +1189,18 @@
       "sensor_height_mm": 12.6,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Feb2015_Canon_EOS_7D_Mark_II_img2_-_with_Canon50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 3.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2015-01-01",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1219,19 +1215,18 @@
       "sensor_height_mm": 12.7,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Adapted_Lens_on_Mirrorless_Camera_%28side_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2015-05-06",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1246,19 +1241,18 @@
       "sensor_height_mm": 13.8,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2014-09-11",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1273,19 +1267,18 @@
       "sensor_height_mm": 13.8,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2019-04-15",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1300,19 +1293,18 @@
       "sensor_height_mm": 13.8,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Canon_C_300.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2011-11-04",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1327,18 +1319,17 @@
       "sensor_height_mm": 13.8,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1352,18 +1343,17 @@
       "sensor_height_mm": 13.82,
       "resolution_w": 4096,
       "resolution_h": 2160,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Canon_EOS_C500_with_CN-E_30-300mm_Cine_lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY 2.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.8,
-      "quality_tier": "hoch",
+      "completeness_score": 0.7,
+      "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1609,7 +1599,7 @@
       ]
     },
     {
-      "id": "grp_01028",
+      "id": "grp_01031",
       "brand": "Concord",
       "model": "Le Clic LC17",
       "canonical_name": "Concord Le Clic LC17",
@@ -1633,7 +1623,7 @@
       ]
     },
     {
-      "id": "grp_01015",
+      "id": "grp_00997",
       "brand": "Contax",
       "model": "Ia-CnAM 43086",
       "canonical_name": "Contax Ia-CnAM 43086",
@@ -1955,7 +1945,7 @@
       ]
     },
     {
-      "id": "grp_00997",
+      "id": "grp_00998",
       "brand": "European Space Agency",
       "model": "PanCam",
       "canonical_name": "European Space Agency PanCam",
@@ -1980,7 +1970,7 @@
       ]
     },
     {
-      "id": "grp_01030",
+      "id": "grp_01033",
       "brand": "Ferrania Technologies S.P.A",
       "model": "Q117464053",
       "canonical_name": "Ferrania Technologies S.P.A Q117464053",
@@ -2077,7 +2067,7 @@
       ]
     },
     {
-      "id": "grp_00065",
+      "id": "grp_00067",
       "brand": "Fujifilm",
       "model": "Instax Wide 300",
       "canonical_name": "Fujifilm Instax Wide 300",
@@ -2101,7 +2091,7 @@
       ]
     },
     {
-      "id": "grp_00066",
+      "id": "grp_00065",
       "brand": "Fujifilm",
       "model": "QuickSnap",
       "canonical_name": "Fujifilm QuickSnap",
@@ -2151,7 +2141,7 @@
       ]
     },
     {
-      "id": "grp_00067",
+      "id": "grp_00066",
       "brand": "Fujifilm",
       "model": "X-M5",
       "canonical_name": "Fujifilm X-M5",
@@ -2225,7 +2215,7 @@
       ]
     },
     {
-      "id": "grp_01031",
+      "id": "grp_01034",
       "brand": "General Electric",
       "model": "PE-350",
       "canonical_name": "General Electric PE-350",
@@ -2584,7 +2574,7 @@
       ]
     },
     {
-      "id": "grp_01014",
+      "id": "grp_01015",
       "brand": "Google Nest",
       "model": "Nest Cam",
       "canonical_name": "Google Nest Nest Cam",
@@ -2609,7 +2599,7 @@
       ]
     },
     {
-      "id": "grp_00999",
+      "id": "grp_01000",
       "brand": "Indian Space Research Organisation",
       "model": "Hyper Spectral Imager",
       "canonical_name": "Indian Space Research Organisation Hyper Spectral Imager",
@@ -2634,7 +2624,7 @@
       ]
     },
     {
-      "id": "grp_00998",
+      "id": "grp_00999",
       "brand": "Indian Space Research Organisation",
       "model": "Terrain Mapping Camera",
       "canonical_name": "Indian Space Research Organisation Terrain Mapping Camera",
@@ -2683,7 +2673,7 @@
       ]
     },
     {
-      "id": "grp_01007",
+      "id": "grp_01008",
       "brand": "Jet Propulsion Laboratory",
       "model": "Wide Angle Topographic Sensor for Operations and eNgineering",
       "canonical_name": "Jet Propulsion Laboratory Wide Angle Topographic Sensor for Operations and eNgineering",
@@ -2708,7 +2698,7 @@
       ]
     },
     {
-      "id": "grp_01004",
+      "id": "grp_01005",
       "brand": "Jet Propulsion Laboratory",
       "model": "Wide Field Camera 3",
       "canonical_name": "Jet Propulsion Laboratory Wide Field Camera 3",
@@ -2732,7 +2722,7 @@
       ]
     },
     {
-      "id": "grp_01005",
+      "id": "grp_01006",
       "brand": "Jet Propulsion Laboratory",
       "model": "Wide Field and Planetary Camera",
       "canonical_name": "Jet Propulsion Laboratory Wide Field and Planetary Camera",
@@ -2756,7 +2746,7 @@
       ]
     },
     {
-      "id": "grp_01006",
+      "id": "grp_01007",
       "brand": "Jet Propulsion Laboratory",
       "model": "Wide Field and Planetary Camera 2",
       "canonical_name": "Jet Propulsion Laboratory Wide Field and Planetary Camera 2",
@@ -2903,7 +2893,7 @@
       ]
     },
     {
-      "id": "grp_01034",
+      "id": "grp_01026",
       "brand": "Leica Camera",
       "model": "Q125876801",
       "canonical_name": "Leica Camera Q125876801",
@@ -3198,7 +3188,7 @@
       ]
     },
     {
-      "id": "grp_01011",
+      "id": "grp_01012",
       "brand": "Minolta",
       "model": "AL-F",
       "canonical_name": "Minolta AL-F",
@@ -3222,7 +3212,7 @@
       ]
     },
     {
-      "id": "grp_01012",
+      "id": "grp_01013",
       "brand": "Minolta",
       "model": "Q131675150",
       "canonical_name": "Minolta Q131675150",
@@ -3674,7 +3664,7 @@
       ]
     },
     {
-      "id": "grp_01029",
+      "id": "grp_01032",
       "brand": "Officine Galileo",
       "model": "Q117464053",
       "canonical_name": "Officine Galileo Q117464053",
@@ -4341,7 +4331,7 @@
       ]
     },
     {
-      "id": "grp_01036",
+      "id": "grp_01028",
       "brand": "Polaroid Corporation",
       "model": "I-Zone",
       "canonical_name": "Polaroid Corporation I-Zone",
@@ -4365,7 +4355,7 @@
       ]
     },
     {
-      "id": "grp_01035",
+      "id": "grp_01027",
       "brand": "Polaroid Corporation",
       "model": "Polaroid 35mm AF",
       "canonical_name": "Polaroid Corporation Polaroid 35mm AF",
@@ -4461,7 +4451,7 @@
       ]
     },
     {
-      "id": "grp_01003",
+      "id": "grp_01004",
       "brand": "Q52152",
       "model": "Wide Field Camera 3",
       "canonical_name": "Q52152 Wide Field Camera 3",
@@ -4797,7 +4787,7 @@
       ]
     },
     {
-      "id": "grp_01027",
+      "id": "grp_01030",
       "brand": "Red Digital Cinema Camera Company",
       "model": "Red Epic",
       "canonical_name": "Red Digital Cinema Camera Company Red Epic",
@@ -4919,7 +4909,7 @@
       ]
     },
     {
-      "id": "grp_01010",
+      "id": "grp_01011",
       "brand": "Rtx",
       "model": "AN/PAS-13",
       "canonical_name": "Rtx AN/PAS-13",
@@ -4943,7 +4933,7 @@
       ]
     },
     {
-      "id": "grp_01009",
+      "id": "grp_01010",
       "brand": "Rtx",
       "model": "Thermal Emission Imaging System",
       "canonical_name": "Rtx Thermal Emission Imaging System",
@@ -4967,7 +4957,7 @@
       ]
     },
     {
-      "id": "grp_01002",
+      "id": "grp_01003",
       "brand": "Sagem",
       "model": "Osiris",
       "canonical_name": "Sagem Osiris",
@@ -5040,7 +5030,7 @@
       ]
     },
     {
-      "id": "grp_01032",
+      "id": "grp_01035",
       "brand": "Seiko Epson",
       "model": "Epson Perfection V200 Photo",
       "canonical_name": "Seiko Epson Epson Perfection V200 Photo",
@@ -5065,7 +5055,7 @@
       ]
     },
     {
-      "id": "grp_01026",
+      "id": "grp_01029",
       "brand": "Smithsonian Astrophysical Observatory",
       "model": "High Resolution Camera",
       "canonical_name": "Smithsonian Astrophysical Observatory High Resolution Camera",
@@ -5520,17 +5510,18 @@
       "sensor_height_mm": 5.39,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.5,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -5544,18 +5535,19 @@
       "sensor_height_mm": 4.57,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": "2014-08-08",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5570,18 +5562,19 @@
       "sensor_height_mm": 4.57,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": "2016-07-25",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5596,17 +5589,18 @@
       "sensor_height_mm": 4.57,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.5,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -5620,18 +5614,19 @@
       "sensor_height_mm": 4.57,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": "2015-06-16",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5646,18 +5641,19 @@
       "sensor_height_mm": 4.57,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": "2014-11-01",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5672,18 +5668,19 @@
       "sensor_height_mm": 5.39,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": "2006-01-01",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5698,18 +5695,19 @@
       "sensor_height_mm": 13.3,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": "2022-08-17",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5724,17 +5722,18 @@
       "sensor_height_mm": 12.7,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.5,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -5748,17 +5747,18 @@
       "sensor_height_mm": 13.3,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.5,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -6217,7 +6217,7 @@
       ]
     },
     {
-      "id": "grp_01013",
+      "id": "grp_01014",
       "brand": "Sony Group",
       "model": "Ruvi",
       "canonical_name": "Sony Group Ruvi",
@@ -6242,7 +6242,7 @@
       ]
     },
     {
-      "id": "grp_01001",
+      "id": "grp_01002",
       "brand": "Space Applications Centre",
       "model": "Orbiter High Resolution Camera",
       "canonical_name": "Space Applications Centre Orbiter High Resolution Camera",
@@ -6267,7 +6267,7 @@
       ]
     },
     {
-      "id": "grp_01000",
+      "id": "grp_01001",
       "brand": "Space Applications Centre",
       "model": "Terrain Mapping Camera-2",
       "canonical_name": "Space Applications Centre Terrain Mapping Camera-2",
@@ -6316,7 +6316,7 @@
       ]
     },
     {
-      "id": "grp_01008",
+      "id": "grp_01009",
       "brand": "Swales Aerospace",
       "model": "Wide Field Camera 3",
       "canonical_name": "Swales Aerospace Wide Field Camera 3",
@@ -6340,7 +6340,7 @@
       ]
     },
     {
-      "id": "grp_00914",
+      "id": "grp_00910",
       "brand": "Unbekannt",
       "model": "\"Automatic stereoscopic camera\" by Auguste Adolphe Bertsch, 1860",
       "canonical_name": "Unbekannt \"Automatic stereoscopic camera\" by Auguste Adolphe Bertsch, 1860",
@@ -6364,7 +6364,7 @@
       ]
     },
     {
-      "id": "grp_00920",
+      "id": "grp_00916",
       "brand": "Unbekannt",
       "model": "\"Carmen\" camera, circa 1930",
       "canonical_name": "Unbekannt \"Carmen\" camera, circa 1930",
@@ -6388,7 +6388,7 @@
       ]
     },
     {
-      "id": "grp_00919",
+      "id": "grp_00915",
       "brand": "Unbekannt",
       "model": "\"Leica I (A)\" camera, 1926",
       "canonical_name": "Unbekannt \"Leica I (A)\" camera, 1926",
@@ -6436,7 +6436,7 @@
       ]
     },
     {
-      "id": "grp_00915",
+      "id": "grp_00911",
       "brand": "Unbekannt",
       "model": "\"Photosphère\" stereoscopic camera",
       "canonical_name": "Unbekannt \"Photosphère\" stereoscopic camera",
@@ -6460,7 +6460,7 @@
       ]
     },
     {
-      "id": "grp_00918",
+      "id": "grp_00914",
       "brand": "Unbekannt",
       "model": "\"Stérélux\" stereoscopic camera, circa 1920",
       "canonical_name": "Unbekannt \"Stérélux\" stereoscopic camera, circa 1920",
@@ -6484,7 +6484,7 @@
       ]
     },
     {
-      "id": "grp_00913",
+      "id": "grp_00909",
       "brand": "Unbekannt",
       "model": "\"Stéréo-Panoramique\" stereoscopic camera - CnAM 18454",
       "canonical_name": "Unbekannt \"Stéréo-Panoramique\" stereoscopic camera - CnAM 18454",
@@ -6508,7 +6508,7 @@
       ]
     },
     {
-      "id": "grp_00916",
+      "id": "grp_00912",
       "brand": "Unbekannt",
       "model": "\"Summum stereoscopic camera\" by Louis Leullier, 1925",
       "canonical_name": "Unbekannt \"Summum stereoscopic camera\" by Louis Leullier, 1925",
@@ -6532,7 +6532,7 @@
       ]
     },
     {
-      "id": "grp_00942",
+      "id": "grp_00925",
       "brand": "Unbekannt",
       "model": "AFA 39 aerial camera (Russia)",
       "canonical_name": "Unbekannt AFA 39 aerial camera (Russia)",
@@ -6556,7 +6556,7 @@
       ]
     },
     {
-      "id": "grp_00928",
+      "id": "grp_00922",
       "brand": "Unbekannt",
       "model": "Admira 8F",
       "canonical_name": "Unbekannt Admira 8F",
@@ -6581,7 +6581,7 @@
       ]
     },
     {
-      "id": "grp_00906",
+      "id": "grp_00905",
       "brand": "Unbekannt",
       "model": "Aiglon-CnAM 43095",
       "canonical_name": "Unbekannt Aiglon-CnAM 43095",
@@ -6605,7 +6605,7 @@
       ]
     },
     {
-      "id": "grp_00890",
+      "id": "grp_00928",
       "brand": "Unbekannt",
       "model": "Akeley motion picture camera",
       "canonical_name": "Unbekannt Akeley motion picture camera",
@@ -6629,7 +6629,7 @@
       ]
     },
     {
-      "id": "grp_00938",
+      "id": "grp_00941",
       "brand": "Unbekannt",
       "model": "Autokon",
       "canonical_name": "Unbekannt Autokon",
@@ -6702,7 +6702,7 @@
       ]
     },
     {
-      "id": "grp_00885",
+      "id": "grp_00886",
       "brand": "Unbekannt",
       "model": "Beaulieu 5008S-CnAM 43173",
       "canonical_name": "Unbekannt Beaulieu 5008S-CnAM 43173",
@@ -6726,7 +6726,7 @@
       ]
     },
     {
-      "id": "grp_00939",
+      "id": "grp_00942",
       "brand": "Unbekannt",
       "model": "Bolyguard SG2060-K",
       "canonical_name": "Unbekannt Bolyguard SG2060-K",
@@ -6799,7 +6799,7 @@
       ]
     },
     {
-      "id": "grp_00891",
+      "id": "grp_00934",
       "brand": "Unbekannt",
       "model": "Canon EOS Rebel GII",
       "canonical_name": "Unbekannt Canon EOS Rebel GII",
@@ -6872,7 +6872,7 @@
       ]
     },
     {
-      "id": "grp_00911",
+      "id": "grp_00907",
       "brand": "Unbekannt",
       "model": "Cinematograph-MHS 1676",
       "canonical_name": "Unbekannt Cinematograph-MHS 1676",
@@ -6921,7 +6921,7 @@
       ]
     },
     {
-      "id": "grp_00941",
+      "id": "grp_00924",
       "brand": "Unbekannt",
       "model": "Concealed Vest Camera",
       "canonical_name": "Unbekannt Concealed Vest Camera",
@@ -6946,7 +6946,7 @@
       ]
     },
     {
-      "id": "grp_00921",
+      "id": "grp_00917",
       "brand": "Unbekannt",
       "model": "Coral City Camera",
       "canonical_name": "Unbekannt Coral City Camera",
@@ -6994,7 +6994,7 @@
       ]
     },
     {
-      "id": "grp_00923",
+      "id": "grp_00919",
       "brand": "Unbekannt",
       "model": "Daguerreotype camera - CnAM 9553-7",
       "canonical_name": "Unbekannt Daguerreotype camera - CnAM 9553-7",
@@ -7067,7 +7067,7 @@
       ]
     },
     {
-      "id": "grp_00902",
+      "id": "grp_00901",
       "brand": "Unbekannt",
       "model": "Fenix",
       "canonical_name": "Unbekannt Fenix",
@@ -7092,7 +7092,7 @@
       ]
     },
     {
-      "id": "grp_00936",
+      "id": "grp_00939",
       "brand": "Unbekannt",
       "model": "FogCam",
       "canonical_name": "Unbekannt FogCam",
@@ -7117,7 +7117,7 @@
       ]
     },
     {
-      "id": "grp_00888",
+      "id": "grp_00926",
       "brand": "Unbekannt",
       "model": "Genius Scan",
       "canonical_name": "Unbekannt Genius Scan",
@@ -7166,7 +7166,7 @@
       ]
     },
     {
-      "id": "grp_00927",
+      "id": "grp_00937",
       "brand": "Unbekannt",
       "model": "Hasselblad 500 EL/M at Cité de l'Espace",
       "canonical_name": "Unbekannt Hasselblad 500 EL/M at Cité de l'Espace",
@@ -7265,7 +7265,7 @@
       ]
     },
     {
-      "id": "grp_00909",
+      "id": "grp_00888",
       "brand": "Unbekannt",
       "model": "JVC GR C1S camcorder",
       "canonical_name": "Unbekannt JVC GR C1S camcorder",
@@ -7339,7 +7339,7 @@
       ]
     },
     {
-      "id": "grp_00884",
+      "id": "grp_00885",
       "brand": "Unbekannt",
       "model": "Kodak Disc 4000",
       "canonical_name": "Unbekannt Kodak Disc 4000",
@@ -7387,7 +7387,7 @@
       ]
     },
     {
-      "id": "grp_00883",
+      "id": "grp_00884",
       "brand": "Unbekannt",
       "model": "Kodak Instamatic M2",
       "canonical_name": "Unbekannt Kodak Instamatic M2",
@@ -7436,7 +7436,7 @@
       ]
     },
     {
-      "id": "grp_00886",
+      "id": "grp_00889",
       "brand": "Unbekannt",
       "model": "Krasnogorsk",
       "canonical_name": "Unbekannt Krasnogorsk",
@@ -7558,7 +7558,7 @@
       ]
     },
     {
-      "id": "grp_00940",
+      "id": "grp_00923",
       "brand": "Unbekannt",
       "model": "Lunar Reconnaissance Orbiter Camera",
       "canonical_name": "Unbekannt Lunar Reconnaissance Orbiter Camera",
@@ -7606,7 +7606,7 @@
       ]
     },
     {
-      "id": "grp_00912",
+      "id": "grp_00908",
       "brand": "Unbekannt",
       "model": "Mandel Photo Postcard Machine",
       "canonical_name": "Unbekannt Mandel Photo Postcard Machine",
@@ -7630,7 +7630,7 @@
       ]
     },
     {
-      "id": "grp_00926",
+      "id": "grp_00921",
       "brand": "Unbekannt",
       "model": "Minolta camera",
       "canonical_name": "Unbekannt Minolta camera",
@@ -7972,7 +7972,7 @@
       ]
     },
     {
-      "id": "grp_00925",
+      "id": "grp_00936",
       "brand": "Unbekannt",
       "model": "Pouva Start",
       "canonical_name": "Unbekannt Pouva Start",
@@ -8021,7 +8021,7 @@
       ]
     },
     {
-      "id": "grp_00917",
+      "id": "grp_00913",
       "brand": "Unbekannt",
       "model": "Q105064193",
       "canonical_name": "Unbekannt Q105064193",
@@ -8069,7 +8069,7 @@
       ]
     },
     {
-      "id": "grp_00924",
+      "id": "grp_00920",
       "brand": "Unbekannt",
       "model": "Q119998294",
       "canonical_name": "Unbekannt Q119998294",
@@ -8094,7 +8094,7 @@
       ]
     },
     {
-      "id": "grp_00903",
+      "id": "grp_00902",
       "brand": "Unbekannt",
       "model": "Q12035185",
       "canonical_name": "Unbekannt Q12035185",
@@ -8168,7 +8168,7 @@
       ]
     },
     {
-      "id": "grp_00937",
+      "id": "grp_00940",
       "brand": "Unbekannt",
       "model": "Q136826009",
       "canonical_name": "Unbekannt Q136826009",
@@ -8193,7 +8193,7 @@
       ]
     },
     {
-      "id": "grp_00905",
+      "id": "grp_00904",
       "brand": "Unbekannt",
       "model": "Q25400709",
       "canonical_name": "Unbekannt Q25400709",
@@ -8242,7 +8242,7 @@
       ]
     },
     {
-      "id": "grp_00910",
+      "id": "grp_00906",
       "brand": "Unbekannt",
       "model": "Q78234631",
       "canonical_name": "Unbekannt Q78234631",
@@ -8341,7 +8341,7 @@
       ]
     },
     {
-      "id": "grp_00907",
+      "id": "grp_00883",
       "brand": "Unbekannt",
       "model": "Sony CCD-V8AF camcorder",
       "canonical_name": "Unbekannt Sony CCD-V8AF camcorder",
@@ -8365,7 +8365,7 @@
       ]
     },
     {
-      "id": "grp_00908",
+      "id": "grp_00887",
       "brand": "Unbekannt",
       "model": "Sony DCR-PC7E camcorder",
       "canonical_name": "Unbekannt Sony DCR-PC7E camcorder",
@@ -8413,7 +8413,7 @@
       ]
     },
     {
-      "id": "grp_00889",
+      "id": "grp_00927",
       "brand": "Unbekannt",
       "model": "Stölma",
       "canonical_name": "Unbekannt Stölma",
@@ -8487,7 +8487,7 @@
       ]
     },
     {
-      "id": "grp_00935",
+      "id": "grp_00938",
       "brand": "Unbekannt",
       "model": "TOPDON TC001",
       "canonical_name": "Unbekannt TOPDON TC001",
@@ -8535,7 +8535,7 @@
       ]
     },
     {
-      "id": "grp_00922",
+      "id": "grp_00918",
       "brand": "Unbekannt",
       "model": "Union-Theater",
       "canonical_name": "Unbekannt Union-Theater",
@@ -8560,7 +8560,7 @@
       ]
     },
     {
-      "id": "grp_00897",
+      "id": "grp_00896",
       "brand": "Unbekannt",
       "model": "Viper Filmstream",
       "canonical_name": "Unbekannt Viper Filmstream",
@@ -8610,7 +8610,7 @@
       ]
     },
     {
-      "id": "grp_00934",
+      "id": "grp_00935",
       "brand": "Unbekannt",
       "model": "WebCam NX Ultra",
       "canonical_name": "Unbekannt WebCam NX Ultra",
@@ -8734,7 +8734,7 @@
       ]
     },
     {
-      "id": "grp_00904",
+      "id": "grp_00903",
       "brand": "Unbekannt",
       "model": "action camera",
       "canonical_name": "Unbekannt action camera",
@@ -8858,7 +8858,7 @@
       ]
     },
     {
-      "id": "grp_00892",
+      "id": "grp_00891",
       "brand": "Unbekannt",
       "model": "camera obscura",
       "canonical_name": "Unbekannt camera obscura",
@@ -8907,7 +8907,7 @@
       ]
     },
     {
-      "id": "grp_00898",
+      "id": "grp_00897",
       "brand": "Unbekannt",
       "model": "digital scan back",
       "canonical_name": "Unbekannt digital scan back",
@@ -8932,7 +8932,7 @@
       ]
     },
     {
-      "id": "grp_00895",
+      "id": "grp_00894",
       "brand": "Unbekannt",
       "model": "dome camera",
       "canonical_name": "Unbekannt dome camera",
@@ -8982,7 +8982,7 @@
       ]
     },
     {
-      "id": "grp_00899",
+      "id": "grp_00898",
       "brand": "Unbekannt",
       "model": "list of Panasonic camcorders",
       "canonical_name": "Unbekannt list of Panasonic camcorders",
@@ -9007,7 +9007,7 @@
       ]
     },
     {
-      "id": "grp_00900",
+      "id": "grp_00899",
       "brand": "Unbekannt",
       "model": "office camera",
       "canonical_name": "Unbekannt office camera",
@@ -9032,7 +9032,7 @@
       ]
     },
     {
-      "id": "grp_00894",
+      "id": "grp_00893",
       "brand": "Unbekannt",
       "model": "photographic guns",
       "canonical_name": "Unbekannt photographic guns",
@@ -9056,7 +9056,7 @@
       ]
     },
     {
-      "id": "grp_00893",
+      "id": "grp_00892",
       "brand": "Unbekannt",
       "model": "rangefinder camera",
       "canonical_name": "Unbekannt rangefinder camera",
@@ -9080,7 +9080,7 @@
       ]
     },
     {
-      "id": "grp_00901",
+      "id": "grp_00900",
       "brand": "Unbekannt",
       "model": "rotating line camera",
       "canonical_name": "Unbekannt rotating line camera",
@@ -9129,7 +9129,7 @@
       ]
     },
     {
-      "id": "grp_00896",
+      "id": "grp_00895",
       "brand": "Unbekannt",
       "model": "time-of-flight camera",
       "canonical_name": "Unbekannt time-of-flight camera",
@@ -9153,7 +9153,7 @@
       ]
     },
     {
-      "id": "grp_00887",
+      "id": "grp_00890",
       "brand": "Unbekannt",
       "model": "web cam trevi fountain",
       "canonical_name": "Unbekannt web cam trevi fountain",

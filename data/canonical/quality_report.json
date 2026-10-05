@@ -1,24 +1,24 @@
 {
   "total_records": 1059,
   "by_tier": {
-    "hoch": 692,
-    "mittel": 278,
-    "niedrig": 89
+    "hoch": 691,
+    "mittel": 281,
+    "niedrig": 87
   },
   "avg_completeness": 0.808,
-  "records_missing_image": 901,
+  "records_missing_image": 897,
   "records_with_conflicts": 54,
   "records_single_source": 1004,
   "by_entity_type": {
     "camera": {
       "total_records": 378,
       "by_tier": {
-        "hoch": 11,
-        "mittel": 278,
-        "niedrig": 89
+        "hoch": 10,
+        "mittel": 281,
+        "niedrig": 87
       },
-      "avg_completeness": 0.462,
-      "records_missing_image": 225,
+      "avg_completeness": 0.463,
+      "records_missing_image": 220,
       "records_with_conflicts": 22,
       "records_single_source": 355
     },
@@ -30,7 +30,7 @@
         "niedrig": 0
       },
       "avg_completeness": 0.999,
-      "records_missing_image": 676,
+      "records_missing_image": 677,
       "records_with_conflicts": 32,
       "records_single_source": 649
     }

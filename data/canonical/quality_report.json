@@ -5,8 +5,8 @@
     "mittel": 277,
     "niedrig": 89
   },
-  "avg_completeness": 0.808,
-  "records_missing_image": 901,
+  "avg_completeness": 0.807,
+  "records_missing_image": 900,
   "records_with_conflicts": 55,
   "records_single_source": 1002,
   "by_entity_type": {
@@ -17,8 +17,8 @@
         "mittel": 277,
         "niedrig": 89
       },
-      "avg_completeness": 0.463,
-      "records_missing_image": 220,
+      "avg_completeness": 0.46,
+      "records_missing_image": 229,
       "records_with_conflicts": 23,
       "records_single_source": 353
     },
@@ -30,7 +30,7 @@
         "niedrig": 0
       },
       "avg_completeness": 0.999,
-      "records_missing_image": 681,
+      "records_missing_image": 671,
       "records_with_conflicts": 32,
       "records_single_source": 649
     }

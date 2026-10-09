@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:46:30Z",
+  "generated_at": "2026-10-09T10:45:27Z",
   "pipeline_version": "1.1",
   "entity_type": "lens",
   "quality_report": {
@@ -1048,18 +1048,17 @@
       "weight_g": 519,
       "price_usd": 1799.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf20mm-f-1-4-l-vcm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2025,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1855,17 +1854,18 @@
       "weight_g": 150,
       "price_usd": 319.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf-s10-18mm-f4-5-6-3-is-stm",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Canon_RF-S_10-18mm_F4.5-6.3_IS_STM_by_Henry_S%C3%B6derlund_%281-1_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY 2.0",
       "release_date": 2023,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },

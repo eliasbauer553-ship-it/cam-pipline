@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-17T07:58:07Z",
+  "generated_at": "2026-10-18T08:12:14Z",
   "pipeline_version": "1.1",
   "entity_type": "camera",
   "quality_report": {
     "total_records": 377,
     "by_tier": {
-      "hoch": 11,
-      "mittel": 277,
+      "hoch": 10,
+      "mittel": 278,
       "niedrig": 89
     },
     "avg_completeness": 0.463,
@@ -887,18 +887,19 @@
       "sensor_height_mm": 20.25,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Canon_EOS-1DX_Mark_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": "2011-10-18",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -913,17 +914,18 @@
       "sensor_height_mm": 12.5,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Canon_EOS_550D_with_EF-S_60mm_USM_macro_lens_and_BG-E8_grip.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 3.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.5,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -937,17 +939,18 @@
       "sensor_height_mm": 20.25,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Canon_EOS_5D_Mark_II_with_50mm_1.4_edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 3.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.5,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -961,17 +964,18 @@
       "sensor_height_mm": 20.25,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Canon_EOS_5D_Mark_III_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 2.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.5,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -985,18 +989,19 @@
       "sensor_height_mm": 20.25,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Canon_EOS_5D_Mark_IV_%28Front%29%2C_1803241116%2C_ako.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": "2019-09-03",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1011,18 +1016,19 @@
       "sensor_height_mm": 12.5,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/20120904_Canon_Rebel_T3i_with_Sigma_8-16mm_f4.5-5.6_DC_HSM_lens_and_sleeve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 3.0",
       "release_date": "2021-01-01",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1037,18 +1043,19 @@
       "sensor_height_mm": 12.5,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fujifilm_FinePix_X100_and_Canon_EOS_60D_with_Canon_EF-S_18-200mm_lens_-_B%26W.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 2.0",
       "release_date": "2010-10-06",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 93.3,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "feldkonflikte:model,canonical_name"
       ]
@@ -1063,17 +1070,18 @@
       "sensor_height_mm": 12.5,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/EOS_650D_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY 2.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.5,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -1087,18 +1095,19 @@
       "sensor_height_mm": 20.1,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Canon_EF_100mm_f2.8L_Macro_IS_USM_switches_horizontal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 3.0",
       "release_date": "2013-01-01",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1113,17 +1122,18 @@
       "sensor_height_mm": 12.5,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.5,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -1163,19 +1173,18 @@
       "sensor_height_mm": 12.5,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Canon_EOS_7D_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 3.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2009-10-19",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1190,19 +1199,18 @@
       "sensor_height_mm": 12.6,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Feb2015_Canon_EOS_7D_Mark_II_img2_-_with_Canon50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 3.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2015-01-01",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1217,19 +1225,18 @@
       "sensor_height_mm": 12.7,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Adapted_Lens_on_Mirrorless_Camera_%28side_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2015-05-06",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1244,19 +1251,18 @@
       "sensor_height_mm": 13.8,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2014-09-11",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1271,19 +1277,18 @@
       "sensor_height_mm": 13.8,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2019-04-15",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1298,19 +1303,18 @@
       "sensor_height_mm": 13.8,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Canon_C_300.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2011-11-04",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -1325,18 +1329,17 @@
       "sensor_height_mm": 13.8,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1350,18 +1353,17 @@
       "sensor_height_mm": 13.82,
       "resolution_w": 4096,
       "resolution_h": 2160,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Canon_EOS_C500_with_CN-E_30-300mm_Cine_lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY 2.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.8,
-      "quality_tier": "hoch",
+      "completeness_score": 0.7,
+      "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1375,18 +1377,17 @@
       "sensor_height_mm": 13.5,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Canon_EOS_C700_MultiDyne_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "feldkonflikte:model,canonical_name"
       ]
     },
@@ -1400,18 +1401,17 @@
       "sensor_height_mm": 13.8,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },

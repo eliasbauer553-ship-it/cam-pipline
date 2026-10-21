@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-20T08:43:38Z",
+  "generated_at": "2026-10-21T08:45:38Z",
   "pipeline_version": "1.1",
   "entity_type": "camera",
   "quality_report": {
     "total_records": 377,
     "by_tier": {
-      "hoch": 11,
-      "mittel": 277,
+      "hoch": 12,
+      "mittel": 276,
       "niedrig": 89
     },
-    "avg_completeness": 0.463,
-    "records_missing_image": 220,
+    "avg_completeness": 0.462,
+    "records_missing_image": 226,
     "records_with_conflicts": 23,
     "records_single_source": 353
   },
@@ -570,17 +570,18 @@
       "sensor_height_mm": 24,
       "resolution_w": 6048,
       "resolution_h": 4032,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
-      "quality_tier": "mittel",
+      "completeness_score": 0.8,
+      "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -594,18 +595,19 @@
       "sensor_height_mm": 10.0,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": "2018-04-16",
       "sources": [
         "camera_sensor_db",
-        "internet_archive"
+        "internet_archive",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.7,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -620,17 +622,18 @@
       "sensor_height_mm": 12.99,
       "resolution_w": 6144,
       "resolution_h": 3456,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
-      "quality_tier": "mittel",
+      "completeness_score": 0.8,
+      "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -644,17 +647,18 @@
       "sensor_height_mm": 11.88,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": null,
       "sources": [
-        "camera_sensor_db"
+        "camera_sensor_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.5,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -5738,18 +5742,17 @@
       "sensor_height_mm": 13.2,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -5763,18 +5766,17 @@
       "sensor_height_mm": 20.1,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -5788,19 +5790,18 @@
       "sensor_height_mm": 3.92,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2008-01-01",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5815,19 +5816,18 @@
       "sensor_height_mm": 3.92,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2010-05-19",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5842,18 +5842,17 @@
       "sensor_height_mm": 13.3,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sony_PMW-F3_Super_35mm_XDCAM_EX_Camcorder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY 2.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.6,
+      "completeness_score": 0.5,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -5867,19 +5866,18 @@
       "sensor_height_mm": 13.3,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2016-03-09",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5894,19 +5892,18 @@
       "sensor_height_mm": 13.3,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2017-05-04",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5921,18 +5918,17 @@
       "sensor_height_mm": 18.8,
       "resolution_w": 6008,
       "resolution_h": 3168,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/SONY_FX9_camera_and_Sigma_135mm_T2_lens_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY 2.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": null,
       "sources": [
-        "camera_sensor_db",
-        "wikimedia_commons"
+        "camera_sensor_db"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.8,
-      "quality_tier": "hoch",
+      "completeness_score": 0.7,
+      "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -5946,19 +5942,18 @@
       "sensor_height_mm": 8.8,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2018-02-10",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 100.0,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "nur_eine_quelle"
       ]
@@ -5973,19 +5968,18 @@
       "sensor_height_mm": 5.39,
       "resolution_w": null,
       "resolution_h": null,
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": "2010-01-01",
       "sources": [
         "camera_sensor_db",
-        "internet_archive",
-        "wikimedia_commons"
+        "internet_archive"
       ],
       "match_confidence": 88.9,
-      "completeness_score": 0.7,
+      "completeness_score": 0.6,
       "quality_tier": "mittel",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "datum_via_internet_archive_fallback",
         "feldkonflikte:model,canonical_name,sensor_width_mm,sensor_height_mm"
       ]

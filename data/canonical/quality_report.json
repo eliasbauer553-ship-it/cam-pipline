@@ -2,8 +2,8 @@
   "total_records": 1058,
   "by_tier": {
     "hoch": 691,
-    "mittel": 278,
-    "niedrig": 89
+    "mittel": 280,
+    "niedrig": 87
   },
   "avg_completeness": 0.808,
   "records_missing_image": 891,
@@ -14,8 +14,8 @@
       "total_records": 377,
       "by_tier": {
         "hoch": 10,
-        "mittel": 278,
-        "niedrig": 89
+        "mittel": 280,
+        "niedrig": 87
       },
       "avg_completeness": 0.463,
       "records_missing_image": 220,

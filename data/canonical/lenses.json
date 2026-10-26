@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:36:06Z",
+  "generated_at": "2026-10-26T09:07:43Z",
   "pipeline_version": "1.1",
   "entity_type": "lens",
   "quality_report": {
@@ -10,7 +10,7 @@
       "niedrig": 0
     },
     "avg_completeness": 0.999,
-    "records_missing_image": 671,
+    "records_missing_image": 681,
     "records_with_conflicts": 32,
     "records_single_source": 649
   },
@@ -2186,18 +2186,17 @@
       "weight_g": 375,
       "price_usd": 449.95,
       "product_url": "https://fujifilm-x.com/global/products/lenses/xc50-230mmf45-67-ois-2/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2015,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -2239,18 +2238,17 @@
       "weight_g": 1375,
       "price_usd": 2249.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf100-400mmf45-56-r-lm-ois-wr/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2016,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -2292,18 +2290,17 @@
       "weight_g": 1605,
       "price_usd": 2399.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf150-600mmf56-8-r-lm-ois-wr/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fujifilm_Fujinon_XF_150-600mm_F5.6-8_R_LM_OIS_WR_-_by_Henry_S%C3%B6derlund_%2852496357093%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY 2.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2022,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -2579,18 +2576,17 @@
       "weight_g": 2265,
       "price_usd": 5999.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf200mmf2-r-lm-ois-wr/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2018,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -2918,18 +2914,17 @@
       "weight_g": 580,
       "price_usd": 849.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf55-200mmf35-48-r-lm-ois/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2013,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -2945,18 +2940,17 @@
       "weight_g": 405,
       "price_usd": 849.95,
       "product_url": "https://www.fujifilm-x.com/global/products/discontinued-lenses/xf56mmf12-r/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Fujifilm_Fujinon_XF_56mm_F1.2_R_APD_-_by_Henry_S%C3%B6derlund_%2816331743211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY 2.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2014,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "feldkonflikte:model,canonical_name,weight_g,release_date,price_usd,product_url"
       ]
     },
@@ -2972,18 +2966,17 @@
       "weight_g": 215,
       "price_usd": 779.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf60mmf24-r-macro/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2012,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -2999,18 +2992,17 @@
       "weight_g": 580,
       "price_usd": 949.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf70-300mmf4-56-r-lm-ois-wr/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2021,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3052,18 +3044,17 @@
       "weight_g": 750,
       "price_usd": 1399.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf80mmf28-r-lm-ois-wr-macro/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Goldenrod_crab_spider_%28Misumena_vatia%29_on_African_daisy_%28Arctotis%29%2C_Ponte_de_Sor%2C_Portugal_%28approx._GPS_location%29_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2017,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3105,18 +3096,17 @@
       "weight_g": 540,
       "price_usd": 1149.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf90mmf2-r-lm-wr/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2015,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },

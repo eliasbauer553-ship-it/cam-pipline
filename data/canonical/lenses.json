@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:10:06Z",
+  "generated_at": "2026-10-30T10:13:45Z",
   "pipeline_version": "1.1",
   "entity_type": "lens",
   "quality_report": {
@@ -28,17 +28,18 @@
       "weight_g": 504,
       "price_usd": 449,
       "product_url": "https://7artisans.store/products/af-10mm-f2-5-full-frame-lens-for-e-z-l",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2026,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -54,17 +55,18 @@
       "weight_g": 232,
       "price_usd": 199,
       "product_url": "https://7artisans.store/products/af-10mm-f2-8-aps-c-lens-for-e-fx-z",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2025,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -106,17 +108,18 @@
       "weight_g": 424,
       "price_usd": 329,
       "product_url": "https://7artisans.store/products/af-24mm-f1-8-full-frame-lens-for-e",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2025,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -132,17 +135,18 @@
       "weight_g": 183,
       "price_usd": 125,
       "product_url": "https://7artisans.store/products/af-25-35-50mm-f1-8-aps-c-lens-for-e-fx-z",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2026,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -158,17 +162,18 @@
       "weight_g": 172,
       "price_usd": 90,
       "product_url": "https://7artisans.store/products/27mm-f2-8-af-aps-c-lens-for-e",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2024,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -314,17 +319,18 @@
       "weight_g": 570,
       "price_usd": 278,
       "product_url": "https://7artisans.store/products/7artisans-10mm-f2-8-full-frame-fisheye-lens-for-e-l-r-z-mount",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2024,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -340,17 +346,18 @@
       "weight_g": 504,
       "price_usd": 299,
       "product_url": "https://7artisans.store/products/14mm-f-2-8-full-frame-wide-angle-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2025,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -366,17 +373,18 @@
       "weight_g": 146,
       "price_usd": 89,
       "product_url": "https://7artisans.store/products/18mm-f-5-6-full-frame-lens-for-e-z-l",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2025,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -574,17 +582,18 @@
       "weight_g": 265,
       "price_usd": 139,
       "product_url": "https://7artisans.store/products/7-5mm-f2-8-mk-ii",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2021,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -626,17 +635,18 @@
       "weight_g": 463,
       "price_usd": 479,
       "product_url": "https://7artisans.store/products/9mm-f-5-6-full-frame-wide-angle-lens-for-e-l-r-z",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2023,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -2836,18 +2846,17 @@
       "weight_g": 1335,
       "price_usd": 3599.95,
       "product_url": "https://www.fujifilm-x.com/en-us/products/lenses/xf500mmf56-r-lm-ois-wr/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2024,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3149,18 +3158,17 @@
       "weight_g": 125,
       "price_usd": 349,
       "product_url": "https://www.venuslens.net/product/laowa-10mm-f-2-zero-d-mft/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2020,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3176,18 +3184,17 @@
       "weight_g": 420,
       "price_usd": 799,
       "product_url": "https://www.venuslens.net/product/laowa-10mm-f-2-8-ff-zero-d/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2024,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3203,18 +3210,17 @@
       "weight_g": 130,
       "price_usd": 299,
       "product_url": "https://www.venuslens.net/product/laowa-10mm-f-4-cookie/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2022,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3230,18 +3236,17 @@
       "weight_g": 254,
       "price_usd": 699,
       "product_url": "https://www.venuslens.net/product/laowa-11mm-f-4-5-ff-rl/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2020,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3569,18 +3574,17 @@
       "weight_g": 338,
       "price_usd": 399,
       "product_url": "https://www.venuslens.net/product/4-5-10mm-f-2-8-cf-zoom-fisheye/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2026,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3674,18 +3678,17 @@
       "weight_g": 170,
       "price_usd": 499,
       "product_url": "https://www.venuslens.net/product/laowa-7-5mm-f2/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2017,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3701,18 +3704,17 @@
       "weight_g": 650,
       "price_usd": 699,
       "product_url": "https://www.venuslens.net/product/laowa-8-15mm-f-2-8-ff-zoom-fisheye-2/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2025,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3780,18 +3782,17 @@
       "weight_g": 215,
       "price_usd": 499,
       "product_url": "https://www.venuslens.net/product/9mm/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2018,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -3807,18 +3808,17 @@
       "weight_g": 350,
       "price_usd": 799,
       "product_url": "https://www.venuslens.net/product/laowa-9mm-f-5-6-ff-rl/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2020,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },

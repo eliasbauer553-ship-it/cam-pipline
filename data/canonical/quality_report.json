@@ -1,8 +1,8 @@
 {
   "total_records": 1060,
   "by_tier": {
-    "hoch": 693,
-    "mittel": 276,
+    "hoch": 692,
+    "mittel": 277,
     "niedrig": 91
   },
   "avg_completeness": 0.807,
@@ -13,12 +13,12 @@
     "camera": {
       "total_records": 379,
       "by_tier": {
-        "hoch": 12,
-        "mittel": 276,
+        "hoch": 11,
+        "mittel": 277,
         "niedrig": 91
       },
-      "avg_completeness": 0.462,
-      "records_missing_image": 222,
+      "avg_completeness": 0.46,
+      "records_missing_image": 232,
       "records_with_conflicts": 23,
       "records_single_source": 355
     },
@@ -30,7 +30,7 @@
         "niedrig": 0
       },
       "avg_completeness": 0.999,
-      "records_missing_image": 681,
+      "records_missing_image": 671,
       "records_with_conflicts": 32,
       "records_single_source": 649
     }

@@ -1,8 +1,603 @@
 {
   "source": "wikidata",
-  "fetched_at": "2026-11-09T11-40-36Z",
+  "fetched_at": "2026-11-10T11-17-41Z",
   "record_count": 236,
   "records": [
+    {
+      "_source": "wikidata",
+      "qid": "Q1599778",
+      "label_raw": "Nikon Coolscan 5000 ED",
+      "manufacturer_raw": "Nikon",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20Coolscan%20SF210.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q2107651",
+      "label_raw": "Praktica LTL2",
+      "manufacturer_raw": "Pentacon",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Praktica%20LTL%202.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q4652863",
+      "label_raw": "AN/PAS-13",
+      "manufacturer_raw": "BAE Systems",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PAS-13%28V%291%20Light%20Weapon%20Thermal%20Sight%20%28LWTS%29.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q4652863",
+      "label_raw": "AN/PAS-13",
+      "manufacturer_raw": "DRS Technologies",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PAS-13%28V%291%20Light%20Weapon%20Thermal%20Sight%20%28LWTS%29.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q4652863",
+      "label_raw": "AN/PAS-13",
+      "manufacturer_raw": "L3Harris Technologies",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PAS-13%28V%291%20Light%20Weapon%20Thermal%20Sight%20%28LWTS%29.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q4652863",
+      "label_raw": "AN/PAS-13",
+      "manufacturer_raw": "RTX",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PAS-13%28V%291%20Light%20Weapon%20Thermal%20Sight%20%28LWTS%29.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q5192552",
+      "label_raw": "CueCat",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/CueCat%20barcode%20scanner.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        ":CueCat",
+        ":C"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q5967717",
+      "label_raw": "I-Zone",
+      "manufacturer_raw": "Polaroid Corporation",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Polaroid%20i-Zone%20instant%20camera%20and%20film%20cartridge.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q28403383",
+      "label_raw": "Polaroid Palette",
+      "manufacturer_raw": "Q431361",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/2015-05%20Polaroid%20P.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q30018217",
+      "label_raw": "Logitech Pocket Digital-Musée Bolo",
+      "manufacturer_raw": "Logitech",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20Pocket%20Digital-P4191208-black.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q30032251",
+      "label_raw": "Logitech QuickCam-Musée Bolo",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20QuickCam-P4191210-black.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q30032370",
+      "label_raw": "Logitech VideoMan-Musée Bolo",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20VideoMan-P4191214-white.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q55205616",
+      "label_raw": "Photo-revolver-CNAM 16477",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photo-revolver-CNAM%2016477-IMG%205218-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q55220370",
+      "label_raw": "Contax Ia-CnAM 43086",
+      "manufacturer_raw": "Contax",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Contax%20Ia-CnAM%2043086-IMG%205268-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q55380096",
+      "label_raw": "Photographic hat-CNAM 43936",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photographic%20hat-CNAM%2043936-IMG%205234-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q55380346",
+      "label_raw": "Photo-Tie",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photo-Tie-CNAM%2016900-IMG%205222-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Photo-Tie-CNAM 16900"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q55389445",
+      "label_raw": "Secret camera",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Secret%20camera-CNAM%2016896-IMG%205229-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Secret camera-CNAM 16896"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q55389764",
+      "label_raw": "Photoret spy camera",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photoret-CNAM%2016441-IMG%205225-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "\"Photoret\" camera by Herman Casler"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q55399326",
+      "label_raw": "Photo album camera-CNAM 16483",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photo%20album%20camera-CNAM%2016483-IMG%205238-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q55401669",
+      "label_raw": "Super Eljy-CnAM 40831",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Super%20Eljy-CnAM%2040831-IMG%205266-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "\"Super Eljy\" camera, circa 1937"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q65719563",
+      "label_raw": "Hasselblad 500 EL, 1968 - Musée Nicéphore Niépce",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasselblad%20500%20EL%2C%201968%2C%20identical%20to%20that%20used%20on%20Apollo%2011%20mission%20to%20moon%20-%20Mus%C3%A9e%20Nic%C3%A9phore%20Ni%C3%A9pce%20-%20DSC06009.JPG",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q99753406",
+      "label_raw": "Nikon Coolscan V ED",
+      "manufacturer_raw": "Nikon",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q104924183",
+      "label_raw": "\"Photo-notebook\" camera by Rudolph Krügener, 1888",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20des%20Arts%20et%20M%C3%A9tiers%20-%20Appareil%20photographique%20dit%20%C2%ABPhoto-Carnet%C2%BB%20de%20Rudolph%20Kr%C3%BCgener%2C%201888.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q105064616",
+      "label_raw": "\"Stylophot Luxe\" camera, circa 1950",
+      "manufacturer_raw": "Secam",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stylophot%20by%20Secam%20-%20CnAM%2043089.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q105064706",
+      "label_raw": "Steineck ABC",
+      "manufacturer_raw": "Steineck Camera Werk",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Steineck%20ABC%20-%20CnAM%2043910.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q105427392",
+      "label_raw": "The Kombi",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Kombi%20by%20Alfred%20Kemper%2C%201892%20-%20CnAM%2013254-8.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q105427567",
+      "label_raw": "Le Franceville",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Franceville%2C%201907%20-%20CnAM%2018824.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q106713151",
+      "label_raw": "CodeCheck app",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q112272886",
+      "label_raw": "AN/PAS-35",
+      "manufacturer_raw": "Leonardo DRS",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/AN%20PAS-35%20closeup.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "FWS-I"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q112272910",
+      "label_raw": "AN/PAS-36",
+      "manufacturer_raw": "BAE Systems",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/BAE%20FWS-I%20mounted%20on%20M4.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "FWS-I"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q113150234",
+      "label_raw": "Steineck ABC spy camera",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Steineck%20ABC%20CNAM-IMG%200552.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q114740479",
+      "label_raw": "Kerfuś",
+      "manufacturer_raw": "Pudu Robotics",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zdj%C4%99cie%20Kerfusia%20%28crop%29.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q117477693",
+      "label_raw": "Canon EOS Rebel GII",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q124849199",
+      "label_raw": "Waistline",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "waistline calorie tracker"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q125888712",
+      "label_raw": "Kodak instant camera",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q126718557",
+      "label_raw": "PENTAX 17",
+      "manufacturer_raw": "Ricoh",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PENTAX%2017%3B%20October%202024%20%2802%29.jpg",
+      "release_date": "2024-07-12T00:00:00Z",
+      "mount_raw": null,
+      "aliases_raw": [
+        "Pentax 17"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q127445131",
+      "label_raw": "Q127445131",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q128904237",
+      "label_raw": "Panasonic SDR-S26",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Panasonic%20SDR-S26.png",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q130478508",
+      "label_raw": "Rolleiflex SLX",
+      "manufacturer_raw": "Rollei",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rollei%20SLX%20open.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q130535671",
+      "label_raw": "Rolleiflex 6000 System",
+      "manufacturer_raw": "Rollei",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rolleiflex-6008-2-rr.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q131639364",
+      "label_raw": "JVC GR-D870",
+      "manufacturer_raw": "JVC",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q131675054",
+      "label_raw": "Q131675054",
+      "manufacturer_raw": "Konica Minolta",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q131675150",
+      "label_raw": "Q131675150",
+      "manufacturer_raw": "Minolta",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q134591754",
+      "label_raw": "Panasonic AG-HPX371 E",
+      "manufacturer_raw": "Panasonic Holdings Corporation",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Panasonic%20AG-HPX371%20E%20Bild%203.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q135390738",
+      "label_raw": "Epson Perfection V200 Photo",
+      "manufacturer_raw": "Seiko Epson",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q136826009",
+      "label_raw": "Q136826009",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q137194867",
+      "label_raw": "Autokon",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autokon%201000DE.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q137910605",
+      "label_raw": "Polaroid 600 series",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q139730875",
+      "label_raw": "Praktina",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/K-W%20Praktina%20FX%20%2813830459144%29.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q139935617",
+      "label_raw": "BUSHNELL BS368",
+      "manufacturer_raw": "Bushnell Corporation",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q140010706",
+      "label_raw": "Panavision Millennium DXL",
+      "manufacturer_raw": "Panavision",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Millennium DXL",
+        "DXL"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q140010777",
+      "label_raw": "Panavision Millennium DXL2",
+      "manufacturer_raw": "Panavision",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Millennium DXL2",
+        "DXL2"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q140010820",
+      "label_raw": "Panavision Millennium DXL-M",
+      "manufacturer_raw": "Panavision",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Millennium DXL-M",
+        "Millennium DXL M",
+        "DXL-M",
+        "DXL M"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q140353010",
+      "label_raw": "JVC GR-D200",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q140646615",
+      "label_raw": "Bolyguard SG2060-K",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peuple-Loup-2018-04-kit-boly.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q183998",
+      "label_raw": "camera obscura",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camera%20obscura.png",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "optical room",
+        "dark room",
+        "camera ottica",
+        "camera obscura"
+      ]
+    },
     {
       "_source": "wikidata",
       "qid": "Q205910",
@@ -12,6 +607,66 @@
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q209892",
+      "label_raw": "rangefinder camera",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D0%BE%D1%82%D0%BE%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%20Contax%20II%20%D1%84%D0%BE%D1%82%D0%BE2.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Messucherkamera"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q209981",
+      "label_raw": "Wide Field Camera 3",
+      "manufacturer_raw": "Q52152",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/223038main%20WFC3%20FS%20img%20lg.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "WFC3"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q209981",
+      "label_raw": "Wide Field Camera 3",
+      "manufacturer_raw": "Jet Propulsion Laboratory",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/223038main%20WFC3%20FS%20img%20lg.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "WFC3"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q209981",
+      "label_raw": "Wide Field Camera 3",
+      "manufacturer_raw": "Ball Aerospace & Technologies",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/223038main%20WFC3%20FS%20img%20lg.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "WFC3"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q209981",
+      "label_raw": "Wide Field Camera 3",
+      "manufacturer_raw": "Swales Aerospace",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/223038main%20WFC3%20FS%20img%20lg.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "WFC3"
+      ]
     },
     {
       "_source": "wikidata",
@@ -77,6 +732,19 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q522099",
+      "label_raw": "Wide Field and Planetary Camera",
+      "manufacturer_raw": "Jet Propulsion Laboratory",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Replacing%20the%20Wide%20Field%20and%20Planetary%20Camera%20%281993%29%20%283823%29%20%28cropped%29.png",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "WFPC",
+        "WF/PC"
+      ]
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q676840",
       "label_raw": "Moderate-Resolution Imaging Spectroradiometer",
       "manufacturer_raw": null,
@@ -126,6 +794,43 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q1036092",
+      "label_raw": "HiRISE",
+      "manufacturer_raw": "Ball Aerospace & Technologies",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20Reconnaissance%20Orbiter%20HiRISE.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "High Resolution Imaging Science Experiment"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q1088166",
+      "label_raw": "photographic guns",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Praktica%20STL-1%20with%20VOSS%20400mm%20lenz.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Chronophotographic gun",
+        "Fotografisches Gewehr"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q1108979",
+      "label_raw": "Thermal Emission Imaging System",
+      "manufacturer_raw": "RTX",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Themis-lg.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "THEMIS"
+      ]
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q1151772",
       "label_raw": "Xbox Live Vision",
       "manufacturer_raw": "Microsoft",
@@ -147,6 +852,30 @@
         "Großformat-Kamera",
         "Großbildkamera"
       ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q1194186",
+      "label_raw": "Wide Field and Planetary Camera 2",
+      "manufacturer_raw": "Jet Propulsion Laboratory",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubble%27s%20WFPC2%20%2812088153624%29.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Wide Field/Planetary Camera II",
+        "WFPC2",
+        "WF/PC II"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q1236984",
+      "label_raw": "dome camera",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
     },
     {
       "_source": "wikidata",
@@ -189,6 +918,16 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q1746063",
+      "label_raw": "time-of-flight camera",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Note%2010%20series.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q1881516",
       "label_raw": "MIRI",
       "manufacturer_raw": null,
@@ -199,6 +938,16 @@
         "Mid-Infrared Instrument",
         "Mid Infrared Instrument"
       ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q2091269",
+      "label_raw": "Viper Filmstream",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
     },
     {
       "_source": "wikidata",
@@ -284,6 +1033,16 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q5276151",
+      "label_raw": "digital scan back",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q5356830",
       "label_raw": "Yashica Electro 35",
       "manufacturer_raw": "Yashica",
@@ -304,10 +1063,10 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q5967717",
-      "label_raw": "I-Zone",
-      "manufacturer_raw": "Polaroid Corporation",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Polaroid%20i-Zone%20instant%20camera%20and%20film%20cartridge.jpg",
+      "qid": "Q6019620",
+      "label_raw": "Q6019620",
+      "manufacturer_raw": "Nikon",
+      "image_url": null,
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
@@ -324,10 +1083,30 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q6593492",
+      "label_raw": "list of Panasonic camcorders",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q6745700",
       "label_raw": "Mamiya C",
       "manufacturer_raw": "Mamiya",
       "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mamiya%20C%20TLR%200960.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q6869013",
+      "label_raw": "Minolta AL-F",
+      "manufacturer_raw": "Minolta",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Minolta%20AL-F.jpg",
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
@@ -374,9 +1153,39 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q7079149",
+      "label_raw": "office camera",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q7193262",
       "label_raw": "Pigcam",
       "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q7370297",
+      "label_raw": "rotating line camera",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q7383578",
+      "label_raw": "Ruvi",
+      "manufacturer_raw": "Sony Group",
       "image_url": null,
       "release_date": null,
       "mount_raw": null,
@@ -423,6 +1232,64 @@
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q11394998",
+      "label_raw": "QuickSnap",
+      "manufacturer_raw": "Fujifilm Corporation",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20QuickSnap%20Flash.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q11697886",
+      "label_raw": "Fenix",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q12035185",
+      "label_raw": "Q12035185",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20giant%20camera.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q13428276",
+      "label_raw": "action camera",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Barra%20Skydive%20-%20panoramio.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "action-cam",
+        "action camcorder",
+        "action cam"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q13428276",
+      "label_raw": "action camera",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20HDR%20AS5%20Action%20Cam%202%20%E2%80%94%20Sven%20Volkens.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "action-cam",
+        "action camcorder",
+        "action cam"
+      ]
     },
     {
       "_source": "wikidata",
@@ -487,10 +1354,30 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q24978674",
+      "label_raw": "Nest Cam",
+      "manufacturer_raw": "Google Nest",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q25388539",
       "label_raw": "Fujifilm FinePix SL1000",
       "manufacturer_raw": "Fujifilm Corporation",
       "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fuji%20Fine%20Pix%20SL%201000.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q25400709",
+      "label_raw": "Q25400709",
+      "manufacturer_raw": null,
+      "image_url": null,
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
@@ -527,16 +1414,6 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q28403383",
-      "label_raw": "Polaroid Palette",
-      "manufacturer_raw": "Q431361",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/2015-05%20Polaroid%20P.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
       "qid": "Q28408352",
       "label_raw": "Infrared Array Camera",
       "manufacturer_raw": null,
@@ -562,10 +1439,20 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q30018217",
-      "label_raw": "Logitech Pocket Digital-Musée Bolo",
+      "qid": "Q30018093",
+      "label_raw": "Logitech FotoMan Pixtura-Musée Bolo",
       "manufacturer_raw": "Logitech",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20Pocket%20Digital-P4191208-black.jpg",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20FotoMan%20Pixtura-Kodak%20DC-40-P4191201-black.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q30018142",
+      "label_raw": "Logitech FotoMan-Musée Bolo",
+      "manufacturer_raw": "Logitech",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20FotoMan-P4191197-black.jpg",
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
@@ -708,6 +1595,16 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q55220291",
+      "label_raw": "Aiglon-CnAM 43095",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aiglon-CnAM%2043095-IMG%205259-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q55221197",
       "label_raw": "Nicour binoculars",
       "manufacturer_raw": null,
@@ -725,18 +1622,6 @@
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q55389764",
-      "label_raw": "Photoret spy camera",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photoret-CNAM%2016441-IMG%205225-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "\"Photoret\" camera by Herman Casler"
-      ]
     },
     {
       "_source": "wikidata",
@@ -771,6 +1656,18 @@
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q55401034",
+      "label_raw": "JVC GR C1S camcorder",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/JVC%20GR%20C1S%20camcorder-CnAM%2043196-IMG%205359-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "JVC GR C1S camcorder-CnAM 43196"
+      ]
     },
     {
       "_source": "wikidata",
@@ -872,6 +1769,26 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q78234631",
+      "label_raw": "Q78234631",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q89260661",
+      "label_raw": "Cinematograph-MHS 1676",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cinematographe-MHS%201676-P5200215-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q92911468",
       "label_raw": "Sagem Osiris",
       "manufacturer_raw": "SAGEM",
@@ -906,405 +1823,6 @@
       "label_raw": "Akeley motion picture camera",
       "manufacturer_raw": null,
       "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Patent%20for%20Akeley%20Motion%20Picture%20Camera%2C%201915.png",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q117477693",
-      "label_raw": "Canon EOS Rebel GII",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q183998",
-      "label_raw": "camera obscura",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camera%20obscura.png",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "optical room",
-        "dark room",
-        "camera ottica",
-        "camera obscura"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q209892",
-      "label_raw": "rangefinder camera",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D0%BE%D1%82%D0%BE%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%20Contax%20II%20%D1%84%D0%BE%D1%82%D0%BE2.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Messucherkamera"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q209981",
-      "label_raw": "Wide Field Camera 3",
-      "manufacturer_raw": "Q52152",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/223038main%20WFC3%20FS%20img%20lg.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "WFC3"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q209981",
-      "label_raw": "Wide Field Camera 3",
-      "manufacturer_raw": "Jet Propulsion Laboratory",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/223038main%20WFC3%20FS%20img%20lg.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "WFC3"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q209981",
-      "label_raw": "Wide Field Camera 3",
-      "manufacturer_raw": "Ball Aerospace & Technologies",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/223038main%20WFC3%20FS%20img%20lg.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "WFC3"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q209981",
-      "label_raw": "Wide Field Camera 3",
-      "manufacturer_raw": "Swales Aerospace",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/223038main%20WFC3%20FS%20img%20lg.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "WFC3"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q522099",
-      "label_raw": "Wide Field and Planetary Camera",
-      "manufacturer_raw": "Jet Propulsion Laboratory",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Replacing%20the%20Wide%20Field%20and%20Planetary%20Camera%20%281993%29%20%283823%29%20%28cropped%29.png",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "WFPC",
-        "WF/PC"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q1036092",
-      "label_raw": "HiRISE",
-      "manufacturer_raw": "Ball Aerospace & Technologies",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20Reconnaissance%20Orbiter%20HiRISE.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "High Resolution Imaging Science Experiment"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q1088166",
-      "label_raw": "photographic guns",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Praktica%20STL-1%20with%20VOSS%20400mm%20lenz.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Chronophotographic gun",
-        "Fotografisches Gewehr"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q1108979",
-      "label_raw": "Thermal Emission Imaging System",
-      "manufacturer_raw": "RTX",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Themis-lg.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "THEMIS"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q1194186",
-      "label_raw": "Wide Field and Planetary Camera 2",
-      "manufacturer_raw": "Jet Propulsion Laboratory",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubble%27s%20WFPC2%20%2812088153624%29.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Wide Field/Planetary Camera II",
-        "WFPC2",
-        "WF/PC II"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q1236984",
-      "label_raw": "dome camera",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q1746063",
-      "label_raw": "time-of-flight camera",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Samsung%20Galaxy%20Note%2010%20series.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q2091269",
-      "label_raw": "Viper Filmstream",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q5276151",
-      "label_raw": "digital scan back",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q6019620",
-      "label_raw": "Q6019620",
-      "manufacturer_raw": "Nikon",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q6593492",
-      "label_raw": "list of Panasonic camcorders",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q6869013",
-      "label_raw": "Minolta AL-F",
-      "manufacturer_raw": "Minolta",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Minolta%20AL-F.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q7079149",
-      "label_raw": "office camera",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q7370297",
-      "label_raw": "rotating line camera",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q7383578",
-      "label_raw": "Ruvi",
-      "manufacturer_raw": "Sony Group",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q11394998",
-      "label_raw": "QuickSnap",
-      "manufacturer_raw": "Fujifilm Corporation",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20QuickSnap%20Flash.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q11697886",
-      "label_raw": "Fenix",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q12035185",
-      "label_raw": "Q12035185",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20giant%20camera.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q13428276",
-      "label_raw": "action camera",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Barra%20Skydive%20-%20panoramio.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "action-cam",
-        "action camcorder",
-        "action cam"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q13428276",
-      "label_raw": "action camera",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20HDR%20AS5%20Action%20Cam%202%20%E2%80%94%20Sven%20Volkens.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "action-cam",
-        "action camcorder",
-        "action cam"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q24978674",
-      "label_raw": "Nest Cam",
-      "manufacturer_raw": "Google Nest",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q25400709",
-      "label_raw": "Q25400709",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q30018093",
-      "label_raw": "Logitech FotoMan Pixtura-Musée Bolo",
-      "manufacturer_raw": "Logitech",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20FotoMan%20Pixtura-Kodak%20DC-40-P4191201-black.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q30018142",
-      "label_raw": "Logitech FotoMan-Musée Bolo",
-      "manufacturer_raw": "Logitech",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20FotoMan-P4191197-black.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q55220291",
-      "label_raw": "Aiglon-CnAM 43095",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aiglon-CnAM%2043095-IMG%205259-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q55220370",
-      "label_raw": "Contax Ia-CnAM 43086",
-      "manufacturer_raw": "Contax",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Contax%20Ia-CnAM%2043086-IMG%205268-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q55401034",
-      "label_raw": "JVC GR C1S camcorder",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/JVC%20GR%20C1S%20camcorder-CnAM%2043196-IMG%205359-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "JVC GR C1S camcorder-CnAM 43196"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q78234631",
-      "label_raw": "Q78234631",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q89260661",
-      "label_raw": "Cinematograph-MHS 1676",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Cinematographe-MHS%201676-P5200215-gradient.jpg",
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
@@ -1450,6 +1968,26 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q105973037",
+      "label_raw": "Fujifilm Instax Wide 300",
+      "manufacturer_raw": "Fujifilm Corporation",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/FujifilmInstaxWide300March52019.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q106317933",
+      "label_raw": "fish doorbell",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q106473449",
       "label_raw": "ShadowCam",
       "manufacturer_raw": "Malin Space Science Systems",
@@ -1470,201 +2008,6 @@
         "Union-Kino",
         "Union-Kino"
       ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q110996843",
-      "label_raw": "DJI Pocket 2",
-      "manufacturer_raw": "DJI",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/DJI%20Pocket%202.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Pocket 2",
-        "Osmo Pocket 2",
-        "DJI Osmo Pocket 2"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q113335672",
-      "label_raw": "Daguerreotype camera - CnAM 9553-7",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20des%20Arts%20et%20M%C3%A9tiers%20-%20Chambre%20%C3%A0%20tiroir%20pour%20daguerr%C3%A9otype.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q118368032",
-      "label_raw": "Netatmo Presence Outdoor Camera",
-      "manufacturer_raw": "Netatmo",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Netatmo%20Presence%20Security%20Camera%20%2823850605673%29.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q118368046",
-      "label_raw": "Netatmo Welcome Smart Home Camera",
-      "manufacturer_raw": "Netatmo",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q118464949",
-      "label_raw": "Wide Angle Topographic Sensor for Operations and eNgineering",
-      "manufacturer_raw": "Jet Propulsion Laboratory",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "WATSON"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q118594233",
-      "label_raw": "Context Camera",
-      "manufacturer_raw": "Malin Space Science Systems",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "CTX"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q119998294",
-      "label_raw": "Q119998294",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q123054164",
-      "label_raw": "Praktica DCZ 10.4",
-      "manufacturer_raw": "Praktica",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Praktica%20DCZ%2010.4%2020230912%20HOF09106%20RAW-Export.png",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "DCZ 10.4"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q123136792",
-      "label_raw": "Withings Home",
-      "manufacturer_raw": "Withings",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Withings%20Home.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q124606152",
-      "label_raw": "Minolta camera",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q124609089",
-      "label_raw": "Hasselblad 500 EL/M at Cité de l'Espace",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasselblad%20500%20EL-M%20at%20Cit%C3%A9%20de%20l%C2%B4Espace-IMG%201776.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q124638737",
-      "label_raw": "Admira 8F",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q124653753",
-      "label_raw": "Lunar Reconnaissance Orbiter Camera",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/LROC%20Cameras%20%28LROC139%29.png",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "LROC"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q125876801",
-      "label_raw": "Q125876801",
-      "manufacturer_raw": "Leica Camera",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q126279480",
-      "label_raw": "Concealed Vest Camera",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q127605195",
-      "label_raw": "AFA 39 aerial camera (Russia)",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20AFA%2039%20aerial%20camera%20with%20URAN%20lens%20-%2027%3B%202.5%20-%2010cm%3B%20used%20on%20MIG17F%3B%20MIG-19%3B%20MIG-21%3B%20Mil%20Mi-8%3B%20and%20others.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "AFA 39",
-        "AFA 39"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q105973037",
-      "label_raw": "Fujifilm Instax Wide 300",
-      "manufacturer_raw": "Fujifilm Corporation",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/FujifilmInstaxWide300March52019.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q106317933",
-      "label_raw": "fish doorbell",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
     },
     {
       "_source": "wikidata",
@@ -1704,6 +2047,30 @@
       "label_raw": "Red Epic",
       "manufacturer_raw": "Red Digital Cinema Camera Company",
       "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q110996843",
+      "label_raw": "DJI Pocket 2",
+      "manufacturer_raw": "DJI",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/DJI%20Pocket%202.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Pocket 2",
+        "Osmo Pocket 2",
+        "DJI Osmo Pocket 2"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q113335672",
+      "label_raw": "Daguerreotype camera - CnAM 9553-7",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20des%20Arts%20et%20M%C3%A9tiers%20-%20Chambre%20%C3%A0%20tiroir%20pour%20daguerr%C3%A9otype.jpg",
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
@@ -1772,6 +2139,60 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q118368032",
+      "label_raw": "Netatmo Presence Outdoor Camera",
+      "manufacturer_raw": "Netatmo",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Netatmo%20Presence%20Security%20Camera%20%2823850605673%29.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q118368046",
+      "label_raw": "Netatmo Welcome Smart Home Camera",
+      "manufacturer_raw": "Netatmo",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q118464949",
+      "label_raw": "Wide Angle Topographic Sensor for Operations and eNgineering",
+      "manufacturer_raw": "Jet Propulsion Laboratory",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "WATSON"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q118594233",
+      "label_raw": "Context Camera",
+      "manufacturer_raw": "Malin Space Science Systems",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "CTX"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q119998294",
+      "label_raw": "Q119998294",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q120645180",
       "label_raw": "Canon camera",
       "manufacturer_raw": "Canon Inc.",
@@ -1802,6 +2223,28 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q123054164",
+      "label_raw": "Praktica DCZ 10.4",
+      "manufacturer_raw": "Praktica",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Praktica%20DCZ%2010.4%2020230912%20HOF09106%20RAW-Export.png",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "DCZ 10.4"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q123136792",
+      "label_raw": "Withings Home",
+      "manufacturer_raw": "Withings",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Withings%20Home.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q123759946",
       "label_raw": "WebCam NX Ultra",
       "manufacturer_raw": null,
@@ -1809,6 +2252,38 @@
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q124606152",
+      "label_raw": "Minolta camera",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q124638737",
+      "label_raw": "Admira 8F",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q124653753",
+      "label_raw": "Lunar Reconnaissance Orbiter Camera",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/LROC%20Cameras%20%28LROC139%29.png",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "LROC"
+      ]
     },
     {
       "_source": "wikidata",
@@ -1822,8 +2297,18 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q125888712",
-      "label_raw": "Kodak instant camera",
+      "qid": "Q125876801",
+      "label_raw": "Q125876801",
+      "manufacturer_raw": "Leica Camera",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q126279480",
+      "label_raw": "Concealed Vest Camera",
       "manufacturer_raw": null,
       "image_url": null,
       "release_date": null,
@@ -1832,14 +2317,15 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q126718557",
-      "label_raw": "PENTAX 17",
-      "manufacturer_raw": "Ricoh",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PENTAX%2017%3B%20October%202024%20%2802%29.jpg",
-      "release_date": "2024-07-12T00:00:00Z",
+      "qid": "Q127605195",
+      "label_raw": "AFA 39 aerial camera (Russia)",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20AFA%2039%20aerial%20camera%20with%20URAN%20lens%20-%2027%3B%202.5%20-%2010cm%3B%20used%20on%20MIG17F%3B%20MIG-19%3B%20MIG-21%3B%20Mil%20Mi-8%3B%20and%20others.jpg",
+      "release_date": null,
       "mount_raw": null,
       "aliases_raw": [
-        "Pentax 17"
+        "AFA 39",
+        "AFA 39"
       ]
     },
     {
@@ -1848,79 +2334,6 @@
       "label_raw": "FogCam",
       "manufacturer_raw": null,
       "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q134570279",
-      "label_raw": "Nikon Coolpix P1100",
-      "manufacturer_raw": "Nikon",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "P1100",
-        "Coolpix P1100"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q135390738",
-      "label_raw": "Epson Perfection V200 Photo",
-      "manufacturer_raw": "Seiko Epson",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q136826009",
-      "label_raw": "Q136826009",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q137194867",
-      "label_raw": "Autokon",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Autokon%201000DE.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q137910605",
-      "label_raw": "Polaroid 600 series",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q139935617",
-      "label_raw": "BUSHNELL BS368",
-      "manufacturer_raw": "Bushnell Corporation",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q140646615",
-      "label_raw": "Bolyguard SG2060-K",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peuple-Loup-2018-04-kit-boly.jpg",
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
@@ -1954,6 +2367,19 @@
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q134570279",
+      "label_raw": "Nikon Coolpix P1100",
+      "manufacturer_raw": "Nikon",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "P1100",
+        "Coolpix P1100"
+      ]
     },
     {
       "_source": "wikidata",
@@ -2030,47 +2456,6 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q140010706",
-      "label_raw": "Panavision Millennium DXL",
-      "manufacturer_raw": "Panavision",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Millennium DXL",
-        "DXL"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q140010777",
-      "label_raw": "Panavision Millennium DXL2",
-      "manufacturer_raw": "Panavision",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Millennium DXL2",
-        "DXL2"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q140010820",
-      "label_raw": "Panavision Millennium DXL-M",
-      "manufacturer_raw": "Panavision",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Millennium DXL-M",
-        "Millennium DXL M",
-        "DXL-M",
-        "DXL M"
-      ]
-    },
-    {
-      "_source": "wikidata",
       "qid": "Q141154480",
       "label_raw": "OM System OM-5 Mark II + M.Zuiko 14-150mm F4.0-5.6 II kit",
       "manufacturer_raw": "OM Digital Solutions",
@@ -2115,109 +2500,6 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q1599778",
-      "label_raw": "Nikon Coolscan 5000 ED",
-      "manufacturer_raw": "Nikon",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikon%20Coolscan%20SF210.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q2107651",
-      "label_raw": "Praktica LTL2",
-      "manufacturer_raw": "Pentacon",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Praktica%20LTL%202.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q4652863",
-      "label_raw": "AN/PAS-13",
-      "manufacturer_raw": "BAE Systems",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PAS-13%28V%291%20Light%20Weapon%20Thermal%20Sight%20%28LWTS%29.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q4652863",
-      "label_raw": "AN/PAS-13",
-      "manufacturer_raw": "DRS Technologies",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PAS-13%28V%291%20Light%20Weapon%20Thermal%20Sight%20%28LWTS%29.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q4652863",
-      "label_raw": "AN/PAS-13",
-      "manufacturer_raw": "L3Harris Technologies",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PAS-13%28V%291%20Light%20Weapon%20Thermal%20Sight%20%28LWTS%29.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q4652863",
-      "label_raw": "AN/PAS-13",
-      "manufacturer_raw": "RTX",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PAS-13%28V%291%20Light%20Weapon%20Thermal%20Sight%20%28LWTS%29.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q5192552",
-      "label_raw": "CueCat",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/CueCat%20barcode%20scanner.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        ":CueCat",
-        ":C"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q30032251",
-      "label_raw": "Logitech QuickCam-Musée Bolo",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20QuickCam-P4191210-black.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q30032370",
-      "label_raw": "Logitech VideoMan-Musée Bolo",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20VideoMan-P4191214-white.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q55205616",
-      "label_raw": "Photo-revolver-CNAM 16477",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photo-revolver-CNAM%2016477-IMG%205218-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
       "qid": "Q55221073",
       "label_raw": "Kodak F3 DCS-CnAM 43706",
       "manufacturer_raw": null,
@@ -2225,40 +2507,6 @@
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q55380096",
-      "label_raw": "Photographic hat-CNAM 43936",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photographic%20hat-CNAM%2043936-IMG%205234-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q55380346",
-      "label_raw": "Photo-Tie",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photo-Tie-CNAM%2016900-IMG%205222-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Photo-Tie-CNAM 16900"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q55389445",
-      "label_raw": "Secret camera",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Secret%20camera-CNAM%2016896-IMG%205229-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Secret camera-CNAM 16896"
-      ]
     },
     {
       "_source": "wikidata",
@@ -2274,16 +2522,6 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q55399326",
-      "label_raw": "Photo album camera-CNAM 16483",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photo%20album%20camera-CNAM%2016483-IMG%205238-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
       "qid": "Q55400902",
       "label_raw": "Sony DCR-PC7E camcorder",
       "manufacturer_raw": null,
@@ -2293,142 +2531,6 @@
       "aliases_raw": [
         "Sony DCR-PC7E camcorder-CnAM 43799"
       ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q55401669",
-      "label_raw": "Super Eljy-CnAM 40831",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Super%20Eljy-CnAM%2040831-IMG%205266-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "\"Super Eljy\" camera, circa 1937"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q65719563",
-      "label_raw": "Hasselblad 500 EL, 1968 - Musée Nicéphore Niépce",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasselblad%20500%20EL%2C%201968%2C%20identical%20to%20that%20used%20on%20Apollo%2011%20mission%20to%20moon%20-%20Mus%C3%A9e%20Nic%C3%A9phore%20Ni%C3%A9pce%20-%20DSC06009.JPG",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q99753406",
-      "label_raw": "Nikon Coolscan V ED",
-      "manufacturer_raw": "Nikon",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q104924183",
-      "label_raw": "\"Photo-notebook\" camera by Rudolph Krügener, 1888",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20des%20Arts%20et%20M%C3%A9tiers%20-%20Appareil%20photographique%20dit%20%C2%ABPhoto-Carnet%C2%BB%20de%20Rudolph%20Kr%C3%BCgener%2C%201888.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q105064616",
-      "label_raw": "\"Stylophot Luxe\" camera, circa 1950",
-      "manufacturer_raw": "Secam",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Stylophot%20by%20Secam%20-%20CnAM%2043089.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q105064706",
-      "label_raw": "Steineck ABC",
-      "manufacturer_raw": "Steineck Camera Werk",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Steineck%20ABC%20-%20CnAM%2043910.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q105427392",
-      "label_raw": "The Kombi",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Kombi%20by%20Alfred%20Kemper%2C%201892%20-%20CnAM%2013254-8.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q105427567",
-      "label_raw": "Le Franceville",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Franceville%2C%201907%20-%20CnAM%2018824.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q106713151",
-      "label_raw": "CodeCheck app",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q112272886",
-      "label_raw": "AN/PAS-35",
-      "manufacturer_raw": "Leonardo DRS",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/AN%20PAS-35%20closeup.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "FWS-I"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q112272910",
-      "label_raw": "AN/PAS-36",
-      "manufacturer_raw": "BAE Systems",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/BAE%20FWS-I%20mounted%20on%20M4.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "FWS-I"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q113150234",
-      "label_raw": "Steineck ABC spy camera",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Steineck%20ABC%20CNAM-IMG%200552.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q114740479",
-      "label_raw": "Kerfuś",
-      "manufacturer_raw": "Pudu Robotics",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zdj%C4%99cie%20Kerfusia%20%28crop%29.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
     },
     {
       "_source": "wikidata",
@@ -2442,112 +2544,10 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q124849199",
-      "label_raw": "Waistline",
+      "qid": "Q124609089",
+      "label_raw": "Hasselblad 500 EL/M at Cité de l'Espace",
       "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "waistline calorie tracker"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q127445131",
-      "label_raw": "Q127445131",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q128904237",
-      "label_raw": "Panasonic SDR-S26",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Panasonic%20SDR-S26.png",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q130478508",
-      "label_raw": "Rolleiflex SLX",
-      "manufacturer_raw": "Rollei",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rollei%20SLX%20open.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q130535671",
-      "label_raw": "Rolleiflex 6000 System",
-      "manufacturer_raw": "Rollei",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rolleiflex-6008-2-rr.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q131639364",
-      "label_raw": "JVC GR-D870",
-      "manufacturer_raw": "JVC",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q131675054",
-      "label_raw": "Q131675054",
-      "manufacturer_raw": "Konica Minolta",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q131675150",
-      "label_raw": "Q131675150",
-      "manufacturer_raw": "Minolta",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q134591754",
-      "label_raw": "Panasonic AG-HPX371 E",
-      "manufacturer_raw": "Panasonic Holdings Corporation",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Panasonic%20AG-HPX371%20E%20Bild%203.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q139730875",
-      "label_raw": "Praktina",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/K-W%20Praktina%20FX%20%2813830459144%29.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q140353010",
-      "label_raw": "JVC GR-D200",
-      "manufacturer_raw": null,
-      "image_url": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasselblad%20500%20EL-M%20at%20Cit%C3%A9%20de%20l%C2%B4Espace-IMG%201776.jpg",
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []

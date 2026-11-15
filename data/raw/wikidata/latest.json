@@ -1,6 +1,6 @@
 {
   "source": "wikidata",
-  "fetched_at": "2026-11-14T10-32-48Z",
+  "fetched_at": "2026-11-15T11-01-32Z",
   "record_count": 236,
   "records": [
     {
@@ -304,16 +304,6 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q5967717",
-      "label_raw": "I-Zone",
-      "manufacturer_raw": "Polaroid Corporation",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Polaroid%20i-Zone%20instant%20camera%20and%20film%20cartridge.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
       "qid": "Q6314027",
       "label_raw": "JunoCam",
       "manufacturer_raw": null,
@@ -527,16 +517,6 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q28403383",
-      "label_raw": "Polaroid Palette",
-      "manufacturer_raw": "Q431361",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/2015-05%20Polaroid%20P.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
       "qid": "Q28408352",
       "label_raw": "Infrared Array Camera",
       "manufacturer_raw": null,
@@ -702,16 +682,6 @@
       "label_raw": "OPL Foca",
       "manufacturer_raw": "Optique & Précision de Levallois",
       "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Foca-CNAM%2043090-IMG%205270-gradient.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q55220370",
-      "label_raw": "Contax Ia-CnAM 43086",
-      "manufacturer_raw": "Contax",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Contax%20Ia-CnAM%2043086-IMG%205268-gradient.jpg",
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
@@ -912,6 +882,46 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q97365384",
+      "label_raw": "Akeley motion picture camera",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Patent%20for%20Akeley%20Motion%20Picture%20Camera%2C%201915.png",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q105973037",
+      "label_raw": "Fujifilm Instax Wide 300",
+      "manufacturer_raw": "Fujifilm Corporation",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/FujifilmInstaxWide300March52019.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q106317933",
+      "label_raw": "fish doorbell",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q117477693",
+      "label_raw": "Canon EOS Rebel GII",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q183998",
       "label_raw": "camera obscura",
       "manufacturer_raw": null,
@@ -1091,6 +1101,16 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q5967717",
+      "label_raw": "I-Zone",
+      "manufacturer_raw": "Polaroid Corporation",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Polaroid%20i-Zone%20instant%20camera%20and%20film%20cartridge.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q6019620",
       "label_raw": "Q6019620",
       "manufacturer_raw": "Nikon",
@@ -1229,6 +1249,16 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q28403383",
+      "label_raw": "Polaroid Palette",
+      "manufacturer_raw": "Q431361",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/2015-05%20Polaroid%20P.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q30018093",
       "label_raw": "Logitech FotoMan Pixtura-Musée Bolo",
       "manufacturer_raw": "Logitech",
@@ -1253,6 +1283,16 @@
       "label_raw": "Aiglon-CnAM 43095",
       "manufacturer_raw": null,
       "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aiglon-CnAM%2043095-IMG%205259-gradient.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q55220370",
+      "label_raw": "Contax Ia-CnAM 43086",
+      "manufacturer_raw": "Contax",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Contax%20Ia-CnAM%2043086-IMG%205268-gradient.jpg",
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
@@ -1563,6 +1603,16 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q124609089",
+      "label_raw": "Hasselblad 500 EL/M at Cité de l'Espace",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasselblad%20500%20EL-M%20at%20Cit%C3%A9%20de%20l%C2%B4Espace-IMG%201776.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q124638737",
       "label_raw": "Admira 8F",
       "manufacturer_raw": null,
@@ -1595,81 +1645,8 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q126279480",
-      "label_raw": "Concealed Vest Camera",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q127605195",
-      "label_raw": "AFA 39 aerial camera (Russia)",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20AFA%2039%20aerial%20camera%20with%20URAN%20lens%20-%2027%3B%202.5%20-%2010cm%3B%20used%20on%20MIG17F%3B%20MIG-19%3B%20MIG-21%3B%20Mil%20Mi-8%3B%20and%20others.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "AFA 39",
-        "AFA 39"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q130562349",
-      "label_raw": "Polaroid 35mm AF",
-      "manufacturer_raw": "Polaroid Corporation",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Polaroid%2035mm%20AF%20camera.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q130573397",
-      "label_raw": "Fujifilm X-M5",
-      "manufacturer_raw": "Fujifilm Corporation",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20X-M5%2018%20oct%202024a.jpg",
-      "release_date": "2024-11-01T00:00:00Z",
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q132525416",
-      "label_raw": "Q132525416",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q97365384",
-      "label_raw": "Akeley motion picture camera",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Patent%20for%20Akeley%20Motion%20Picture%20Camera%2C%201915.png",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q105973037",
-      "label_raw": "Fujifilm Instax Wide 300",
-      "manufacturer_raw": "Fujifilm Corporation",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/FujifilmInstaxWide300March52019.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q106317933",
-      "label_raw": "fish doorbell",
+      "qid": "Q125888712",
+      "label_raw": "Kodak instant camera",
       "manufacturer_raw": null,
       "image_url": null,
       "release_date": null,
@@ -1770,16 +1747,6 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q117477693",
-      "label_raw": "Canon EOS Rebel GII",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
       "qid": "Q118123447",
       "label_raw": "General Electric PE-350",
       "manufacturer_raw": "General Electric",
@@ -1832,16 +1799,6 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q124609089",
-      "label_raw": "Hasselblad 500 EL/M at Cité de l'Espace",
-      "manufacturer_raw": null,
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasselblad%20500%20EL-M%20at%20Cit%C3%A9%20de%20l%C2%B4Espace-IMG%201776.jpg",
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
       "qid": "Q124704808",
       "label_raw": "TOPDON TC001",
       "manufacturer_raw": null,
@@ -1849,28 +1806,6 @@
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q125888712",
-      "label_raw": "Kodak instant camera",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q126718557",
-      "label_raw": "PENTAX 17",
-      "manufacturer_raw": "Ricoh",
-      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PENTAX%2017%3B%20October%202024%20%2802%29.jpg",
-      "release_date": "2024-07-12T00:00:00Z",
-      "mount_raw": null,
-      "aliases_raw": [
-        "Pentax 17"
-      ]
     },
     {
       "_source": "wikidata",
@@ -1927,16 +1862,6 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q137910605",
-      "label_raw": "Polaroid 600 series",
-      "manufacturer_raw": null,
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": []
-    },
-    {
-      "_source": "wikidata",
       "qid": "Q139935617",
       "label_raw": "BUSHNELL BS368",
       "manufacturer_raw": "Bushnell Corporation",
@@ -1947,51 +1872,75 @@
     },
     {
       "_source": "wikidata",
-      "qid": "Q140010706",
-      "label_raw": "Panavision Millennium DXL",
-      "manufacturer_raw": "Panavision",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Millennium DXL",
-        "DXL"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q140010777",
-      "label_raw": "Panavision Millennium DXL2",
-      "manufacturer_raw": "Panavision",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Millennium DXL2",
-        "DXL2"
-      ]
-    },
-    {
-      "_source": "wikidata",
-      "qid": "Q140010820",
-      "label_raw": "Panavision Millennium DXL-M",
-      "manufacturer_raw": "Panavision",
-      "image_url": null,
-      "release_date": null,
-      "mount_raw": null,
-      "aliases_raw": [
-        "Millennium DXL-M",
-        "Millennium DXL M",
-        "DXL-M",
-        "DXL M"
-      ]
-    },
-    {
-      "_source": "wikidata",
       "qid": "Q140646615",
       "label_raw": "Bolyguard SG2060-K",
       "manufacturer_raw": null,
       "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Peuple-Loup-2018-04-kit-boly.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q126279480",
+      "label_raw": "Concealed Vest Camera",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q126718557",
+      "label_raw": "PENTAX 17",
+      "manufacturer_raw": "Ricoh",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/PENTAX%2017%3B%20October%202024%20%2802%29.jpg",
+      "release_date": "2024-07-12T00:00:00Z",
+      "mount_raw": null,
+      "aliases_raw": [
+        "Pentax 17"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q127605195",
+      "label_raw": "AFA 39 aerial camera (Russia)",
+      "manufacturer_raw": null,
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20AFA%2039%20aerial%20camera%20with%20URAN%20lens%20-%2027%3B%202.5%20-%2010cm%3B%20used%20on%20MIG17F%3B%20MIG-19%3B%20MIG-21%3B%20Mil%20Mi-8%3B%20and%20others.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "AFA 39",
+        "AFA 39"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q130562349",
+      "label_raw": "Polaroid 35mm AF",
+      "manufacturer_raw": "Polaroid Corporation",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Polaroid%2035mm%20AF%20camera.jpg",
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q130573397",
+      "label_raw": "Fujifilm X-M5",
+      "manufacturer_raw": "Fujifilm Corporation",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20X-M5%2018%20oct%202024a.jpg",
+      "release_date": "2024-11-01T00:00:00Z",
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q132525416",
+      "label_raw": "Q132525416",
+      "manufacturer_raw": null,
+      "image_url": null,
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
@@ -2061,6 +2010,16 @@
     },
     {
       "_source": "wikidata",
+      "qid": "Q137910605",
+      "label_raw": "Polaroid 600 series",
+      "manufacturer_raw": null,
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
       "qid": "Q138027782",
       "label_raw": "Hunting camera",
       "manufacturer_raw": null,
@@ -2068,6 +2027,47 @@
       "release_date": null,
       "mount_raw": null,
       "aliases_raw": []
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q140010706",
+      "label_raw": "Panavision Millennium DXL",
+      "manufacturer_raw": "Panavision",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Millennium DXL",
+        "DXL"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q140010777",
+      "label_raw": "Panavision Millennium DXL2",
+      "manufacturer_raw": "Panavision",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Millennium DXL2",
+        "DXL2"
+      ]
+    },
+    {
+      "_source": "wikidata",
+      "qid": "Q140010820",
+      "label_raw": "Panavision Millennium DXL-M",
+      "manufacturer_raw": "Panavision",
+      "image_url": null,
+      "release_date": null,
+      "mount_raw": null,
+      "aliases_raw": [
+        "Millennium DXL-M",
+        "Millennium DXL M",
+        "DXL-M",
+        "DXL M"
+      ]
     },
     {
       "_source": "wikidata",

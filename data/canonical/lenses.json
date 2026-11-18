@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:04:27Z",
+  "generated_at": "2026-11-18T11:55:48Z",
   "pipeline_version": "1.1",
   "entity_type": "lens",
   "quality_report": {
@@ -10,7 +10,7 @@
       "niedrig": 0
     },
     "avg_completeness": 0.999,
-    "records_missing_image": 671,
+    "records_missing_image": 679,
     "records_with_conflicts": 32,
     "records_single_source": 649
   },
@@ -1094,18 +1094,17 @@
       "weight_g": 700,
       "price_usd": 1299,
       "product_url": "https://www.usa.canon.com/shop/p/rf24-105mm-f4-l-is-usm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2018,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1121,18 +1120,17 @@
       "weight_g": 395,
       "price_usd": 459.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf24-105mm-f4-7-1-is-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2020,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1148,18 +1146,17 @@
       "weight_g": 750,
       "price_usd": 999.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf24-240mm-f4-6-3-is-usm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2019,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1175,18 +1172,17 @@
       "weight_g": 210,
       "price_usd": 349.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf24-50mm-f4-5-6-3-is-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2023,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1280,18 +1276,17 @@
       "weight_g": 1430,
       "price_usd": 3199.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf28-70mm-f2-l-usm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2018,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1307,18 +1302,17 @@
       "weight_g": 490,
       "price_usd": 1149.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf28-70mm-f2-8-is-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2024,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1334,18 +1328,17 @@
       "weight_g": 120,
       "price_usd": 299.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf28mm-f2-8-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2023,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1361,18 +1354,17 @@
       "weight_g": 555,
       "price_usd": 1549.0,
       "product_url": "https://www.usa.canon.com/shop/p/rf35mm-f1-4-l-vcm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2024,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1388,18 +1380,17 @@
       "weight_g": 305,
       "price_usd": 499.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf35mm-f1-8-macro-is-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Canon_RF_35mm_f-1.8_Macro_IS_STM_lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2018,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1441,18 +1432,17 @@
       "weight_g": 346,
       "price_usd": 429.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf45mm-f1-2-stm",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "image_license_hint": "CC BY-SA 4.0",
+      "image_url": null,
+      "image_license_hint": null,
       "release_date": 2025,
       "sources": [
-        "lens_db",
-        "wikimedia_commons"
+        "lens_db"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "bild_via_wikimedia_fallback",
+        "kein_bild",
         "nur_eine_quelle"
       ]
     },
@@ -1832,17 +1822,18 @@
       "weight_g": 500,
       "price_usd": 639.99,
       "product_url": "https://www.usa.canon.com/shop/p/rf85mm-f2-macro-is-stm",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2021,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
@@ -3522,17 +3513,18 @@
       "weight_g": 400,
       "price_usd": 399,
       "product_url": "https://www.venuslens.net/product/laowa-25mm-f-2-8-2-5-5x-ultra-macro-2/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2018,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },

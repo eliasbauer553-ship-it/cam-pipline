@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:02:35Z",
+  "generated_at": "2026-11-24T13:55:50Z",
   "pipeline_version": "1.1",
   "entity_type": "lens",
   "quality_report": {
@@ -10,7 +10,7 @@
       "niedrig": 0
     },
     "avg_completeness": 0.999,
-    "records_missing_image": 681,
+    "records_missing_image": 680,
     "records_with_conflicts": 32,
     "records_single_source": 649
   },
@@ -3850,17 +3850,18 @@
       "weight_g": 599,
       "price_usd": 749,
       "product_url": "https://www.venuslens.net/product/laowa-aksen-ultra-macro-apo/",
-      "image_url": null,
-      "image_license_hint": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Village_de_Lens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_license_hint": "CC BY-SA 4.0",
       "release_date": 2026,
       "sources": [
-        "lens_db"
+        "lens_db",
+        "wikimedia_commons"
       ],
       "match_confidence": 100.0,
       "completeness_score": 1.0,
       "quality_tier": "hoch",
       "quality_flags": [
-        "kein_bild",
+        "bild_via_wikimedia_fallback",
         "nur_eine_quelle"
       ]
     },
